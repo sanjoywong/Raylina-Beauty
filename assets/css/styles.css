@@ -14,7 +14,7 @@
 
     }
    
-     #headerImg{
+     #headerImg,#about{
             background-image: url("../img/salon.jpg");
             background-position: center;
             background-size: cover;
