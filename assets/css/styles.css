@@ -1,0 +1,55 @@
+
+@font-face{
+    font-family: "playfair";
+    src: url("../font/PlayfairDisplay-Regular.ttf");
+}
+*{ font-family:"playfair"}
+    body{
+        margin: 0;
+        background-color: violet;
+      
+    }
+    h1,h2,h3{
+        letter-spacing: 0.3rem;
+
+    }
+   
+     #headerImg{
+            background-image: url("../img/salon.jpg");
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 72vh;
+            display: flex;
+            align-items: flex-end;
+
+    
+}
+#headerImg>h1{
+    margin: 2rem;
+    color: #5f5658;
+    font-weight: 100;
+
+} 
+#about{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 2rem auto;
+}
+#about>div{
+    width: 48%;
+}
+#about img{
+    width: 100%;
+}
+#about h2,#about h3{
+    text-align: center;
+}
+#about h3{
+    font-size: 0.7rem;
+    margin-top: 2rem;
+}
+#about p:last-child{
+    color: #565D5F;
+}

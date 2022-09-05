@@ -1,0 +1,22 @@
+nav{ 
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+nav>div{
+    margin-left: 2rem;
+}
+#headerHome{
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 1rem;
+
+}
+#headerHome>li{
+list-style:  none;
+padding: 1rem;
+}
+
+
