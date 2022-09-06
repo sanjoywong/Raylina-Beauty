@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Réserver</title>
+    <link rel="stylesheet" href="../assets/css/menu.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/styles.css" />
+ 
+</head>
+<body>
+    <header>
+       <nav class="Nav">
+           <div> Raylina Beauty </div>
+           <ul id="headerHome">
+               <li><a href="../index.html">home</a></li>
+               <li><a href="beauty/about.html">About</a></li>
+               <li><a href="beauty/service.html">Service</a></li>
+               <li><a href="">Reservation</a></li>
+               <li class="dropdown">
+                 <a href="javascript:void(0)" class="dropbtn">Pages</a>
+                <div class="dropdown-content">
+                    <a href="http://">Alert</a>
+                    <a href="http://">Equip</a>
+                    <a href="http://">Prix</a>
+                </div>
+                </li>
+               <li><a href="">Login</a></li>
+           </ul>
+        </div>
+       </nav>
+    </header>
+    <div style="width: 100%;text-align: center;margin-top: 10rem;">
+    <h1>Les Choix de Jour pour RDV</h1>
+    <form name="myform"  method="post">
+        <label for="jour">Jour:</label><br>
+        <input type="date" id="jour" name="jour"><br>
+        <label for="temps">Temps:</label><br>
+        <input type="time" id="temps" name="temps"><br>
+        <p>choisir ton styliste:</p>
+        <div style="text-align:center ;">
+        <input type="radio" id="styliste1" name="styliste" value="styliste1">
+        <label for="styliste1">styliste1</label><br>
+        <input type="radio" id="styliste12" name="styliste" value="styliste12">
+        <label for="styliste12">styliste12</label><br>  
+        <input type="radio" id="styliste13" name="styliste" value="styliste13">
+        <label for="styliste13">styliste1</label><br><br>
+        </div>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+    <footer style="position:absolute;bottom: 0;width: 100%; text-align:center; height: 2.5rem;border-top: solid 2px #ddd;"><p>&copy;CEPPIC - 2022</p></footer>
+</body>
+</html>
