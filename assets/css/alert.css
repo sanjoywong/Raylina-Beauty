@@ -1,0 +1,14 @@
+.pad120{
+    width: 200px;
+    padding: 120px 0;
+    align-items: flex-start;
+}
+.section-title{
+    margin-bottom: 40px;
+}
+.mb15{
+    margin-bottom: 15px;
+}
+img{
+    vertical-align: middle;
+}
