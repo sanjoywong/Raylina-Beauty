@@ -105,3 +105,21 @@ ul {
 #about p:last-child{
     color: #565D5F;
 }
+#service-container{
+  display: flex;
+	justify-content: space-between;
+	width: 100%;
+	margin: 2rem;
+}
+
+.service-container h1{
+	margin: 4rem 0;
+	font-size: 2.5rem;
+	text-align: center;
+}
+
+
+
+
+
+
