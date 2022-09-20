@@ -7,14 +7,14 @@ nav{
 nav>div{
     margin-left: 2rem;
 }
-#headerHome{
+#headerSalon{
     display:flex ;
     justify-content: space-between;
     align-items: center;
     margin-right: 0rem;
 
 }
-#headerHome>li{
+#headerSalon>li{
 list-style:  none;
 padding: 1rem;
 }

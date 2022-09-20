@@ -92,17 +92,17 @@ ul {
 #about>div{
     width: 48%;
 }
-#about img{
+#salo img{
     width: 100%;
 }
-#about h2,#about h3{
+#salon h2,#about h3{
     text-align: center;
 }
-#about h3{
+#salo h3{
     font-size: 0.7rem;
     margin-top: 2rem;
 }
-#about p:last-child{
+#salon p:last-child{
     color: #565D5F;
 }
 #service-container{
