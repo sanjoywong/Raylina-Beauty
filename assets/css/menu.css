@@ -1,17 +1,19 @@
 nav{ 
     display:flex ;
     justify-content: space-between;
-    align-items: center;
+   
     
 }
 nav>div{
-    margin-left: 2rem;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
 }
 #headerHome{
     display:flex ;
     justify-content: space-between;
     align-items: center;
-    margin-right: 0rem;
+    
 
 }
 #headerHome>li{
