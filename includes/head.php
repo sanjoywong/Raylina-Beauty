@@ -7,7 +7,7 @@
     <title>Raylina Beauty</title>
     
 <?php
-    LoadCss();
+    loadCss(); 
 ?>
 </head>
 <body>

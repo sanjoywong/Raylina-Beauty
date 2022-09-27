@@ -1,19 +1,21 @@
 nav{ 
     display:flex ;
     justify-content: space-between;
-   
+    
+    font-size: larger;
     
 }
 nav>div{
     margin-top: 2%;
     margin-left: auto;
     margin-right: auto;
+    
 }
 #headerSalon{
     display:flex ;
     justify-content: space-between;
     align-items: center;
-    
+    column-gap: 30px;
 
 }
 #headerSalon>li{

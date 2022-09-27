@@ -6,7 +6,7 @@
     }
      
     inclusionIncFile('login'); */
-    inclusionIncFile('login');
+    inclusionIncFile('salon');
     ?>
 
 </main>
