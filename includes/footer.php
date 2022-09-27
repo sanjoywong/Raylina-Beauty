@@ -1,4 +1,9 @@
-ines (2 sloc)  15 Bytes
+<footer>
+    <p>&copy; <?php echo date("y");?>2022-Raylina-beauty corporation</p>
+
+</footer>
+</body>
+</html>
 
 </body>
 </html>

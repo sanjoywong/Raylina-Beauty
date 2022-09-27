@@ -1,35 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About</title>
-    <link rel="stylesheet" href="../assets/css/menu.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/styles.css" />
-    
- 
-</head>
-<body>
-    <header>
-        <nav class="Nav">
+<!-- <?php require 'header.php'; ?> -->
+
         
-            <div> Raylina Beauty </div>
-               <ul id="headerSalon">
-                   <li><a href="salon.html">Le Salon</a></li>
-                        <li><a href="soins.html">Soins</a></li>
-                        <li><a href="barbier.html">Coiffur</a></li>
-                        <li><a href="./barbier.html">Barbier</a></li>
-                        <li><a href="./produit.html">Produits</a></li>
-                        <li><a href="./tarifs.html">Tarifs</a></li>
-                        <li><a href="./bons-plan.html">Bons plan</a></li>
-                        <li><a href="./reservations.html">Reservation</a></li>
-                        <li><a href="./contact.html">contact</a></li>
-                        <li><a href="login.html">Login</a></li>
-               </ul>
-            </div>
-           </nav>
-    </header>
+     
  <main style="padding: 8rem;">
      <section id="salon">
          <div>
@@ -66,9 +38,4 @@
                      </p>
                   </div>
                   </div>
-                  </section>
-                  
-                  
-                  
-</body>
-</html>
+                  </section>        
