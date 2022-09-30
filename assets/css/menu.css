@@ -1,20 +1,24 @@
 nav{ 
     display:flex ;
     justify-content: space-between;
-    align-items: center;
+    
+    font-size: larger;
     
 }
 nav>div{
-    margin-left: 2rem;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
-#headerHome{
+#headerSalon{
     display:flex ;
     justify-content: space-between;
     align-items: center;
-    margin-right: 0rem;
+    column-gap: 30px;
 
 }
-#headerHome>li{
+#headerSalon>li{
 list-style:  none;
 padding: 1rem;
 }
