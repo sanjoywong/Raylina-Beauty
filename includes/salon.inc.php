@@ -2,7 +2,7 @@
  <main style="padding: 8rem;">
      <section id="salon">
          <div>
-             <img src="../assets/img/salon.jpg" alt="salon" >
+             <img src="./assets/img/salon.jpg" alt="salon" >
          </div>
              <div>
                  <h2>Salon Raylina Beauty</h2>
