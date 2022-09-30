@@ -1,6 +1,6 @@
 
 <?php
-    require_once './includes/nav.php';
+    require_once './header.php';
 ?>
 <main>
 <?php

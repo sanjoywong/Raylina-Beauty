@@ -2,10 +2,10 @@
 <header>
     <nav>
         <ul>
-                <li><a href="index.php?page=salon">Salon</a></li>
+                <li><a href="index.php?page=salon">Salon___t</a></li>
                 
                 <li><a href="soins.inc.php">Soins</a></li>
-                <li><a href="barbier.inc.php">Coiffur</a></li>
+                <li><a href="coiffure.inc.php">Coiffure</a></li>
                 <li><a href="./barbier.inc.php">Barbier</a></li>
                 <li><a href="./produit.inc.php">Produits</a></li>
                 <li><a href="./tarifs.inc.php">Tarifs</a></li>

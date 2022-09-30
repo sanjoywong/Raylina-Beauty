@@ -6,16 +6,16 @@ function inclusionIncFile($defaultPage){
     $page = $_GET['page'] ?? $defaultPage;
     $pageTest = './includes/' . $page .'.inc.php';
 
-   
+   var_dump($page);
 
-    if (in_array($pageTest,$files))
+    /* if (in_array($pageTest,$files))
     {
         require "./includes/$page.inc.php";
     }
     else 
     {
         require "./includes/$defaultPage.inc.php";
-    }  
+    }   */
 }
 
     ?>
