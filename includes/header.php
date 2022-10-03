@@ -3,16 +3,16 @@
         
             <div> Raylina Beauty </div>
                <ul id="headerSalon">
-                   <li><a hrefindex.php?page="salon">tttttt</a></li>
-                        <li><a href="soins.inc.php">Soins</a></li>
-                        <li><a href="coiffure.inc.php">coiffure</a></li>
-                        <li><a href="./barbier.inc.php">Barbier</a></li>
-                        <li><a href="./produit.inc.php">Produits</a></li>
-                        <li><a href="./tarifs.inc.php">Tarifs</a></li>
-                        <li><a href="./bons-plan.inc.php">Bons plan</a></li>
-                        <li><a href="./reservations.inc.php">Reservation</a></li>
-                        <li><a href="./contact.inc.php">contact</a></li>
-                        <li><a href="login.inc.php">Login</a></li>
+                        <li><a href=index.php?page=salon>Salon</a></li>
+                        <li><a href=index.php?page=soins>Soins</a></li>
+                        <li><a href=index.php?page=coiffure>Coiffure</a></li>
+                        <li><a href=index.php?page=barbier>Barbier</a></li>
+                        <li><a href=index.php?page=produits>Produits</a></li>
+                        <li><a href=index.php?page=tarifs>Tarifs</a></li>
+                        <li><a href=index.php?page=bonsplan>Bons plan</a></li>
+                        <li><a href=index.php?page=reservation>Reservation</a></li>
+                        <li><a href=index.php?page=contact>Contact</a></li>
+                        <li><a href=index.php?page=login>Login</a></li>
                </ul>
             </div>
            </nav>

@@ -8,7 +8,7 @@
              <img src="./assets/img/salon.jpg" alt="salon" >
          </div>
              <div>
-                 <h2>Salon hgvghvghvghvg Raylina Beauty</h2>
+                 <h2>Salon Raylina Beauty</h2>
                  <h3>Creer en 2019 salon de beaute ,cosmetique et soins</h3>
                  <p>Se faire beau ou belle est très important pour la confiance en soi. 
                      En effet lorsqu’on se sent beau, belle, nous sommes plus confiants et donc plus heureux.

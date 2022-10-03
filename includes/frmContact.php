@@ -1,4 +1,4 @@
-<form action="index.php?page=contat" method="post">
+ <form action="index.php?page=contat" method="post">
 <label for="name">Name:*</label><br> <input type="text" name="name" required><br><br>
 <label for="email">Email:*</label><br> <input type="text" name="email" required><br><br>
 <label for="subject">Subject:*</label><br> <input type="text" name="subject" required><br><br>
@@ -6,8 +6,8 @@
 <br>
 <input type="submit" value="Submit">
 <input type="hidden" name="frmContact" />
-</form>
-        <!-- </div>
+</form> 
+         </div>
         <br>
         <div class="location col-sm">
            <h5>Location</h5> <br>
@@ -53,16 +53,10 @@
                 </div>
             </div>
         </div>
-        <footer style="position:absolute;bottom: 0;width: 100%; text-align:center; height: 2.5rem;border-top: solid 2px #ddd;"><p>&copy;CEPPIC - 2022</p></footer>
-
+      
 
   
 
 
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-</body>
-
-</html> -->
+   

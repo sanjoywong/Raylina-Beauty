@@ -1,4 +1,4 @@
-<h1>Contact ___t</h1>
+<h1>Contact</h1>
 
 <?php
 
@@ -60,3 +60,4 @@ if (isset($_POST['frmcontact'])) {
 } else {
     $mail = "";
     include './includes/frmContact.php';
+}

@@ -1,4 +1,4 @@
-<form action="index.php?page=reservation" method="post">
+<form action="index.php?page=inscription" method="post">
     <div>
         <label for="nom">Nom :</label>
         <input type="text" id="nom" name="nom" value="<?=$nom?>" />
@@ -23,5 +23,5 @@
         <input type="reset" value="Effacer" />
         <input type="submit" value="Envoyer" />
     </div>
-    <input type="hidden" name="frmReservation" />
+    <input type="hidden" name="frmInscriptionj" />
 </form>
