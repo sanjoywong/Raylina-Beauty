@@ -31,7 +31,7 @@
                     Coupe de cheveux pour femmes
                     </td>
                     <td class="column2">
-                        $75-85
+                        25€50€
                     </td>
                 </tr>
                 <tr>
@@ -39,7 +39,7 @@
                     Coupe de cheveux pour femmes avec une seule couleur de processus
                     </td>
                     <td class="column2">
-                        $155-165
+                        45€-60€
                     </td>
                 </tr>
                 <tr>
@@ -47,7 +47,7 @@
                     Coupe de cheveux pour femmes avec une seule couleur et mèches
                     </td>
                     <td class="column2">
-                        $210-225
+                        70€-90€
                     </td>
                 </tr>
                 <tr>
@@ -55,7 +55,7 @@
                     Coupe de cheveux pour femmes avec reflets partiels
                     </td>
                     <td class="column2">
-                        $175-190
+                       60€-80€
                     </td>
                 </tr>
                 <tr>
@@ -63,14 +63,14 @@
                     Coupe de cheveux pour femmes avec mèches pleines
                     </td>
                     <td class="column2">
-                        $200-215
+                       50€-70€
                     </td>
                 </tr>
                 <tr>
                     <td class="column1">
                     Coupe de cheveux pour femmes avec balayage
                     <td class="column2">
-                        $235
+                        40€
                     </td>
                 </tr>
                 <tr>
@@ -84,7 +84,7 @@
                     Coupe de cheveux pour hommes
                     </td>
                     <td class="column2">
-                        $50-55
+                    10€-15€
                     </td>
                 </tr>
                 <tr>
@@ -92,134 +92,20 @@
                     Coupe de cheveux pour hommes avec une seule couleur de processus
                     </td>
                     <td class="column2">
-                        $125-130
+                        10€-15€
                     </td>
-               
-                <tr>
-                    <td class="column1">
-                    Coupe de cheveux Deva Curl
-                    </td>
-                    <td class="column2">
-                        $85-95
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                    Séance de style Deva Curl
-                    </td>
-                    <td class="column2">
-                        $50
-                    </td>
+               </tr>
                
                
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Deva Curl Haircut w/ Single Process Color & Highlights
-                    </td>
-                    <td class="column2">
-                        $220-235
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Deva Curl Haircut w/ Partial Foil Haircut
-                    </td>
-                    <td class="column2">
-                        $185-200
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Deva Curl Haircut w/ Full Foil Haircut
-                    </td>
-                    <td class="column2">
-                        $210-225
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Deva Curl Pintura Highlights
-                    </td>
-                    <td class="column2">
-                        $170
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                    </td>
-                    <td class="column2">
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Single Process Color
-                    </td>
-                    <td class="column2">
-                        $120
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Single Process Color & Highlights
-                    </td>
-                    <td class="column2">
-                        $175-180
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Partial Foil Highlights
-                    </td>
-                    <td class="column2">
-                        $140-145
-                    </td>
-
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Full Foil Highlights
-                    </td>
-                    <td class="column2">
-                        $165-170
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Balayage Highlights
-                    </td>
-                    <td class="column2">
-                        $190
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Blow-Dry
-                    </td>
-                    <td class="column2">
-                        $50
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Brazilian Blowout
-                    </td>
-                    <td class="column2">
-                        $260
-                    </td>
-                </tr>
-                <tr>
-                    <td class="column1">
-                        Corrective Color
-                    </td>
-                    <td class="column2">
-                        Consultation required
-                    </td>
-                </tr>
-
-            </table>
-            <p class="p1">Services include appropriate finish services (i.e. blow-dry, Deva set)</p>
-            <p class="p2">*Prices are subject to change without notice and can vary depending on length and thickness of hair.</p>
+                </table>
+            <p class="p1">Les services comprennent les services de finition appropriés (c.-à-d. brushing, ensemble Deva)</p>
+            <p class="p2">*Les prix sont sujets à changement sans préavis et peuvent varier selon la longueur et l'épaisseur des cheveux.</p>
+        </div>
+        <main style="padding: 5rem;">
+     <section id="salon">
+         <div>
+             <img src="./assets/img/166barbier.jpg" alt="coiffure" > 
+         
         </div>
 
     </div>
@@ -231,17 +117,18 @@
 <div class="container">
 <div class="row">
     <div class="footer-col footer-about col-sm">
-        <h5 class="footer-headding">Purple studio</h5>
-        <p class="footer-para">Purple Studio Hair Salon is located in the beautiful South End of Boston. Our team of professional, talented, and continuously educated stylists are committed to working with each and every client to achieve the look that is best suited
-            for them.
-            <br /><br />We strive for the highest quality of service, while maintaining a fun, friendly, non-pretentious environment.<br /> <br />Stop in and see us today, or make an appoinment!</p>
+        <h5 class="footer-headding">Raylina-Beauty</h5>
+        <p class="footer-para">Raylina beauty Salon est au 55 Rue de la République
+76000 Rouen France . Notre équipe de stylistes professionnels, talentueux et formés en permanence s'engage à travailler avec chaque client pour obtenir le look qui convient le mieux.
+pour eux.
+            <br /><br />Nous nous efforçons d'offrir la meilleure qualité de service, tout en maintenant un environnement amusant, convivial et sans prétention.<br /> <br />Venez nous voir dès aujourd'hui ou prenez rendez-vous !</p>
     </div>
     <div class="footer-col col-sm">
         <h5 class="footer-headding">Location</h5>
-        <p class="footer-para">667A Tremont Street <br /> Boston, MA 02118<br /><br /> P: 617.236.4449 <br /> E: pstudio@purpleboston.com</p>
+        <p class="footer-para">55 Rue de la République <br /> 76000 Rouen<br /><br /> P: 09 82 47 92 74 <br /></p>
 
         <h5 class="footer-headding">Hours</h5>
-        <p class="footer-para">Monday 12-8 | Tuesday 12-8 | Wednesday 10-8 Thursday 10-8 | Friday 10-8 | Saturday 9-6 Sunday 10-6</p>
+        <p class="footer-para">Lundi 10-19 | Mardi 10-19 | Mercredi 10-19 Jeudi 10-19 | Vendredi 10-19 | Samedi 10-19 </p>
 
     </div>
     <!-- <div class="footer-col col-sm">
@@ -250,7 +137,7 @@
         <a class="footer_social hvr-pop" href="#"><i class="fab fa-twitter-square"></i></a>
         <a class="footer_social hvr-pop" href="#"> <i class="fab fa-instagram"></i><br /></a><br /><br />
         <img class="footer-img" src="images/footr-logo.png" alt="footrIcon">
-        <span id="footer-brand">Purple Studio</span>
+        <span id="footer-brand">Raylina Beauty</span>
     </div> -->
 </div>
 </div>
