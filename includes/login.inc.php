@@ -26,7 +26,7 @@ if(isset($_POST["frmLogin"]))
     }
     else
     {
-        header('Location: index.php?page=choixEtablissement');
+        header('Location: index.php?page=Salon');
     }
 
 }
