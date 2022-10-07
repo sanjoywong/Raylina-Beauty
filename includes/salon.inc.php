@@ -1,4 +1,7 @@
-<?php require './includes/header.php'; ?>
+
+
+        
+     
  <main style="padding: 8rem;">
      <section id="salon">
          <div>
@@ -35,7 +38,4 @@
                      </p>
                   </div>
                   </div>
-                  </section>
-                  
-</body>
-</html>
+                  </section>        
