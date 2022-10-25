@@ -6,7 +6,7 @@
 *{ font-family:"playfair"}
     body{
         margin: 0;
-        background-color: violet;
+        background-color:royalblue;
       
     }
 
@@ -42,7 +42,7 @@ ul {
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #bb8989;
+    background-color: #898abb;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -98,7 +98,7 @@ ul {
 #salon h2,#about h3{
     text-align: center;
 }
-#salo h3{
+#salon h3{
     font-size: 0.7rem;
     margin-top: 2rem;
 }
@@ -117,6 +117,8 @@ ul {
 	font-size: 2.5rem;
 	text-align: center;
 }
+
+
 
 
 
