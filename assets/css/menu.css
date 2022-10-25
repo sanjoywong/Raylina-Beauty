@@ -1,17 +1,26 @@
 nav{ 
     display:flex ;
+
     justify-content: space-between;
     align-items: center;
-    
-}
-nav>div{
     margin-top: 1rem;
     margin-left: auto;
     margin-right: auto;
+    flex-direction: row;
     
 }
-nav>div>ul {
+nav>div{
+   width: 10%;
+    
+}
+.nom_beauty{
+  margin-left: 1rem;
+  width: 10%;
+
+}
+.headerSalon {
     display: inline-block;
+    flex-direction: row;
     list-style-type: none;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -22,11 +31,11 @@ nav>div>ul {
    /*  background-color: #333; */
 }
 
-nav>div>ul>li {
+.headerSalon>li {
     float:left;
   }
   
-  nav>div>ul> li a {
+  .headerSalon> li a {
     display: inline-block;
     font-size: 1.6rem;
     font-weight: bolder;
@@ -34,7 +43,7 @@ nav>div>ul>li {
     padding: 1rem;
     background-color: #e9c0c0;
   }
-  nav>div>ul> li a:hover{
+  .headerSalon> li a:hover{
     background-color: red;
   }
 #headerHome{
