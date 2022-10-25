@@ -1,0 +1,64 @@
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-salon order by id_salon DESC' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM a...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\admin.inc.php(7): Sql->lister('SELECT * FROM a...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-salon order by id_salon DESC' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM a...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\admin.inc.php(7): Sql->lister('SELECT * FROM a...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''admin-salon' order by id_salon DESC' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM '...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\admin.inc.php(7): Sql->lister('SELECT * FROM '...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''admin-salon' order by id_salon DESC' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM '...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\admin.inc.php(7): Sql->lister('SELECT * FROM '...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''admin-salon' order by id_salon DESC' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM '...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\admin.inc.php(7): Sql->lister('SELECT * FROM '...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''admin-salon' order by id_salon DESC' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM '...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\admin.inc.php(7): Sql->lister('SELECT * FROM '...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''admin-salon' order by id_salon DESC' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM '...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\admin.inc.php(7): Sql->lister('SELECT * FROM '...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''admin-salon' order by id_salon DESC' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM '...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\admin.inc.php(7): Sql->lister('SELECT * FROM '...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}

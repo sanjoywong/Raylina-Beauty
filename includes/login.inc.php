@@ -1,5 +1,9 @@
 <?php 
 
+$querySelect = new Sql();
+$requete = "SELECT * FROM `admin-salon` order by id_salon DESC;";
+$users = $querySelect->lister($requete);
+
 //header('Location: index.php?page=accueil');
 if(isset($_POST["frmLogin"]))
 {
@@ -25,7 +29,9 @@ if(isset($_POST["frmLogin"]))
         include './includes/frmLogin.php';
     }
     else
-    {
+    { $requete = "SELECT * FROM `admin-salon` where ;";
+        $users = $querySelect->lister($requete);
+        
         header('Location: index.php?page=Salon');
     }
 
