@@ -3,6 +3,7 @@
 //header('Location: index.php?page=accueil');
 if(isset($_POST["frmLogin"]))
 {
+    $password = htmlentities($_POST['nom utilisateur']);
     $password = htmlentities($_POST['password']);
 
     $erreurs = array();
@@ -35,5 +36,6 @@ else{
 /*     $mail = ""; */
     include './includes/frmLogin.php';
 }
+
 
 ?>
