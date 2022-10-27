@@ -1,6 +1,6 @@
 <header>
    <nav>
-         <div > Raylina Beauty </div>
+       
          <div>
          <ul id="headerHome">
             <li><a href=index.php?page=salon>Salon</a></li>

@@ -8,7 +8,7 @@ $users = $querySelect->lister($requete);
 if(isset($_POST["frmLogin"]))
 {
     $password = htmlentities($_POST['password']);
-
+    $username = htmlentities($_POST['username']);
     $erreurs = array();
 
     if(mb_strlen($password) === 0)
@@ -29,10 +29,13 @@ if(isset($_POST["frmLogin"]))
         include './includes/frmLogin.php';
     }
     else
-    { $requete = "SELECT * FROM `admin-salon` where ;";
+    { $requete = "SELECT * FROM `admin-salon` where nom=`$username` ;";
         $users = $querySelect->lister($requete);
-        
+        if(count($users)){
         header('Location: index.php?page=Salon');
+    }elseif{
+        password_verify($password,$users['password']);
+    }
     }
 
 }
