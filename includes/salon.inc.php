@@ -5,7 +5,7 @@
  <main style="padding: 8rem;">
      <section id="salon">
          <div>
-             <img src="./assets/img/salon.jpg" alt="salon" >
+             <img src="./assets/img/salon.jpg" alt="salon"style=" width:480px; height:480px" >
          </div>
              <div>
                  <h2>Salon Raylina Beauty</h2>

@@ -7,6 +7,7 @@ $users = $querySelect->lister($requete);
 //header('Location: index.php?page=accueil');
 if(isset($_POST["frmLogin"]))
 {
+    $password = htmlentities($_POST['nom utilisateur']);
     $password = htmlentities($_POST['password']);
     $username = htmlentities($_POST['username']);
     $erreurs = array();
@@ -49,5 +50,6 @@ else{
 /*     $mail = ""; */
     include './includes/frmLogin.php';
 }
+
 
 ?>
