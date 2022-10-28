@@ -1326,7 +1326,7 @@
       width: var(--block-width) !important
     }
   </style>
-  <link rel='stylesheet' id='wpo_min-header-0-css' href='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-6e96335f.min.css' media='all' />
+  <link rel='stylesheet' id='wpo_min-header-0-css' href='../assets/css/wpo-minify-header-6f813363.min.css' media='all' />
   <script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-jquery-core3.6.0.min.js' id='wpo_min-header-0-js'></script>
   <script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-jquery-migrate3.3.2.min.js' id='wpo_min-header-1-js'></script>
   <link rel="https://api.w.org/" href="https://sbarber.fr/wp-json/" />

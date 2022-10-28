@@ -1244,7 +1244,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 			opacity: var(--opacity, 0);
 			visibility: var(--visibility, hidden);
 			transform: var(--transform, translate3d(0, 15px, 0));
-			background: var(--top-button-background-color, var(--paletteColor3));
+			background: #673ab7/* var(--top-button-background-color, var(--paletteColor3)) */;
 			box-shadow: var(--box-shadow);
 			border-radius: var(--border-radius, 2px);
 			transition: opacity .3s ease, color .3s ease, background .3s ease, transform .3s ease, visibility .3s ease;
@@ -1345,7 +1345,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 			width: var(--block-width) !important
 		}
 	</style>
-	<link rel='stylesheet' id='wpo_min-header-0-css' href='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-6f813363.min.css' media='all' />
+	<link rel='stylesheet' id='wpo_min-header-0-css' href='../assets/css/wpo-minify-header-6f813363.min.css' media='all' />
 	<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-jquery-core3.6.0.min.js' id='wpo_min-header-0-js'></script>
 	<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-jquery-migrate3.3.2.min.js' id='wpo_min-header-1-js'></script>
 	<link rel="https://api.w.org/" href="https://sbarber.fr/wp-json/" />
@@ -1358,7 +1358,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 		});
 	</script>  -->
 	<noscript>
-		<link rel='stylesheet' href='https://sbarber.fr/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'>
+		<!-- <link rel='stylesheet' href='https://sbarber.fr/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'> -->
 	</noscript>
 	<style id="ct-main-styles-inline-css">
 		[data-header*="type-1"] {

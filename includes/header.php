@@ -1,9 +1,9 @@
 <link href="https://fonts.googleapis.com/css?family=Arvo&display=swap" rel="stylesheet">
 <header>
-        <nav role="navigation" class="primary-navigation" >
+        <nav role="navigation" class="primary-navigation">
         
-          <!--   <div> Raylina Beauty </div> -->
-               <ul>
+           <!--  <div> Raylina Beauty </div> -->
+               <ul >
                         <li><a href=index.php?page=salon>SALON</a></li>
                         <!-- <li><a href=index.php?page=soins>SOINS</a></li> -->
                         <li><a href=index.php?page=prestation-femme>PRESTATIONS FEMME</a></li>
@@ -14,6 +14,6 @@
                         <li><a href=index.php?page=contact>CONTACT</a></li>
                         <li><a href=index.php?page=login>LOGIN</a></li>
                </ul>
-        <!--     </div> -->
-           </nav>
+<!--             </div>
+ -->           </nav>
     </header>
