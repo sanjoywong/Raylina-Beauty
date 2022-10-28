@@ -199,7 +199,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 	</script>
 	<style id='global-styles-inline-css'>
 		body {
-			--wp--preset--color--black: #000000;
+			/* --wp--preset--color--black: #000000;
 			--wp--preset--color--cyan-bluish-gray: #abb8c3;
 			--wp--preset--color--white: #ffffff;
 			--wp--preset--color--pale-pink: #f78da7;
@@ -213,7 +213,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 			--wp--preset--color--vivid-purple: #9b51e0;
 			--wp--preset--color--palette-color-1: var(--paletteColor1, #EECE2E);
 			--wp--preset--color--palette-color-2: var(--paletteColor2, #E39587);
-			--wp--preset--color--palette-color-3: var(--paletteColor3, #171717);
+			--wp--preset--color--palette-color-3: var(--paletteColor3, #673ab7);
 			--wp--preset--color--palette-color-4: var(--paletteColor4, rgba(237, 205, 45, 0.14));
 			--wp--preset--color--palette-color-5: var(--paletteColor5, #e1e8ed);
 			--wp--preset--color--palette-color-6: var(--paletteColor6, #f2f5f7);
@@ -287,9 +287,9 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 			--wp--preset--font-size--medium: 20px;
 			--wp--preset--font-size--large: 36px;
 			--wp--preset--font-size--x-large: 42px;
-		}
+		} 
 
-		.has-black-color {
+		/* .has-black-color {
 			color: var(--wp--preset--color--black) !important;
 		}
 
@@ -496,7 +496,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 		.has-x-large-font-size {
 			font-size: var(--wp--preset--font-size--x-large) !important;
 		}
-	</style>
+	</style> */
 	<style class="optimize_css_2" type="text/css" media="all">
 		.swpm-margin-10 {
 			margin: 10px
@@ -1352,11 +1352,11 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 	<link rel="alternate" type="application/json" href="https://sbarber.fr/wp-json/wp/v2/pages/2039" />
 	<link rel="alternate" type="application/json+oembed" href="https://sbarber.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsbarber.fr%2Fprestations-homme" />
 	<link rel="alternate" type="text/xml+oembed" href="https://sbarber.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsbarber.fr%2Fprestations-homme&#038;format=xml" />
-	 <script type="text/javascript">
+	 <!-- <script type="text/javascript">
 		jQuery(document).ready(function($) {
 			$('#respond').html('<div class="swpm-login-to-comment-msg">Veuillez vous connecter pour laisser un commentaire.</div>');
 		});
-	</script> 
+	</script>  -->
 	<noscript>
 		<link rel='stylesheet' href='https://sbarber.fr/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'>
 	</noscript>
