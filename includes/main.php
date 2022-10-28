@@ -1,7 +1,7 @@
 
 <?php
   
-  require_once './includes/header1.php';
+  require_once './includes/header.php';
 ?>
 <main>
 <?php
