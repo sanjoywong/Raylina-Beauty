@@ -2,8 +2,8 @@
 {
     private $serverName = "localhost";
     private $userName = "root";
-    private $userPassword = "";
-    private $database = "dbSALON";
+    private $userPassword = "Ceppic";
+    private $database = "salon";
     private $connexion;
     
     public function __construct()

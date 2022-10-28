@@ -1,4 +1,4 @@
-<div id="container">
+<div  id="container">
     <!-- zone de connexion -->
     
     <form action="index.php?page=login" method="POST">

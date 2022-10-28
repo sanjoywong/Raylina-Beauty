@@ -7,7 +7,7 @@
         <a class="footer_social hvr-pop" href="https://www.instagram.com"> <i class="fab fa-instagram"></i><br /></a><br /><br />
        </div>
 </div>
- <p>&copy; <?php echo date("y");?>2022-Raylina-beauty corporation</p>
+ <p>&copy; <?php echo date("Y");?> Raylina Beauty </p>
 
 </footer>
 

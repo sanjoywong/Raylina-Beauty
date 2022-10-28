@@ -6,9 +6,13 @@ var_dump($requete);
 $querySelect = new Sql();
 $users = $querySelect->lister($requete);
 
-// dump($users);
+//dump($users);
 ?>
-<table class="list-users">
+<div style="margin:0 auto;">
+
+<h1 align="center">Admim</h1>
+
+<table class="list-users" style="margin:0 auto;font-size:21px">
     <thead>
         <th>Id</th>
         <th>Nom</th>
@@ -20,6 +24,7 @@ $users = $querySelect->lister($requete);
         <th>telephone</th>
     </thead>
     <tbody>
+        
         <?php
         foreach ($users as $user) {
         ?>
@@ -28,7 +33,6 @@ $users = $querySelect->lister($requete);
                 <td><?= $user['nom'] ?></td>
                 <td><?= $user['contact'] ?></td>
                 <td><?= $user['email'] ?></td>
-                <td><?= $user['site'] ?></td>
                 <td><?= $user['site'] ?></td>
                 <td><?= $user['profile'] ?></td>
                 <td><?= $user['telephone'] ?></td>
@@ -41,3 +45,4 @@ $users = $querySelect->lister($requete);
 
     </tbody>
 </table>
+</div>
