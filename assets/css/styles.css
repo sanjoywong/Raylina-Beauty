@@ -15,14 +15,59 @@ h2,
 h3 {
   letter-spacing: 0.3rem;
 }
+*{ font-family:"playfair"}
+    body{
+        margin: 0;
+        background-color:royalblue;
+      
+    }
 
-#headerImg,
-#about {
-  background-image: url("../img/salon.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 72vh;
+
+    h1,h2,h3{
+        letter-spacing: 0.3rem;
+
+    }
+   
+     #headerImg,#about{
+            background-image: url("../img/salon.jpg");
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 72vh;
+            display: flex;
+            align-items: flex-end;
+
+    
+}
+#headerImg>h1{
+    margin: 2rem;
+    color: #5f5658;
+    font-weight: 100;
+
+} 
+#about{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 2rem auto;
+}
+#about>div{
+    width: 48%;
+}
+#salo img{
+    width: 100%;
+}
+#salon h2,#about h3{
+    text-align: center;
+}
+#salon h3{
+    font-size: 0.7rem;
+    margin-top: 2rem;
+}
+#salon p:last-child{
+    color: #565D5F;
+}
+#service-container{
   display: flex;
   align-items: flex-end;
 }
@@ -80,7 +125,7 @@ td {
     justify-content: center;
 }
 
-p {
-  /* Center horizontally*/
-  text-align: center;
-}
+
+
+
+

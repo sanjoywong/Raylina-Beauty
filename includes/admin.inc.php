@@ -1,7 +1,8 @@
+<h1>admim-salon</h1>
 <?php
 
-$requete = "SELECT * FROM `admin-salon` order by id_salon DESC;";
-
+$requete = 'SELECT * FROM `admin-salon`';
+var_dump($requete);
 $querySelect = new Sql();
 $users = $querySelect->lister($requete);
 
@@ -17,8 +18,10 @@ $users = $querySelect->lister($requete);
         <th>Nom</th>
         <th>contact</th>
         <th>Email</th>
-        <th></th>
-        <th></th>
+        <th>site</th>
+        
+        <th>profile</th>
+        <th>telephone</th>
     </thead>
     <tbody>
         
@@ -26,12 +29,15 @@ $users = $querySelect->lister($requete);
         foreach ($users as $user) {
         ?>
             <tr>
-                <td><?= $user['id_salon'] ?></td>
+    
                 <td><?= $user['nom'] ?></td>
                 <td><?= $user['contact'] ?></td>
                 <td><?= $user['email'] ?></td>
-                <td><a href="index.php?page=edit&id=<?= $user['id_salon'] ?>" class="btn">Editer</a></td>
-                <td><a href="index.php?page=supprime&id=<?= $user['id_salon'] ?>" class="btn btn-supp">Supprimer</a></td>
+                <td><?= $user['site'] ?></td>
+                <td><?= $user['profile'] ?></td>
+                <td><?= $user['telephone'] ?></td>
+                <td><a href="index.php?page=edit&id=<?= $user['nom'] ?>" class="btn">Editer</a></td>
+                <td><a href="index.php?page=supprime&id=<?= $user['nom'] ?>" class="btn btn-supp">Supprimer</a></td>
             </tr>
         <?php
         }
