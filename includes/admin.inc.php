@@ -1,14 +1,17 @@
-<h1>Admim</h1>
 <?php
 
-$requete = 'SELECT * FROM admin-salon order by id_salon DESC';
+$requete = "SELECT * FROM `admin-salon` order by id_salon DESC;";
 
 $querySelect = new Sql();
 $users = $querySelect->lister($requete);
 
-// dump($users);
+//dump($users);
 ?>
-<table class="list-users">
+<div style="margin:0 auto;">
+
+<h1 align="center">Admim</h1>
+
+<table class="list-users" style="margin:0 auto;font-size:21px">
     <thead>
         <th>Id</th>
         <th>Nom</th>
@@ -18,6 +21,7 @@ $users = $querySelect->lister($requete);
         <th></th>
     </thead>
     <tbody>
+        
         <?php
         foreach ($users as $user) {
         ?>
@@ -35,3 +39,4 @@ $users = $querySelect->lister($requete);
 
     </tbody>
 </table>
+</div>
