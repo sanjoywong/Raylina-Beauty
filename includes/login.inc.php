@@ -32,9 +32,14 @@ if(isset($_POST["frmLogin"]))
     { $requete = "SELECT * FROM `admin-salon` where nom=`$username` ;";
         $users = $querySelect->lister($requete);
         if(count($users)){
-        header('Location: index.php?page=Salon');
-    }elseif{
-        password_verify($password,$users['password']);
+           if (password_verify($password,$users['password'])) {
+               
+               echo "Bienvenue à Raylina Beauty !";
+               header('Location: index.php?page=Salon');
+           }
+    }else{
+        echo "Ton identifiant et mot de passe ne sont pas accord !";
+        header('Location: index.php?page=login');
     }
     }
 
