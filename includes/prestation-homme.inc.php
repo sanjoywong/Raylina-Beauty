@@ -1,32 +1,3 @@
-
-    <!--  
-     <h1>barbier</h1>
-
-         <div>
-            
-          
-           
-
-            <img  src="./assets/img/enfant.jpg" alt="coiffure"style=" width:480px; height:480px" >
-             <img src="./assets/img/enfantb8.jpg" alt="coiffure"style=" width:480px; height:480px" >
-             <h2>TOUT SAVOIR SUR LA PRESTATION ENFANT</h2>
-             <p>
-Vos enfants ont aussi le droit à une coupe bien faite.
-Le salon raylina beauty est au petit soin avec eux et leur proposent la coiffure dont ils ont envie.
-La prestation enfant peut être un moment stressant pour l’enfant, mais il suffit de lui présenter cela comme un jeu pour qu’il soit tout aussi ravi que vous à la sortie.
-
-<h2>Quel est l’âge idéal pour aller chez le coiffeur?</h2>
-Il n’y a pas d’âge idéal pour aller chez le coiffeur. 
- De deux mois à deux ans, le moment idéal pour emmener votre enfant chez le coiffeur, c’est quand vous constatez que ses cheveux commencent à le gêner parce qu’ils viennent devant ses yeux.
-Vous pouvez également décider d’aller chez le coiffeur avec votre enfant si ses cheveux deviennent trop longs au niveau de la nuque.
-C’est donc le moment de rééquilibrer l’ensemble de sa coiffure, pour la rendre plus uniforme. N’hésitez pas à choisir le moment idéal pour prendre rendez-vous pour votre enfant, surtout s’il est bébé.
-Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son repas, ce qui rendrait le moment compliqué pour votre enfant qui réclamera son moment de sommeil ou son biberon.</p>
-             <img src="./assets/img/barbie.jpg" alt="coiffure"style=" width:480px; height:480px" >
-             <img src="./assets/img/coupebarbe.jpg" alt="coiffure"style=" width:480px; height:480px" >
-</div> -->
-             
-
-
 <!doctype html>
 <html lang="fr-FR" prefix="og: https://ogp.me/ns#">
 
@@ -197,7 +168,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 			}, document.getElementsByTagName("head")[0].appendChild(wpo_min0851428a);
 		}
 	</script>
-	<style id='global-styles-inline-css'>
+<!-- 	<style id='global-styles-inline-css'>
 		body {
 			--wp--preset--color--black: #000000;
 			--wp--preset--color--cyan-bluish-gray: #abb8c3;
@@ -496,7 +467,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 		.has-x-large-font-size {
 			font-size: var(--wp--preset--font-size--x-large) !important;
 		}
-	</style>
+	</style> -->
 	<style class="optimize_css_2" type="text/css" media="all">
 		.swpm-margin-10 {
 			margin: 10px
@@ -1621,7 +1592,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 									<div data-items="primary">
 										<div class="site-branding" data-id="logo" itemscope="itemscope" itemtype="https://schema.org/Organization">
 
-											<a href="https://sbarber.fr/" class="site-logo-container" rel="home"><img width="512" height=auto src="./assets/img/salon.jpg" class="default-logo" alt="La Maison by S.Barber" /></a>
+											<a href="#" class="site-logo-container" rel="home"><img width="512" height=auto src="./assets/img/salon.jpg" class="default-logo" alt="La Maison by S.Barber" /></a>
 										</div>
 
 									</div>
@@ -1632,7 +1603,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 											</svg></a>
 										<button data-toggle-panel="#offcanvas" class="ct-header-trigger ct-toggle " data-design="simple" data-label="right" aria-label="Ouvrir le menu hors-champ" data-id="trigger">
 
-											<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Menu</span>
+											<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Menu dfsgdsfgdgfdgfdgfdgdfgdsfgdfg</span>
 
 											<svg class="ct-icon" width="18" height="14" viewBox="0 0 18 14" aria-hidden="true" data-type="type-1">
 
@@ -2773,7 +2744,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 		</footer> -->
 	</div>
 
-	<script>
+ 	<script>
 		requestAnimationFrame(() => document.body.classList.add("stk--anim-init"))
 	</script>
 	<style>
@@ -2904,5 +2875,4 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 
 </html>
 
-<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modi
              
