@@ -1,30 +1,5 @@
 
-    <!--  
-     <h1>barbier</h1>
-
-         <div>
-            
-          
-           
-
-            <img  src="./assets/img/enfant.jpg" alt="coiffure"style=" width:480px; height:480px" >
-             <img src="./assets/img/enfantb8.jpg" alt="coiffure"style=" width:480px; height:480px" >
-             <h2>TOUT SAVOIR SUR LA PRESTATION ENFANT</h2>
-             <p>
-Vos enfants ont aussi le droit à une coupe bien faite.
-Le salon raylina beauty est au petit soin avec eux et leur proposent la coiffure dont ils ont envie.
-La prestation enfant peut être un moment stressant pour l’enfant, mais il suffit de lui présenter cela comme un jeu pour qu’il soit tout aussi ravi que vous à la sortie.
-
-<h2>Quel est l’âge idéal pour aller chez le coiffeur?</h2>
-Il n’y a pas d’âge idéal pour aller chez le coiffeur. 
- De deux mois à deux ans, le moment idéal pour emmener votre enfant chez le coiffeur, c’est quand vous constatez que ses cheveux commencent à le gêner parce qu’ils viennent devant ses yeux.
-Vous pouvez également décider d’aller chez le coiffeur avec votre enfant si ses cheveux deviennent trop longs au niveau de la nuque.
-C’est donc le moment de rééquilibrer l’ensemble de sa coiffure, pour la rendre plus uniforme. N’hésitez pas à choisir le moment idéal pour prendre rendez-vous pour votre enfant, surtout s’il est bébé.
-Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son repas, ce qui rendrait le moment compliqué pour votre enfant qui réclamera son moment de sommeil ou son biberon.</p>
-             <img src="./assets/img/barbie.jpg" alt="coiffure"style=" width:480px; height:480px" >
-             <img src="./assets/img/coupebarbe.jpg" alt="coiffure"style=" width:480px; height:480px" >
-</div> -->
-             
+    
 
 <!doctype html>
 <html lang="fr-FR" prefix="og: https://ogp.me/ns#">
@@ -108,13 +83,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<svg class="ct-icon" width="12" height="12" viewBox="0 0 15 15"><path d="M1 15a1 1 0 01-.71-.29 1 1 0 010-1.41l5.8-5.8-5.8-5.8A1 1 0 011.7.29l5.8 5.8 5.8-5.8a1 1 0 011.41 1.41l-5.8 5.8 5.8 5.8a1 1 0 01-1.41 1.41l-5.8-5.8-5.8 5.8A1 1 0 011 15z"/></svg>
 			</button>
 		</div>
-<!-- 		<div class="ct-panel-content" data-device="desktop" ></div><div class="ct-panel-content" data-device="mobile" >
-<nav 
-	class="mobile-menu" 
-	data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" 	aria-label="Menu hors-champ">
-	<ul id="menu-principal-i-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2052"><a href="https://sbarber.fr/prestations-femme" class="ct-menu-link">Prestations Femme</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2039 current_page_item menu-item-2053"><a href="https://sbarber.fr/prestations-homme" aria-current="page" class="ct-menu-link">Prestations Homme</a></li>
-</ul></nav> -->
+
 
 
 <div
@@ -187,52 +156,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</div>
 <div id="main-container">
 	<header id="header" class="ct-header" data-id="type-1" itemscope="" itemtype="https://schema.org/WPHeader" ><div data-device="desktop" data-transparent="" ><div class="ct-sticky-container"><div data-sticky="shrink"><div data-row="middle" data-column-set="2" data-transparent-row="yes" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
-<!-- <div	class="site-branding"
-	data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" >
-
-			<a href="index.php?page=salon" class="site-logo-container" rel="home"><img width="512" height="512" src="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white.png" class="default-logo" alt="La Maison by S.Barber" /></a>	
-	</div> -->
-
-<!-- </div></div><div data-column="end" data-placements="1" ><div data-items="primary" ><a data-id="account" class="ct-header-account" data-state="out" data-label="left" href="https://sbarber.fr/profil/connexion" aria-label="Mon compte" ><span class="ct-label">Mon compte</span><svg class="ct-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15"><path d="M7.5,0C3.4,0,0,3.4,0,7.5S3.4,15,7.5,15S15,11.6,15,7.5S11.6,0,7.5,0z M11.6,11.9c-0.5-0.6-1.5-1-2.7-1.3c0,0-0.6-0.2-0.4-0.7c0.6-0.6,0.7-1.1,0.7-1.2c0,0,0.6-0.5,0.6-1.1C10,7,9.8,6.9,9.8,6.9c0.2-0.7,0.3-3.3-1.4-3C8.1,3.4,6.4,3,5.7,4.4C5.3,5.1,5.1,6.2,5.5,6.9c0,0-0.1-0.1-0.2,0.3c0,0.4,0.2,0.9,0.4,1.1c0.1,0.1,0.2,0.2,0.3,0.2c0,0,0.1,0.6,0.6,1.2c0.1,0.6-0.4,0.8-0.4,0.8c-1.2,0.2-2.3,0.7-2.7,1.4c-1.2-1.1-1.9-2.6-1.9-4.4c0-3.3,2.7-6,6-6s6,2.7,6,6C13.5,9.2,12.8,10.8,11.6,11.9z"/></svg></a> -->
-<!-- <nav
-	id="header-menu-1"
-	class="header-menu-1"
-	data-id="menu" data-interaction="hover" 	data-menu="type-1"
-	data-dropdown="type-1:simple"		data-responsive="no"	itemscope="" itemtype="https://schema.org/SiteNavigationElement" 	aria-label="Menu d’en-tête">
-
-	<ul id="menu-principal-i" class="menu"><li id="menu-item-2052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2052"><a href="https://sbarber.fr/prestations-femme" class="ct-menu-link">Prestations Femme</a></li>
-<li id="menu-item-2053" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2039 current_page_item menu-item-2053"><a href="https://sbarber.fr/prestations-homme" aria-current="page" class="ct-menu-link">Prestations Homme</a></li>
-</ul></nav> -->
 
 </div></div></div></div></div></div></div><div data-device="mobile" data-transparent="" ><div class="ct-sticky-container"><div data-sticky="shrink"><div data-row="middle" data-column-set="2" data-transparent-row="yes" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
-<!-- <div	class="site-branding"
-	 data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" >  -->
 
-			<!-- <a href="https://sbarber.fr/" class="site-logo-container" rel="home"><img width="512" height="512" src="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white.png" class="default-logo" alt="La Maison by S.Barber" /></a> -->	
-	</div>
 
-</div></div><div data-column="end" data-placements="1" ><div data-items="primary" ><a data-id="account" class="ct-header-account" data-state="out" data-label="left" href="https://sbarber.fr/profil/connexion" aria-label="Mon compte" ><span class="ct-label">Mon compte</span><svg class="ct-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15"><path d="M7.5,0C3.4,0,0,3.4,0,7.5S3.4,15,7.5,15S15,11.6,15,7.5S11.6,0,7.5,0z M11.6,11.9c-0.5-0.6-1.5-1-2.7-1.3c0,0-0.6-0.2-0.4-0.7c0.6-0.6,0.7-1.1,0.7-1.2c0,0,0.6-0.5,0.6-1.1C10,7,9.8,6.9,9.8,6.9c0.2-0.7,0.3-3.3-1.4-3C8.1,3.4,6.4,3,5.7,4.4C5.3,5.1,5.1,6.2,5.5,6.9c0,0-0.1-0.1-0.2,0.3c0,0.4,0.2,0.9,0.4,1.1c0.1,0.1,0.2,0.2,0.3,0.2c0,0,0.1,0.6,0.6,1.2c0.1,0.6-0.4,0.8-0.4,0.8c-1.2,0.2-2.3,0.7-2.7,1.4c-1.2-1.1-1.9-2.6-1.9-4.4c0-3.3,2.7-6,6-6s6,2.7,6,6C13.5,9.2,12.8,10.8,11.6,11.9z"/></svg></a>
-<button
-	data-toggle-panel="#offcanvas"
-	class="ct-header-trigger ct-toggle "
-	data-design="simple"
-	data-label="right"
-	aria-label="Ouvrir le menu hors-champ"
-	data-id="trigger" >
 
-	<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Menu</span>
-
-	<svg
-		class="ct-icon"
-		width="18" height="14" viewBox="0 0 18 14"
-		aria-hidden="true"
-		data-type="type-1">
-
-		<rect y="0.00" width="18" height="1.7" rx="1"/>
-		<rect y="6.15" width="18" height="1.7" rx="1"/>
-		<rect y="12.3" width="18" height="1.7" rx="1"/>
-	</svg>
-</button>
 </div></div></div></div></div></div></div></header>
 	<main id="main" class="site-main hfeed" >
 
@@ -243,7 +171,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	
 			<header class="entry-header ct-container-narrow">
 			<h1 class="page-title" title="Prestations Homme" itemprop="headline" >Prestations Homme</h1>
-			<nav class="ct-breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList" ><span class="first-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" ><meta itemprop="position" content="1"><a href="index.php?page=salon" itemprop="item" ><span itemprop="name" ><Salon</s></span></a><meta itemprop="url" content="https://sbarber.fr/"/><svg class="separator" width="8" height="8" viewBox="0 0 8 8">
+			<nav class="ct-breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList" ><span class="first-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" ><meta itemprop="position" content="1"><a href="index.php?page=salon" itemprop="item" ><span itemprop="name" >Salon</s></span></a><meta itemprop="url" content="https://sbarber.fr/"/><svg class="separator" width="8" height="8" viewBox="0 0 8 8">
 				<polygon points="2.5,0 6.9,4 2.5,8 "/>
 			</svg></span><span class="last-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" ><meta itemprop="position" content="2"><span itemprop="name" >Prestations Homme</span><meta itemprop="url" content="https://sbarber.fr/prestations-homme"/></span>			</nav>
 
@@ -544,8 +472,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rest_menu__outer-wrap uagb-block-0241a99e"><div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rm__content"><div class="uagb-rm__text-wrap"><div class="uagb-rm-details"><div class="uagb-rm__title-wrap"><h4 class="uagb-rm__title">masque supplémentaire</h4><div class="uagb-rest-menu-text-wrap"><div class="uagb-rm__desc"></div></div></div><div class="uagb-rm__price-wrap"><span class="uagb-rm__price">+ 8€</span></div></div></div></div><div class="uagb-rm__separator-parent"><div class="uagb-rm__separator"></div></div></div></div></div>
 </div>
-</div></div>
-		</div>
+</div>
+</div>
+		
+</div>
 
 		
 		
@@ -558,37 +488,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			</div>
 
 	</main>
-<!-- 
-	<footer id="footer" class="ct-footer" data-id="type-1" itemscope="" itemtype="https://schema.org/WPFooter" ><div data-row="middle" ><div class="ct-container" ><div data-column="ghost"></div><div data-column="logo" >
-<div	class="site-branding"
-	data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" > -->
 
-			<!-- <a href="https://sbarber.fr/" class="site-logo-container" rel="home"><img width="512" height="512" src="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white.png" class="default-logo" alt="La Maison by S.Barber" /></a>	
-	</div> -->
-<!-- 
-</div><div data-column="menu" >
-<nav
-	id="footer-menu"
-	class="footer-menu-inline "
-	data-id="menu" 		itemscope="" itemtype="https://schema.org/SiteNavigationElement" 	aria-label="Menu du pied de page">
-
-	<ul id="menu-footer" class="menu"><li id="menu-item-2378" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2039 current_page_item menu-item-2378"><a href="https://sbarber.fr/prestations-homme" aria-current="page" class="ct-menu-link">Prestations Homme</a></li>
-<li id="menu-item-2379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2379"><a href="https://sbarber.fr/prestations-femme" class="ct-menu-link">Prestations Femme</a></li>
-<li id="menu-item-2370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2370"><a href="https://sbarber.fr/connexion/profil" class="ct-menu-link">Mon compte</a></li>
-<li id="menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2372"><a href="https://sbarber.fr/contact-2" class="ct-menu-link">Contact</a></li>
-<li id="menu-item-2507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2507"><a href="https://sbarber.fr/blog" class="ct-menu-link">Blog</a></li>
-<li id="menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2371"><a href="https://sbarber.fr/mentions" class="ct-menu-link">Mentions légales</a></li>
-</ul></nav>
-</div></div></div><div data-row="bottom" ><div class="ct-container" data-columns-divider="md:sm" ><div data-column="copyright" >
-<div -->
-	<!-- class="ct-footer-copyright"
-	data-id="copyright" > -->
-<!-- 
-	<p>Copyright © 2022 Raylina beauty- <a href="https://ihmb.fr" target="_blank" rel="noopener">ihmb.fr</a></p></div>
-</div></div></div></footer> -->
-<!-- 
-	
- -->
 
 <script>requestAnimationFrame(() => document.body.classList.add( "stk--anim-init" ))</script><style>.wp-container-1 {display: flex;gap: 0.5em;flex-wrap: wrap;align-items: center;justify-content: center;}.wp-container-1 > * { margin: 0; }</style>
 <style>.wp-container-2 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-2 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-2 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
@@ -605,90 +505,9 @@ var ct_localizations = {"ajax_url":"https:\/\/sbarber.fr\/wp-admin\/admin-ajax.p
 
 </body>
 </html>
-<!-- 
-		<footer id="footer" class="ct-footer" data-id="type-1" itemscope="" itemtype="https://schema.org/WPFooter">
-			<div data-row="middle">
-				<div class="ct-container">
-					<div data-column="ghost"></div>
-					<div data-column="logo">
-						<div class="site-branding" data-id="logo" itemscope="itemscope" itemtype="https://schema.org/Organization">
 
-							<a href="https://sbarber.fr/" class="site-logo-container" rel="home"><img width="512" height="512" src="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white.png" class="default-logo" alt="La Maison by S.Barber" /></a>
-						</div>
 
-					</div>
-					<div data-column="menu">
-						<nav id="footer-menu" class="footer-menu-inline " data-id="menu" itemscope="" itemtype="https://schema.org/SiteNavigationElement" aria-label="Menu du pied de page">
-
-							<ul id="menu-footer" class="menu">
-								<li id="menu-item-2378" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2039 current_page_item menu-item-2378"><a href="https://sbarber.fr/prestations-homme" aria-current="page" class="ct-menu-link">Prestations Homme</a></li>
-								<li id="menu-item-2379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2379"><a href="https://sbarber.fr/prestations-femme" class="ct-menu-link">Prestations Femme</a></li>
-								<li id="menu-item-2370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2370"><a href="https://sbarber.fr/connexion/profil" class="ct-menu-link">Mon compte</a></li> -->
-						<!-- <	<li id="menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2372"><a href="https://sbarber.fr/contact-2" class="ct-menu-link">Contact</a></li>
-								 <li id="menu-item-2507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2507"><a href="https://sbarber.fr/blog" class="ct-menu-link">Blog</a></li> -->
-								<!-- <li id="menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2371"><a href="Raylina beauty/mentions" class="ct-menu-link">Mentions légales</a></li>
-							</ul>
-						</nav>
-					</div> -->
-			<!-- 	</div>
-			</div> -->
-		<!-- 	<div data-row="bottom">
-				<div class="ct-container" data-columns-divider="md:sm">
-					<div data-column="copyright">
-						<div class="ct-footer-copyright" data-id="copyright">
-
-							<p>Copyright © 2022 Raylina beauty </p>
-						</div>
-					</div> 
-				</div>
-			</div>
-		</footer> 
-	</div> -->
-
-	<script>
-		requestAnimationFrame(() => document.body.classList.add("stk--anim-init"))
-	</script>
-	<style>
-		.wp-container-1 {
-			display: flex;
-			gap: 0.5em;
-			flex-wrap: wrap;
-			align-items: center;
-			justify-content: center;
-		}
-
-		.wp-container-1>* {
-			margin: 0;
-		}
-	</style>
-	<style>
-		.wp-container-2>.alignleft {
-			float: left;
-			margin-inline-start: 0;
-			margin-inline-end: 2em;
-		}
-
-		.wp-container-2>.alignright {
-			float: right;
-			margin-inline-start: 2em;
-			margin-inline-end: 0;
-		}
-
-		.wp-container-2>.aligncenter {
-			margin-left: auto !important;
-			margin-right: auto !important;
-		}
-	</style>
-	<script id='wpo_min-footer-0-js-extra'>
-		var Getwid = {
-			"settings": [],
-			"ajax_url": "https:\/\/sbarber.fr\/wp-admin\/admin-ajax.php",
-			"isRTL": "",
-			"nonces": {
-				"recaptcha_v2_contact_form": "82cc61b9df"
-			}
-		};
-	</script>
+	
 	<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-footer-getwid-blocks-frontend-js1.8.2.min.js' id='wpo_min-footer-0-js'></script>
 	<script id='wpo_min-footer-1-js-extra'>
 		var ct_localizations = {
