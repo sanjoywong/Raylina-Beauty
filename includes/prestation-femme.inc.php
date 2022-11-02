@@ -1,13 +1,4 @@
-<!-- <div class= "coiffure">
-         <img src="./assets/img/tresses.jpg" alt="coiffure"style=" width:480px; height:480px">
-         <img src="./assets/img/meche.jpg" alt="coiffure"style=" width:480px; height:480px" >
-            <div class="desc">Tresse meche longue</div>
-          <img src="./assets/img/women.jpg" alt="coiffure" style=" width:480px; height:480px">
-          <div class="desc">Le bronzin cheveux</div>
-          <img src="./assets/img/femme.jpg" alt="coiffure"style=" width:480px; height:480px" >
-          <div class="desc">pose creffage </div>
-        </div>
- -->
+
 <!doctype html>
 <html lang="fr-FR" prefix="og: https://ogp.me/ns#">
 
@@ -19,7 +10,7 @@
 
 
   <!-- SEO par Rank Math - https://s.rankmath.com/home -->
-  <title>Prestations Femme - La Maison by S.Barber</title>
+  <title>Prestations Femme - Raylina beauty</title>
   <meta name="description" content="Prenez rendez-vous" />
   <meta name="robots" content="nofollow, noindex" />
   <meta property="og:locale" content="fr_FR" />
@@ -27,9 +18,9 @@
   <meta property="og:title" content="Prestations Femme - La Maison by S.Barber" />
   <meta property="og:description" content="Prenez rendez-vous" />
   <meta property="og:url" content="https://sbarber.fr/prestations-femme" />
-  <meta property="og:site_name" content="La Maison by S.Barber" />
+  <meta property="og:site_name" content="Salon Raylina Beauty" />
   <meta property="og:updated_time" content="2022-04-28T13:07:11+02:00" />
-  <meta property="og:image" content="https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" />
+  <meta property="og:image" content="index.php?page=salon/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" />
   <meta property="og:image:secure_url" content="https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
@@ -40,7 +31,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Prestations Femme - La Maison by S.Barber" />
   <meta name="twitter:description" content="Prenez rendez-vous" />
-  <meta name="twitter:image" content="https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" />
+  <meta name="twitter:image" content="index.php?page=salon/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" />
   <meta name="twitter:label1" content="Temps de lecture" />
   <meta name="twitter:data1" content="Moins d’une minute" />
   <script type="application/ld+json" class="rank-math-schema">
@@ -77,7 +68,7 @@
           "postalCode": "59300",
           "addressCountry": "France"
         },
-        "logo": {
+       < "logo": {
           "@type": "ImageObject",
           "@id": "https://sbarber.fr/#logo",
           "url": "https://sbarber.fr/wp-content/uploads/2020/10/SBARBER-BLACK.png",
@@ -85,16 +76,16 @@
           "caption": "La Maison by S.Barber",
           "inLanguage": "fr-FR",
           "width": "512",
-          "height": "512"
+          "height": "512" -->
         },
         "priceRange": "$$$",
         "openingHours": ["Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-19:00"],
         "location": {
           "@id": "https://sbarber.fr/#place"
         },
-        "image": {
+        < "image": {
           "@id": "https://sbarber.fr/#logo"
-        },
+        }, -->
         "telephone": "0327463942"
       }, {
         "@type": "WebSite",
@@ -1326,20 +1317,16 @@
       width: var(--block-width) !important
     }
   </style>
-  <link rel='stylesheet' id='wpo_min-header-0-css' href='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-6e96335f.min.css' media='all' />
-  <script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-jquery-core3.6.0.min.js' id='wpo_min-header-0-js'></script>
-  <script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-jquery-migrate3.3.2.min.js' id='wpo_min-header-1-js'></script>
-  <link rel="https://api.w.org/" href="https://sbarber.fr/wp-json/" />
-  <link rel="alternate" type="application/json" href="https://sbarber.fr/wp-json/wp/v2/pages/2044" />
-  <link rel="alternate" type="application/json+oembed" href="https://sbarber.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsbarber.fr%2Fprestations-femme" />
-  <link rel="alternate" type="text/xml+oembed" href="https://sbarber.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsbarber.fr%2Fprestations-femme&#038;format=xml" />
+  <!-- <link rel='stylesheet' id='wpo_min-header-0-css' href='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-6e96335f.min.css' media='all' /> -->
+  <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-header-jquery-core3.6.0.min.js' id='wpo_min-header-0-js'></script>
+  <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-header-jquery-migrate3.3.2.min.js' id='wpo_min-header-1-js'></script>
   <script type="text/javascript">
     jQuery(document).ready(function($) {
       $('#respond').html('<div class="swpm-login-to-comment-msg">Veuillez vous connecter pour laisser un commentaire.</div>');
     });
   </script>
   <noscript>
-    <link rel='stylesheet' href='https://sbarber.fr/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'>
+    <link rel='stylesheet' href='index.php?page=salon/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'>
   </noscript>
   <style id="ct-main-styles-inline-css">
     [data-header*="type-1"] {
@@ -1371,10 +1358,10 @@
       }
     }
   </style>
-  <link rel="icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
-  <link rel="icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-192x192.png" sizes="192x192" />
-  <link rel="apple-touch-icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-180x180.png" />
-  <meta name="msapplication-TileImage" content="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-270x270.png" />
+  <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
+  <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-192x192.png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-180x180.png" />
+  <meta name="msapplication-TileImage" content="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-270x270.png" />
 </head>
 
 <body class="page-template-default page page-id-2044 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage">
@@ -1499,10 +1486,10 @@
       <div class="ct-panel-content" data-device="desktop"></div>
       <div class="ct-panel-content" data-device="mobile">
         <nav class="mobile-menu" data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" aria-label="Menu hors-champ">
-          <ul id="menu-principal-i-1" class="">
+         <!--  <ul id="menu-principal-i-1" class="">
             <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2044 current_page_item menu-item-2052"><a href="https://sbarber.fr/prestations-femme" aria-current="page" class="ct-menu-link">Prestations Femme</a></li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2053"><a href="https://sbarber.fr/prestations-homme" class="ct-menu-link">Prestations Homme</a></li>
-          </ul>
+          </ul> -->
         </nav>
 
 
@@ -1556,56 +1543,10 @@
         <path d="M10,0L9.4,0.6L0.8,9.1l1.2,1.2l7.1-7.1V20h1.7V3.3l7.1,7.1l1.2-1.2l-8.5-8.5L10,0z" />
       </svg> </a>
 
-  </div>
-  <!-- <div id="main-container">
-	<header id="header" class="ct-header" data-id="type-1" itemscope="" itemtype="https://schema.org/WPHeader" ><div data-device="desktop" data-transparent="" ><div class="ct-sticky-container"><div data-sticky="shrink"><div data-row="middle" data-column-set="2" data-transparent-row="yes" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
-<div	class="site-branding"
-	data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" >
-
-			<a href="https://sbarber.fr/" class="site-logo-container" rel="home"><img width="512" height="512" src="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white.png" class="default-logo" alt="La Maison by S.Barber" /></a>	
-	</div>
-
-</div></div><div data-column="end" data-placements="1" ><div data-items="primary" ><a data-id="account" class="ct-header-account" data-state="out" data-label="left" href="https://sbarber.fr/profil/connexion" aria-label="Mon compte" ><span class="ct-label">Mon compte</span><svg class="ct-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15"><path d="M7.5,0C3.4,0,0,3.4,0,7.5S3.4,15,7.5,15S15,11.6,15,7.5S11.6,0,7.5,0z M11.6,11.9c-0.5-0.6-1.5-1-2.7-1.3c0,0-0.6-0.2-0.4-0.7c0.6-0.6,0.7-1.1,0.7-1.2c0,0,0.6-0.5,0.6-1.1C10,7,9.8,6.9,9.8,6.9c0.2-0.7,0.3-3.3-1.4-3C8.1,3.4,6.4,3,5.7,4.4C5.3,5.1,5.1,6.2,5.5,6.9c0,0-0.1-0.1-0.2,0.3c0,0.4,0.2,0.9,0.4,1.1c0.1,0.1,0.2,0.2,0.3,0.2c0,0,0.1,0.6,0.6,1.2c0.1,0.6-0.4,0.8-0.4,0.8c-1.2,0.2-2.3,0.7-2.7,1.4c-1.2-1.1-1.9-2.6-1.9-4.4c0-3.3,2.7-6,6-6s6,2.7,6,6C13.5,9.2,12.8,10.8,11.6,11.9z"/></svg></a>
-<nav
-	id="header-menu-1"
-	class="header-menu-1"
-	data-id="menu" data-interaction="hover" 	data-menu="type-1"
-	data-dropdown="type-1:simple"		data-responsive="no"	itemscope="" itemtype="https://schema.org/SiteNavigationElement" 	aria-label="Menu d’en-tête">
-
-	<ul id="menu-principal-i" class="menu"><li id="menu-item-2052" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2044 current_page_item menu-item-2052"><a href="https://sbarber.fr/prestations-femme" aria-current="page" class="ct-menu-link">Prestations Femme</a></li>
-<li id="menu-item-2053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2053"><a href="https://sbarber.fr/prestations-homme" class="ct-menu-link">Prestations Homme</a></li>
-</ul></nav>
-
-</div></div></div></div></div></div></div><div data-device="mobile" data-transparent="" ><div class="ct-sticky-container"><div data-sticky="shrink"><div data-row="middle" data-column-set="2" data-transparent-row="yes" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
-<div	class="site-branding"
-	data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" >
-
-			<a href="https://sbarber.fr/" class="site-logo-container" rel="home"><img width="512" height="512" src="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white.png" class="default-logo" alt="La Maison by S.Barber" /></a>	
-	</div> -->
-
-  <!-- </div>
-  </div> -->
- <!--  <div data-column="end" data-placements="1">
-    <div data-items="primary"><a data-id="account" class="ct-header-account" data-state="out" data-label="left" href="https://sbarber.fr/profil/connexion" aria-label="Mon compte"><span class="ct-label">Mon compte</span><svg class="ct-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15">
-          <path d="M7.5,0C3.4,0,0,3.4,0,7.5S3.4,15,7.5,15S15,11.6,15,7.5S11.6,0,7.5,0z M11.6,11.9c-0.5-0.6-1.5-1-2.7-1.3c0,0-0.6-0.2-0.4-0.7c0.6-0.6,0.7-1.1,0.7-1.2c0,0,0.6-0.5,0.6-1.1C10,7,9.8,6.9,9.8,6.9c0.2-0.7,0.3-3.3-1.4-3C8.1,3.4,6.4,3,5.7,4.4C5.3,5.1,5.1,6.2,5.5,6.9c0,0-0.1-0.1-0.2,0.3c0,0.4,0.2,0.9,0.4,1.1c0.1,0.1,0.2,0.2,0.3,0.2c0,0,0.1,0.6,0.6,1.2c0.1,0.6-0.4,0.8-0.4,0.8c-1.2,0.2-2.3,0.7-2.7,1.4c-1.2-1.1-1.9-2.6-1.9-4.4c0-3.3,2.7-6,6-6s6,2.7,6,6C13.5,9.2,12.8,10.8,11.6,11.9z" />
-        </svg></a>
-      <button data-toggle-panel="#offcanvas" class="ct-header-trigger ct-toggle " data-design="simple" data-label="right" aria-label="Ouvrir le menu hors-champ" data-id="trigger">
-
-        <span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Menu</span>
-
-        <svg class="ct-icon" width="18" height="14" viewBox="0 0 18 14" aria-hidden="true" data-type="type-1">
-
-          <rect y="0.00" width="18" height="1.7" rx="1" />
-          <rect y="6.15" width="18" height="1.7" rx="1" />
-          <rect y="12.3" width="18" height="1.7" rx="1" />
-        </svg>
-      </button>
-    </div> -->
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
+ 
+  
+  
+   
   </div>
   </header>
   <main id="main" class="site-main hfeed">
@@ -1619,7 +1560,7 @@
       <header class="entry-header ct-container-narrow">
         <h1 class="page-title" title="Prestations Femme" itemprop="headline">Prestations Femme</h1>
         <nav class="ct-breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList"><span class="first-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem">
-            <meta itemprop="position" content="1"><a href="https://sbarber.fr/" itemprop="item"><span itemprop="name">Salon</span></a>
+            <meta itemprop="position" content="1"><a href="index.php?page=salon" itemprop="item"><span itemprop="name">Salon</span></a>
             <meta itemprop="url" content="https://sbarber.fr/" /><svg class="separator" width="8" height="8" viewBox="0 0 8 8">
               <polygon points="2.5,0 6.9,4 2.5,8 " />
             </svg>
@@ -2195,33 +2136,7 @@
 
   </main>
 
-  <!-- <footer id="footer" class="ct-footer" data-id="type-1" itemscope="" itemtype="https://schema.org/WPFooter" ><div data-row="middle" ><div class="ct-container" ><div data-column="ghost"></div><div data-column="logo" >
-<div	class="site-branding"
-	data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" >
-
-			<a href="https://sbarber.fr/" class="site-logo-container" rel="home"><img width="512" height="512" src="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white.png" class="default-logo" alt="La Maison by S.Barber" /></a>	
-	</div>
-
-</div><div data-column="menu" >
-<nav
-	id="footer-menu"
-	class="footer-menu-inline "
-	data-id="menu" 		itemscope="" itemtype="https://schema.org/SiteNavigationElement" 	aria-label="Menu du pied de page">
-
-	<ul id="menu-footer" class="menu"><li id="menu-item-2378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2378"><a href="https://sbarber.fr/prestations-homme" class="ct-menu-link">Prestations Homme</a></li>
-<li id="menu-item-2379" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2044 current_page_item menu-item-2379"><a href="https://sbarber.fr/prestations-femme" aria-current="page" class="ct-menu-link">Prestations Femme</a></li>
-<li id="menu-item-2370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2370"><a href="https://sbarber.fr/connexion/profil" class="ct-menu-link">Mon compte</a></li>
-<li id="menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2372"><a href="https://sbarber.fr/contact-2" class="ct-menu-link">Contact</a></li>
-<li id="menu-item-2507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2507"><a href="https://sbarber.fr/blog" class="ct-menu-link">Blog</a></li>
-<li id="menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2371"><a href="https://sbarber.fr/mentions" class="ct-menu-link">Mentions légales</a></li>
-</ul></nav>
-</div></div></div><div data-row="bottom" ><div class="ct-container" data-columns-divider="md:sm" ><div data-column="copyright" > -->
-  <!-- <div
-	class="ct-footer-copyright"
-	data-id="copyright" >
- -->
-  <!-- <p>Copyright © 2022 La Maison by S.Barber - <a href="https://ihmb.fr" target="_blank" rel="noopener">ihmb.fr</a></p></div>
-</div></div></div></footer></div> -->
+  
 
   <script>
     requestAnimationFrame(() => document.body.classList.add("stk--anim-init"))
@@ -2249,7 +2164,7 @@
       }
     };
   </script>
-  <script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-footer-getwid-blocks-frontend-js1.8.2.min.js' id='wpo_min-footer-0-js'></script>
+  <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-getwid-blocks-frontend-js1.8.2.min.js' id='wpo_min-footer-0-js'></script>
   <script id='wpo_min-footer-1-js-extra'>
     var ct_localizations = {
       "ajax_url": "https:\/\/sbarber.fr\/wp-admin\/admin-ajax.php",
@@ -2328,9 +2243,9 @@
       }]
     };
   </script>
-  <script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-footer-ct-scripts1.8.53.min.js' id='wpo_min-footer-1-js'></script>
-  <script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-footer-jquery-ui-core1.13.1.min.js' id='wpo_min-footer-2-js'></script>
-  <script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-footer-jquery-ui-accordion1.13.1.min.js' id='wpo_min-footer-3-js'></script>
+  <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-ct-scripts1.8.53.min.js' id='wpo_min-footer-1-js'></script>
+  <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-jquery-ui-core1.13.1.min.js' id='wpo_min-footer-2-js'></script>
+  <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-jquery-ui-accordion1.13.1.min.js' id='wpo_min-footer-3-js'></script>
 
 </body>
 
