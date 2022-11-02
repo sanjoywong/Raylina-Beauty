@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr-FR" prefix="og: https://ogp.me/ns#">
+<html lang="fr-FR">
 <head>
 	
 	<meta charset="UTF-8">
@@ -7,15 +7,15 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	
+<!-- 
 
-
-        <noscript><link rel='stylesheet' href='https://sbarber.fr/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'></noscript>
+        <noscript><link rel='stylesheet' href='https://sbarber.fr/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'></noscript> -->
 <style id="ct-main-styles-inline-css">[data-header*="type-1"] {--has-transparent-header:1;}[data-prefix="single_page"] {background-color:var(--paletteColor3);background-image:none;}</style>
 <style id="uagb-style-conditional-extension">@media (min-width: 1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none !important}}@media (min-width: 768px) and (max-width: 1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none !important}}@media (max-width: 767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none !important}}</style><link rel="icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
 <link rel="icon" href="./assets/img/1664529137223.jpg" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-180x180.png" />
+<!-- <link rel="apple-touch-icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-180x180.png" />
 <meta name="msapplication-TileImage" content="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-270x270.png" />
-	</head>
+	</head> -->
 
 <body class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
 
@@ -66,19 +66,20 @@
 				aria-hidden="true">
 					<circle cx="10" cy="10" r="3.3"/>
 					<path d="M14.2,0H5.8C2.6,0,0,2.6,0,5.8v8.3C0,17.4,2.6,20,5.8,20h8.3c3.2,0,5.8-2.6,5.8-5.8V5.8C20,2.6,17.4,0,14.2,0zM10,15c-2.8,0-5-2.2-5-5s2.2-5,5-5s5,2.2,5,5S12.8,15,10,15z M15.8,5C15.4,5,15,4.6,15,4.2s0.4-0.8,0.8-0.8s0.8,0.4,0.8,0.8S16.3,5,15.8,5z"/>
-				</svg>
+			<!-- 	</svg>
 			</span><span class="ct-label" hidden="" >Instagram</span>				</a>
 							
 				<a href="https://www.snapchat.com/add/sbeaury" data-network="snapchat" aria-label="Snapchat" target="_blank" rel="noopener" >
 					<span class="ct-icon-container" >
-				<svg
+				<svg -->
 				width="20px"
 				height="20px"
 				viewBox="0 0 20 20"
 				aria-hidden="true">
 					<path d="M10,0.5c-6,0-6,6-6,6v1c0,0,0,0-0.1,0C3.6,7.5,2,7.6,2,8.9c0,1.5,1.7,1.6,2,1.6c0,0,0,0,0,0c0,1-1.7,2.2-2.7,2.4C0.3,13.3,0,14,0,14.5c0,0.3,0.1,0.5,0.1,0.6c0.4,0.9,1.5,1.3,2.6,1.3c0,1.4,1.1,2,1.8,2c0.8,0,1.6-0.4,1.6-0.4c0,0,1.3,1.4,3.9,1.4s3.9-1.4,3.9-1.4c0,0,0.8,0.4,1.6,0.4c0.7,0,1.7-0.6,1.8-2c1.1,0,2.2-0.5,2.6-1.3c0-0.1,0.1-0.3,0.1-0.6c0-0.5-0.3-1.2-1.3-1.6c-1.1-0.3-2.7-1.4-2.7-2.4c0,0,0,0,0,0c0.3,0,2-0.1,2-1.6c0-1.3-1.6-1.4-1.9-1.4c0,0-0.1,0-0.1,0v-1C16,6.5,16,0.5,10,0.5L10,0.5z"/>
 				</svg>
-			</span><span class="ct-label" hidden="" >Snapchat</span>				</a>
+			</span><span class="ct-label" hidden="" >Snapchat</span>			
+        	</a>
 							
 				<a href="https://g.page/Lamaisonbysbarber?share" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener" >
 					<span class="ct-icon-container" >
@@ -167,14 +168,14 @@
 
 
 
-<p></p>
 
 
 
-<div class="wp-container-11 wp-block-group"><div class="wp-block-group__inner-container">
-<div class="wp-container-10 wp-block-columns">
-<div class="wp-container-5 wp-block-column"><div>	<div id="sbarber_hype_container" class="HYPE_document" style="margin:auto;position:relative;width:100%;height:600px;overflow:hidden;">
-		<script type="text/javascript" charset="utf-8" src="https://sbarber.fr/wp-content/uploads/hypeanimations/1/sbarber.hyperesources/sbarber_hype_generated_script.js?77565"></script>
+
+<!-- <div class="wp-container-11 wp-block-group"><div class="wp-block-group__inner-container"> -->
+<!-- <div class="wp-container-10 wp-block-columns"> -->
+<!-- <div class="wp-container-5 wp-block-column"><div>	<div id="sbarber_hype_container" class="HYPE_document" style="margin:auto;position:relative;width:100%;height:600px;overflow:hidden;"> -->
+	<!-- 	<script type="text/javascript" charset="utf-8" src="https://sbarber.fr/wp-content/uploads/hypeanimations/1/sbarber.hyperesources/sbarber_hype_generated_script.js?77565"></script> -->
 	</div>
 </div>
 </div>

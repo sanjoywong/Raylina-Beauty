@@ -63,129 +63,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 	<meta name="twitter:label1" content="Temps de lecture" />
 	<meta name="twitter:data1" content="Moins d’une minute" />
 	<script type="application/ld+json" class="rank-math-schema">
-		{
-			"@context": "https://schema.org",
-			"@graph": [{
-				"@type": "Place",
-				"@id": "https://sbarber.fr/#place",
-				"geo": {
-					"@type": "GeoCoordinates",
-					"latitude": "50.36197280883789",
-					"longitude": "3.5174882411956787"
-				},
-				"hasMap": "https://www.google.com/maps/search/?api=1&amp;query=50.36197280883789,3.5174882411956787",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "13 Avenue du s\u00e9nateur Girard",
-					"addressLocality": "Valenciennes",
-					"addressRegion": "Hauts de France",
-					"postalCode": "59300",
-					"addressCountry": "France"
-				}
-			}, {
-				"@type": ["BeautySalon", "Organization"],
-				"@id": "https://sbarber.fr/#organization",
-				"name": "La Maison by S.Barber",
-				"url": "https://sbarber.fr",
-				"email": "contact@sbarber.fr",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "13 Avenue du s\u00e9nateur Girard",
-					"addressLocality": "Valenciennes",
-					"addressRegion": "Hauts de France",
-					"postalCode": "59300",
-					"addressCountry": "France"
-				},
-				"logo": {
-					"@type": "ImageObject",
-					"@id": "https://sbarber.fr/#logo",
-					"url": "https://sbarber.fr/wp-content/uploads/2020/10/SBARBER-BLACK.png",
-					"contentUrl": "https://sbarber.fr/wp-content/uploads/2020/10/SBARBER-BLACK.png",
-					"caption": "La Maison by S.Barber",
-					"inLanguage": "fr-FR",
-					"width": "512",
-					"height": "512"
-				},
-				"priceRange": "$$$",
-				"openingHours": ["Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-19:00"],
-				"location": {
-					"@id": "https://sbarber.fr/#place"
-				},
-				"image": {
-					"@id": "https://sbarber.fr/#logo"
-				},
-				"telephone": "0327463942"
-			}, {
-				"@type": "WebSite",
-				"@id": "https://sbarber.fr/#website",
-				"url": "https://sbarber.fr",
-				"name": "La Maison by S.Barber",
-				"publisher": {
-					"@id": "https://sbarber.fr/#organization"
-				},
-				"inLanguage": "fr-FR"
-			}, {
-				"@type": "ImageObject",
-				"@id": "https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png",
-				"url": "https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png",
-				"width": "1200",
-				"height": "630",
-				"inLanguage": "fr-FR"
-			}, {
-				"@type": "WebPage",
-				"@id": "https://sbarber.fr/prestations-homme#webpage",
-				"url": "https://sbarber.fr/prestations-homme",
-				"name": "Prestations Homme - La Maison by S.Barber",
-				"datePublished": "2022-03-07T13:58:02+01:00",
-				"dateModified": "2022-03-19T10:04:34+01:00",
-				"isPartOf": {
-					"@id": "https://sbarber.fr/#website"
-				},
-				"primaryImageOfPage": {
-					"@id": "https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png"
-				},
-				"inLanguage": "fr-FR"
-			}, {
-				"@type": "Person",
-				"@id": "https://sbarber.fr/author/hoummad",
-				"name": "Hoummad Bounihi",
-				"url": "https://sbarber.fr/author/hoummad",
-				"image": {
-					"@type": "ImageObject",
-					"@id": "https://secure.gravatar.com/avatar/4a840b20ea0d30625ddc4b707da30d21?s=96&amp;d=mm&amp;r=g",
-					"url": "https://secure.gravatar.com/avatar/4a840b20ea0d30625ddc4b707da30d21?s=96&amp;d=mm&amp;r=g",
-					"caption": "Hoummad Bounihi",
-					"inLanguage": "fr-FR"
-				},
-				"worksFor": {
-					"@id": "https://sbarber.fr/#organization"
-				}
-			}, {
-				"@type": "Article",
-				"headline": "Prestations Homme - La Maison by S.Barber",
-				"datePublished": "2022-03-07T13:58:02+01:00",
-				"dateModified": "2022-03-19T10:04:34+01:00",
-				"author": {
-					"@id": "https://sbarber.fr/author/hoummad"
-				},
-				"publisher": {
-					"@id": "https://sbarber.fr/#organization"
-				},
-				"description": "R\u00e9server un cr\u00e9neau",
-				"name": "Prestations Homme - La Maison by S.Barber",
-				"@id": "https://sbarber.fr/prestations-homme#richSnippet",
-				"isPartOf": {
-					"@id": "https://sbarber.fr/prestations-homme#webpage"
-				},
-				"image": {
-					"@id": "https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png"
-				},
-				"inLanguage": "fr-FR",
-				"mainEntityOfPage": {
-					"@id": "https://sbarber.fr/prestations-homme#webpage"
-				}
-			}]
-		}
+		
 	</script>
 	<!-- /Extension Rank Math WordPress SEO -->
 
@@ -199,7 +77,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 	</script>
 	<style id='global-styles-inline-css'>
 		body {
-			/* --wp--preset--color--black: #000000;
+			--wp--preset--color--black: #000000;
 			--wp--preset--color--cyan-bluish-gray: #abb8c3;
 			--wp--preset--color--white: #ffffff;
 			--wp--preset--color--pale-pink: #f78da7;
@@ -213,7 +91,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 			--wp--preset--color--vivid-purple: #9b51e0;
 			--wp--preset--color--palette-color-1: var(--paletteColor1, #EECE2E);
 			--wp--preset--color--palette-color-2: var(--paletteColor2, #E39587);
-			--wp--preset--color--palette-color-3: var(--paletteColor3, #673ab7);
+			--wp--preset--color--palette-color-3: var(--paletteColor3, #171717);
 			--wp--preset--color--palette-color-4: var(--paletteColor4, rgba(237, 205, 45, 0.14));
 			--wp--preset--color--palette-color-5: var(--paletteColor5, #e1e8ed);
 			--wp--preset--color--palette-color-6: var(--paletteColor6, #f2f5f7);
@@ -287,9 +165,9 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 			--wp--preset--font-size--medium: 20px;
 			--wp--preset--font-size--large: 36px;
 			--wp--preset--font-size--x-large: 42px;
-		} 
+		}
 
-		/* .has-black-color {
+		.has-black-color {
 			color: var(--wp--preset--color--black) !important;
 		}
 
@@ -496,7 +374,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 		.has-x-large-font-size {
 			font-size: var(--wp--preset--font-size--x-large) !important;
 		}
-	</style> */
+	</style>
 	<style class="optimize_css_2" type="text/css" media="all">
 		.swpm-margin-10 {
 			margin: 10px
@@ -1244,7 +1122,7 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 			opacity: var(--opacity, 0);
 			visibility: var(--visibility, hidden);
 			transform: var(--transform, translate3d(0, 15px, 0));
-			background: #673ab7/* var(--top-button-background-color, var(--paletteColor3)) */;
+			background: var(--top-button-background-color, var(--paletteColor3));
 			box-shadow: var(--box-shadow);
 			border-radius: var(--border-radius, 2px);
 			transition: opacity .3s ease, color .3s ease, background .3s ease, transform .3s ease, visibility .3s ease;
@@ -1345,20 +1223,20 @@ Ne l’emmenez pas chez le coiffeur au moment de sa sieste ou au moment de son r
 			width: var(--block-width) !important
 		}
 	</style>
-	<link rel='stylesheet' id='wpo_min-header-0-css' href='../assets/css/wpo-minify-header-6f813363.min.css' media='all' />
+	<link rel='stylesheet' id='wpo_min-header-0-css' href='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-6f813363.min.css' media='all' />
 	<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-jquery-core3.6.0.min.js' id='wpo_min-header-0-js'></script>
 	<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-jquery-migrate3.3.2.min.js' id='wpo_min-header-1-js'></script>
 	<link rel="https://api.w.org/" href="https://sbarber.fr/wp-json/" />
 	<link rel="alternate" type="application/json" href="https://sbarber.fr/wp-json/wp/v2/pages/2039" />
 	<link rel="alternate" type="application/json+oembed" href="https://sbarber.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsbarber.fr%2Fprestations-homme" />
 	<link rel="alternate" type="text/xml+oembed" href="https://sbarber.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsbarber.fr%2Fprestations-homme&#038;format=xml" />
-	 <!-- <script type="text/javascript">
+	 <script type="text/javascript">
 		jQuery(document).ready(function($) {
 			$('#respond').html('<div class="swpm-login-to-comment-msg">Veuillez vous connecter pour laisser un commentaire.</div>');
 		});
-	</script>  -->
+	</script> 
 	<noscript>
-		<!-- <link rel='stylesheet' href='https://sbarber.fr/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'> -->
+		<link rel='stylesheet' href='https://sbarber.fr/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'>
 	</noscript>
 	<style id="ct-main-styles-inline-css">
 		[data-header*="type-1"] {

@@ -19,19 +19,19 @@
 
 
   <!-- SEO par Rank Math - https://s.rankmath.com/home -->
- <!--  <title>Prestations Femme - La Maison by S.Barber</title>
+  <title>Prestations Femme - La Maison by S.Barber</title>
   <meta name="description" content="Prenez rendez-vous" />
   <meta name="robots" content="nofollow, noindex" />
   <meta property="og:locale" content="fr_FR" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Prestations Femme - La Maison by S.Barber" />
   <meta property="og:description" content="Prenez rendez-vous" />
-  <meta property="og:url" content="https://sbarber.fr/prestations-femme" /> -->
- <!--  <meta property="og:site_name" content="La Maison by S.Barber" />
-  <meta property="og:updated_time" content="2022-04-28T13:07:11+02:00" /> -->
-  <!-- <meta property="og:image" content="https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" />
-  <meta property="og:image:secure_url" content="https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" /> -->
- <!--  <meta property="og:image:width" content="1200" />
+  <meta property="og:url" content="https://sbarber.fr/prestations-femme" />
+  <meta property="og:site_name" content="La Maison by S.Barber" />
+  <meta property="og:updated_time" content="2022-04-28T13:07:11+02:00" />
+  <meta property="og:image" content="https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" />
+  <meta property="og:image:secure_url" content="https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" />
+  <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:image:alt" content="Prestations Femme" />
   <meta property="og:image:type" content="image/png" />
@@ -43,8 +43,8 @@
   <meta name="twitter:image" content="https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" />
   <meta name="twitter:label1" content="Temps de lecture" />
   <meta name="twitter:data1" content="Moins d’une minute" />
-  <script type="application/ld+json" class="rank-math-schema"> -->
-   <!--  {
+  <script type="application/ld+json" class="rank-math-schema">
+    {
       "@context": "https://schema.org",
       "@graph": [{
         "@type": "Place",
@@ -166,7 +166,7 @@
           "@id": "https://sbarber.fr/prestations-femme#webpage"
         }
       }]
-    } -->
+    }
   </script>
   <!-- /Extension Rank Math WordPress SEO -->
 
@@ -179,7 +179,7 @@
     }
   </script>
   <style id='global-styles-inline-css'>
-   /*  body {
+    body {
       --wp--preset--color--black: #000000;
       --wp--preset--color--cyan-bluish-gray: #abb8c3;
       --wp--preset--color--white: #ffffff;
@@ -269,8 +269,8 @@
       --wp--preset--font-size--large: 36px;
       --wp--preset--font-size--x-large: 42px;
     }
- */
-   /*  .has-black-color {
+
+    .has-black-color {
       color: var(--wp--preset--color--black) !important;
     }
 
@@ -494,7 +494,7 @@
     .swpm-hidden {
       display: none
     }
- */
+
     .swpm-yellow-box {
       margin: 10px 0;
       padding: 10px;
@@ -1326,7 +1326,7 @@
       width: var(--block-width) !important
     }
   </style>
-  <link rel='stylesheet' id='wpo_min-header-0-css' href='../assets/css/wpo-minify-header-6f813363.min.css' media='all' />
+  <link rel='stylesheet' id='wpo_min-header-0-css' href='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-6e96335f.min.css' media='all' />
   <script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-jquery-core3.6.0.min.js' id='wpo_min-header-0-js'></script>
   <script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-jquery-migrate3.3.2.min.js' id='wpo_min-header-1-js'></script>
   <link rel="https://api.w.org/" href="https://sbarber.fr/wp-json/" />
