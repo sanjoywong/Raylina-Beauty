@@ -7,7 +7,6 @@ $users = $querySelect->lister($requete);
 //header('Location: index.php?page=accueil');
 if(isset($_POST["frmLogin"]))
 {
-    $password = htmlentities($_POST['nom utilisateur']);
     $password = htmlentities($_POST['password']);
     $username = htmlentities($_POST['username']);
     $erreurs = array();
@@ -35,8 +34,13 @@ if(isset($_POST["frmLogin"]))
         if(count($users)){
            if (password_verify($password,$users['password'])) {
                
-               echo "Bienvenue à Raylina Beauty !";
+               echo "Bienvenue à Raylina Beauty!";
                header('Location: index.php?page=Salon');
+           }}
+           else{
+            $requetec = "SELECT * FROM `` where nom=`$username` ;";
+            $users = $querySelect->lister($requete);
+                
            }
     }else{
         echo "Ton identifiant et mot de passe ne sont pas accord !";
