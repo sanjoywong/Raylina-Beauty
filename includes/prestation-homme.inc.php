@@ -55,21 +55,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <style class="optimize_css_2" type="text/css" media="all">.wp-block-getwid-section.alignwide:not([class*=full-width])>.wp-block-getwid-section__wrapper,.wp-block-getwid-section.alignfull:not([class*=full-width])>.wp-block-getwid-section__wrapper{padding-left:0;padding-right:0}.wp-block-getwid-section.alignwide:not([class*=full-width])>.wp-block-getwid-section__wrapper>.wp-block-getwid-section__inner-wrapper,.wp-block-getwid-section.alignfull:not([class*=full-width])>.wp-block-getwid-section__wrapper>.wp-block-getwid-section__inner-wrapper{width:var(--block-width);max-width:var(--block-max-width,var(--normal-container-max-width))}.wp-block-getwid-price-box{border-radius:5px}.wp-block-getwid-price-box .wp-block-getwid-price-box__amount{font-size:3em;font-weight:700}.wp-block-getwid-price-box .wp-block-getwid-price-box__period{vertical-align:initial}.wp-block-getwid-price-box .wp-block-button__link{--padding:5px 55px;--buttonMinHeight:55px;--buttonShadow:none;--buttonTransform:none}.wp-block-getwid-progress-bar__bar{height:8px;border-radius:10px}.wp-block-getwid-progress-bar__bar>*{border-radius:10px}.wp-block-getwid-button-group{overflow:initial}.wp-block-getwid-advanced-spacer{margin-bottom:0}.wp-block-getwid-counter__number{font-weight:700}</style>
 <style class="optimize_css_2" type="text/css" media="all">.stk-block-button{--stk-button-text-color:var(--buttonTextInitialColor);--stk-button-background-color:var(--buttonInitialColor)}.stk-block-button .stk-button{border-radius:var(--buttonBorderRadius,3px)}.wp-block-stackable-columns.alignfull>.stk-row:not(.alignfull){width:var(--block-width)!important}</style>
 <link rel='stylesheet' id='wpo_min-header-0-css'  href='https://index.php?page=salon/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-header-6c9d335e.min.css' media='all' />
-<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-header-jquery-core3.6.0.min.js' id='wpo_min-header-0-js'></script>
-<script defer src='index.php?page=salon/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-header-jquery-migrate3.3.2.min.js' id='wpo_min-header-1-js'></script>
-<link rel="https://api.w.org/" href="index.php?page=salon.fr/wp-json/" /><link rel="alternate" type="application/json" href="index.php?page=salon/wp-json/wp/v2/pages/2039" /><link rel="alternate" type="application/json+oembed" href="https://sbarber.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsbarber.fr%2Fprestations-homme" />
-<link rel="alternate" type="text/xml+oembed" href="index.php?page=salon/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsbarber.fr%2Fprestations-homme&#038;format=xml" />
-        <script type="text/javascript">
+<script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-header-jquery-core3.6.0.min.js' id='wpo_min-header-0-js'></script>
+<script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-header-jquery-migrate3.3.2.min.js' id='wpo_min-header-1-js'></script>
+      <!--   <script type="text/javascript">
             jQuery(document).ready(function($) {
                 $('#respond').html('<div class="swpm-login-to-comment-msg">Veuillez vous connecter pour laisser un commentaire.</div>');
             });
-        </script>
-        <noscript><link rel='stylesheet' href='index.php?page=salon/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'></noscript>
+        </script> -->
+        <noscript><link rel='stylesheet' href='./assets/css/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'></noscript>
 <style id="ct-main-styles-inline-css">[data-header*="type-1"] {--has-transparent-header:1;}</style>
 <style id="uagb-style-conditional-extension">@media (min-width: 1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none !important}}@media (min-width: 768px) and (max-width: 1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none !important}}@media (max-width: 767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none !important}}</style><link rel="icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
-<link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-180x180.png" />
-<meta name="msapplication-TileImage" content="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-270x270.png" />
+<link rel="icon" href="./assets/css/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="./assets/css/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-180x180.png" />
+<meta name="msapplication-TileImage" content="./assets/css/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-270x270.png" />
 	</head>
 
 <body class="page-template-default page page-id-2039 page-parent wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
@@ -495,20 +493,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <script id='wpo_min-footer-0-js-extra'>
 var Getwid = {"settings":[],"ajax_url":"https:\/\/sbarber.fr\/wp-admin\/admin-ajax.php","isRTL":"","nonces":{"recaptcha_v2_contact_form":"f2ce2d9346"}};
 </script>
-<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-getwid-blocks-frontend-js1.8.2.min.js' id='wpo_min-footer-0-js'></script>
+<script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-getwid-blocks-frontend-js1.8.2.min.js' id='wpo_min-footer-0-js'></script>
 <script id='wpo_min-footer-1-js-extra'>
 var ct_localizations = {"ajax_url":"https:\/\/sbarber.fr\/wp-admin\/admin-ajax.php","nonce":"ce4802b4ad","public_url":"https:\/\/sbarber.fr\/wp-content\/themes\/blocksy\/static\/bundle\/","rest_url":"https:\/\/sbarber.fr\/wp-json\/","search_url":"https:\/\/sbarber.fr\/search\/QUERY_STRING","show_more_text":"Afficher plus","more_text":"Plus","search_live_results":"R\u00e9sultats de recherche","search_live_no_result":"Aucun r\u00e9sultat","search_live_one_result":"Vous avez %s r\u00e9sultat. Veuillez appuyer sur Tab pour le s\u00e9lectionner.","search_live_many_results":"Vous avez %s r\u00e9sultats. Veuillez appuyer sur Tab pour en s\u00e9lectionner un.","expand_submenu":"D\u00e9plier le menu d\u00e9roulant","collapse_submenu":"Replier le menu d\u00e9roulant","dynamic_js_chunks":[{"id":"blocksy_pro_micro_popups","selector":".ct-popup","url":"https:\/\/sbarber.fr\/wp-content\/plugins\/blocksy-companion-pro\/framework\/premium\/static\/bundle\/micro-popups.js"},{"id":"blocksy_shortcuts_auto_hide","selector":".ct-shortcuts-container[data-behaviour=\"scroll\"]","trigger":"scroll","url":"https:\/\/sbarber.fr\/wp-content\/plugins\/blocksy-companion-pro\/framework\/premium\/extensions\/shortcuts\/static\/bundle\/auto-hide.js"},{"id":"blocksy_account","selector":".ct-header-account[href*=\"account-modal\"], .must-log-in a","url":"https:\/\/sbarber.fr\/wp-content\/plugins\/blocksy-companion-pro\/static\/bundle\/account.js","deps":["blocksy-zxcvbn","wp-hooks","wp-i18n","password-strength-meter"],"global_data":[{"var":"wc_password_strength_meter_params","data":{"min_password_strength":3,"stop_checkout":false,"i18n_password_error":"Please enter a stronger password.","i18n_password_hint":"Conseil\u00a0: Le mot de passe devrait contenir au moins douze caract\u00e8res. Pour le rendre plus s\u00fbr, utilisez des lettres en majuscules et minuscules, des nombres, et des symboles tels que ! \\\" ? $ % ^ &amp; )."}},{"var":"pwsL10n","data":{"unknown":"Force du mot de passe inconnue.","short":"Tr\u00e8s faible","bad":"Faible","good":"Moyenne","strong":"Forte","mismatch":"Non concordance"}}],"trigger":"click","has_modal_loader":{"skip_if_no_template":true,"id":"account-modal"},"deps_data":{"wp-hooks":"https:\/\/sbarber.fr\/wp-includes\/js\/dist\/hooks.min.js","wp-i18n":"https:\/\/sbarber.fr\/wp-includes\/js\/dist\/i18n.min.js","password-strength-meter":"https:\/\/sbarber.fr\/wp-admin\/js\/password-strength-meter.min.js"}},{"id":"blocksy_dark_mode","selector":"[data-id=\"dark-mode-switcher\"]","url":"https:\/\/sbarber.fr\/wp-content\/plugins\/blocksy-companion-pro\/static\/bundle\/dark-mode.js","trigger":"click"},{"id":"blocksy_sticky_header","selector":"header [data-sticky]","url":"https:\/\/sbarber.fr\/wp-content\/plugins\/blocksy-companion-pro\/static\/bundle\/sticky.js"}],"dynamic_styles":{"lazy_load":"https:\/\/sbarber.fr\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-styles.min.css","search_lazy":"https:\/\/sbarber.fr\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-search-styles.min.css"},"dynamic_styles_selectors":[{"selector":"#account-modal","url":"https:\/\/sbarber.fr\/wp-content\/plugins\/blocksy-companion-pro\/static\/bundle\/account-lazy.min.css"}]};
 </script>
-<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-ct-scripts1.8.54.min.js' id='wpo_min-footer-1-js'></script>
-<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-jquery-ui-core1.13.1.min.js' id='wpo_min-footer-2-js'></script>
-<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-jquery-ui-accordion1.13.1.min.js' id='wpo_min-footer-3-js'></script>
+<script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-ct-scripts1.8.54.min.js' id='wpo_min-footer-1-js'></script>
+<script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-jquery-ui-core1.13.1.min.js' id='wpo_min-footer-2-js'></script>
+<script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-jquery-ui-accordion1.13.1.min.js' id='wpo_min-footer-3-js'></script>
 
 </body>
 </html>
 
 
 	
-	<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-footer-getwid-blocks-frontend-js1.8.2.min.js' id='wpo_min-footer-0-js'></script>
 	<script id='wpo_min-footer-1-js-extra'>
 		var ct_localizations = {
 			"ajax_url": "https:\/\/sbarber.fr\/wp-admin\/admin-ajax.php",
@@ -587,9 +584,6 @@ var ct_localizations = {"ajax_url":"https:\/\/sbarber.fr\/wp-admin\/admin-ajax.p
 			}]
 		};
 	</script>
-	<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-footer-ct-scripts1.8.53.min.js' id='wpo_min-footer-1-js'></script>
-	<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-footer-jquery-ui-core1.13.1.min.js' id='wpo_min-footer-2-js'></script>
-	<script defer src='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-footer-jquery-ui-accordion1.13.1.min.js' id='wpo_min-footer-3-js'></script>
 
 </body>
 
