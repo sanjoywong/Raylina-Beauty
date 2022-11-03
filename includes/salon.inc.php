@@ -150,7 +150,7 @@
 <img loading="lazy" width="1536" height="2049" class="wp-block-cover__image-background wp-image-2525" alt="" src="./assets/img/pmtkoufa.jpg" style="object-position:49% 70%" data-object-fit="cover" data-object-position="49% 70%" srcset="./assets/img/pmtkoufa.jpg, ./assets/img/pmtkoufa.jpg-225x300.jpg 225w, ./assets/img/pmtkoufa.jpg2-768x1025.jpg 768w,
   sizes="(max-width: 1536px) 100vw, 1536px/>
 <div class="wp-block-cover__inner-container">
-<h2 class="has-text-align-left has-text-color" style="color:#ffffff"><a href="https://sbarber.fr/prestations-femme" data-type="page" data-id="2039">Les Prestations Femme</a></h2>
+<h2 class="has-text-align-left has-text-color" style="color:#ffffff"><a href="../assets/css/" data-type="page" data-id="2039">Les Prestations Femme</a></h2>
 </div></div>
 </div>
 

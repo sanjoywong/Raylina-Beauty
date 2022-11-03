@@ -42,13 +42,16 @@ if(isset($_POST["frmLogin"]))
             $users = $querySelect->lister($requete);
                 
            }
-    }else{
+        }
+    }
+    else  
+    {
         echo "Ton identifiant et mot de passe ne sont pas accord !";
         header('Location: index.php?page=login');
     }
     }
 
-}
+
 else{
     //echo "Je ne viens pas du formulaire";
 /*     $mail = ""; */
