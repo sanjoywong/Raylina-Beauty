@@ -9,7 +9,7 @@
   <link rel="profile" href="https://gmpg.org/xfn/11">
 
 
-  <!-- SEO par Rank Math - https://s.rankmath.com/home -->
+  
   <title>Prestations Femme - Raylina beauty</title>
   <meta name="description" content="Prenez rendez-vous" />
   <meta name="robots" content="nofollow, noindex" />
@@ -918,154 +918,7 @@
       --background-color: rgba(218, 222, 228, 0.3);
       --background-hover-color: rgba(218, 222, 228, 0.3)
     }
-  <!-- /* </style>
-  <style class="optimize_css_2" type="text/css" media="all">
-    nav>ul>[class*=ct-mega-menu] .entry-content {
-      color: var(--color)
-    }
-
-    nav>ul>[class*=ct-mega-menu] .ct-column-heading {
-      --linkInitialColor: var(--headings-color)
-    }
-
-    .ct-disabled-link {
-      pointer-events: none;
-      --linkHoverColor: var(--linkInitialColor)
-    } */ -->
-
- /*    nav>ul>[class*=ct-mega-menu]>.sub-menu {
-      --background-color: initial;
-      background-color: var(--background-color, var(--dropdown-background-color, var(--paletteColor4)))
-    }
-
-    [data-dropdown*=simple]>ul>[class*=ct-mega-menu] .entry-content,
-    [data-dropdown*=simple]>ul>[class*=ct-mega-menu] .sub-menu>li>a {
-      padding-left: 0;
-      padding-right: 0
-    }
-
-    [data-dropdown*=solid]>ul>[class*=ct-mega-menu] .sub-menu {
-      --menu-item-padding: var(--dropdown-items-spacing, 13px)
-    }
-
-    [data-dropdown*=padded]>ul>[class*=ct-mega-menu] .sub-menu>li>a {
-      margin-left: 0;
-      margin-right: 0
-    }
-
-    .more-items-container [class*=ct-mega-menu] .entry-content {
-      padding: var(--menu-item-padding, 0)
-    }
-
-    .ct-menu-badge {
-      font-size: 10px;
-      font-weight: 600;
-      line-height: normal;
-      word-break: break-word;
-      color: var(--color);
-      border-radius: 3px;
-      padding: .2em .55em;
-      margin-inline-start: .5em;
-      margin-top: var(--margin-top);
-      background: var(--background-color)
-    } */
-
-   /*  .menu>[class*=ct-mega-menu]>.sub-menu>li {
-      border-top: none
-    }
-
-    .menu>[class*=ct-mega-menu]>.sub-menu>li:not(:last-child) {
-      border-inline-end: var(--dropdown-columns-divider)
-    }
-
-    .menu>[class*=ct-mega-menu] .sub-menu [class*=ct-toggle-dropdown-desktop] {
-      display: none
-    }
-
-    nav>ul>[class*=ct-mega-menu]>.sub-menu {
-      display: grid;
-      grid-template-columns: var(--grid-template-columns, 1fr);
-      width: var(--mega-menu-width, var(--container-width-base));
-      max-width: var(--mega-menu-max-width, var(--normal-container-max-width))
-    } */
-/* 
-    nav>ul>.ct-mega-menu-content-full {
-      --mega-menu-width: calc(100vw - 60px);
-      --mega-menu-max-width: 100%
-    }
-
-    nav>ul>[class*=ct-mega-menu]>.sub-menu .menu-item {
-      flex-direction: column;
-      align-items: initial
-    }
-
-    nav>ul>[class*=ct-mega-menu]>.sub-menu>li {
-      min-width: 0;
-      padding: var(--columns-padding, 20px 30px)
-    }
-
-    nav>ul>[class*=ct-mega-menu]>.sub-menu>li [class*=children]:not(:first-child) {
-      padding-top: 20px
-    } */
-
-   /*  nav>ul>.ct-mega-menu-content-width>.sub-menu>li,
-    nav>ul>.ct-mega-menu-custom-width>.sub-menu>li {
-      overflow: hidden
-    } */
-
-    /* nav>ul>.ct-mega-menu-content-width>.sub-menu>li:first-child,
-    nav>ul>.ct-mega-menu-custom-width>.sub-menu>li:first-child {
-      border-top-left-radius: inherit;
-      border-bottom-left-radius: inherit
-    }
-
-    nav>ul>.ct-mega-menu-content-width>.sub-menu>li:last-child,
-    nav>ul>.ct-mega-menu-custom-width>.sub-menu>li:last-child {
-      border-top-right-radius: inherit;
-      border-bottom-right-radius: inherit
-    }
-
-    nav>ul>.ct-mega-menu-content-width>.sub-menu,
-    nav>ul>.ct-mega-menu-full-width>.sub-menu {
-      left: 0;
-      right: 0;
-      margin-left: auto;
-      margin-right: auto
-    }
-
-    nav>ul>.ct-mega-menu-full-width>.sub-menu {
-      box-shadow: none
-    }
-
-    nav>ul>.ct-mega-menu-full-width>.sub-menu:after {
-      position: absolute;
-      content: "";
-      z-index: 0;
-      width: 100vw;
-      top: 0;
-      left: 50%;
-      right: 0;
-      bottom: 0;
-      margin-inline-start: -50vw;
-      background: inherit;
-      box-shadow: var(--box-shadow)
-    } */
-/* 
-    nav>ul>.ct-mega-menu-full-width>.sub-menu li {
-      z-index: 2
-    }
-
-    nav>ul>.ct-mega-menu-full-width>.sub-menu>li:first-child {
-      padding-inline-start: 0
-    }
-
-    nav>ul>.ct-mega-menu-full-width>.sub-menu>li:last-child {
-      padding-inline-end: 0
-    }
-
-    nav>ul>.ct-mega-menu-custom-width:not([data-submenu]) {
-      justify-content: center
-    } */
+ 
   </style>
   <style class="optimize_css_2" type="text/css" media="all">
     .ct-shortcuts-container {
@@ -1483,15 +1336,8 @@
           </svg>
         </button>
       </div>
-      <div class="ct-panel-content" data-device="desktop"></div>
-      <div class="ct-panel-content" data-device="mobile">
-        <nav class="mobile-menu" data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" aria-label="Menu hors-champ">
-         <!--  <ul id="menu-principal-i-1" class="">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2044 current_page_item menu-item-2052"><a href="https://sbarber.fr/prestations-femme" aria-current="page" class="ct-menu-link">Prestations Femme</a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2053"><a href="https://sbarber.fr/prestations-homme" class="ct-menu-link">Prestations Homme</a></li>
-          </ul> -->
-        </nav>
-
+    
+      
 
         <div class="ct-header-socials " data-id="socials">
 
@@ -1500,14 +1346,14 @@
 
 
 
-            <a href="https://www.facebook.com/lamaisonbysbarber" data-network="facebook" aria-label="Facebook" target="_blank" rel="noopener">
+            <a href="https://www.facebook.com/Raylina_beauty" data-network="facebook" aria-label="Facebook" target="_blank" rel="noopener">
               <span class="ct-icon-container">
                 <svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
                   <path d="M20,10.1c0-5.5-4.5-10-10-10S0,4.5,0,10.1c0,5,3.7,9.1,8.4,9.9v-7H5.9v-2.9h2.5V7.9C8.4,5.4,9.9,4,12.2,4c1.1,0,2.2,0.2,2.2,0.2v2.5h-1.3c-1.2,0-1.6,0.8-1.6,1.6v1.9h2.8L13.9,13h-2.3v7C16.3,19.2,20,15.1,20,10.1z" />
                 </svg>
               </span><span class="ct-label" hidden="">Facebook</span> </a>
 
-            <a href="https://www.instagram.com/lamaisonbysbarber" data-network="instagram" aria-label="Instagram" target="_blank" rel="noopener">
+            <a href="https://www.instagram.com/Raylina_beauty" data-network="instagram" aria-label="Instagram" target="_blank" rel="noopener">
               <span class="ct-icon-container">
                 <svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true">
                   <circle cx="10" cy="10" r="3.3" />
@@ -1522,7 +1368,7 @@
                 </svg>
               </span><span class="ct-label" hidden="">Snapchat</span> </a>
 
-            <a href="https://g.page/Lamaisonbysbarber?share" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener">
+            <a href="https://g.page/Raylina_beauty?share" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener">
               <span class="ct-icon-container">
                 <svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
                   <path d="M5.9 10.7c0 .4-.4.8-.8.8s-.8-.4-.8-.8.4-.8.8-.8.8.3.8.8zm1.7 0c0 1.3-1.1 2.4-2.4 2.4S2.7 12 2.7 10.7c0-1.3 1.1-2.4 2.4-2.4s2.5 1 2.5 2.4zm-.9 0c0-.9-.7-1.6-1.6-1.6-.9 0-1.6.7-1.6 1.6 0 .9.7 1.6 1.6 1.6.9 0 1.6-.7 1.6-1.6zm8.2-.8c-.4 0-.8.4-.8.8s.4.8.8.8.8-.4.8-.8c0-.5-.4-.8-.8-.8zm2.4.8c0 1.3-1.1 2.4-2.4 2.4s-2.4-1.1-2.4-2.4c0-1.3 1.1-2.4 2.4-2.4s2.4 1 2.4 2.4zm-.8 0c0-.9-.7-1.6-1.6-1.6-.9 0-1.6.7-1.6 1.6 0 .9.7 1.6 1.6 1.6.9 0 1.6-.7 1.6-1.6zm1.6 4.1c-2.1 1.7-5.2 1.3-6.9-.8l-.9 1.5c0 .1-.1.1-.1.1-.2.1-.4.1-.6-.1L8.7 14c-1.7 2.1-4.7 2.5-6.9.8-2-1.7-2.4-4.8-.8-6.9-.1-.5-.4-1-.7-1.4 0-.1-.1-.2-.1-.3 0-.2.2-.4.4-.4h3.1c3.9-2.2 8.7-2.2 12.6 0h3.1c.1 0 .2 0 .3.1.2.1.2.4 0 .6-.3.4-.6.9-.8 1.4 1.7 2.1 1.3 5.2-.8 6.9zm-8.9-4.1c0-2.2-1.8-4.1-4.1-4.1h-1C2.3 7.1 1 8.8 1 10.7c0 2.2 1.9 4 4.1 4 2.3.1 4.1-1.8 4.1-4zm6.6-4h-.2c-.2 0-.5-.1-.7-.1-2.2 0-4 1.7-4.1 3.9 0 .7.2 1.4.5 2.1.1.1.1.2.2.3.8 1.1 2 1.8 3.4 1.8 1.9 0 3.5-1.3 3.9-3.1.5-2.1-.8-4.3-3-4.9z" />
