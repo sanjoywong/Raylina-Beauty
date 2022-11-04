@@ -1566,7 +1566,6 @@
             </svg>
           </span><span class="last-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem">
             <meta itemprop="position" content="2"><span itemprop="name">Prestations Femme</span>
-            <meta itemprop="url" content="https://sbarber.fr/prestations-femme" />
           </span> </nav>
 
       </header>
