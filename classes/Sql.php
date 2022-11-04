@@ -2,7 +2,7 @@
 {
     private $serverName = "localhost";
     private $userName = "root";
-    private $userPassword = "Ceppic";
+    private $userPassword = "";
     private $database = "dbsalon";
     private $connexion;
     

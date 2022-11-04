@@ -31,7 +31,7 @@ if(isset($_POST["frmLogin"]))
     else
     { $requetea = "SELECT * FROM `admin-salon` where nom='$username' ;";
         $usersa = $querySelect->lister($requetea);
-       
+       //var_dump($requetea);
         if(count($usersa)){
            if (password_verify($password,$usersa['password'])) {
                
@@ -41,7 +41,7 @@ if(isset($_POST["frmLogin"]))
            else{
                      $requetec = "SELECT * FROM `client` where nom='$username' ;";
                      $usersc = $querySelect->lister($requetec);
-                     //var_dump($requetec);
+                    // var_dump($requetec);
                      if(!count($usersc)){
                         
                         include './includes/frmInscription.php';
