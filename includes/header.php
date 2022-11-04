@@ -1,4 +1,5 @@
 <link href="https://fonts.googleapis.com/css?family=Arvo&display=swap" rel="stylesheet">
+<?php header('Access-Control-Allow-Origin: *'); ?>
 <header>
         <nav role="navigation" class="primary-navigation">
         
