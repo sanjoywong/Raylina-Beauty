@@ -33,7 +33,7 @@ if(isset($_POST["frmLogin"]))
         $usersa = $querySelect->lister($requetea);
        
         if(count($usersa)){
-           if (password_verify($password,$usersa['password'])) {
+           if (password_verify($password,$usersa[0]['password'])) {
                
                echo "Bienvenue à Raylina Beauty!";
                header('Location: index.php?page=Salon');
@@ -41,16 +41,17 @@ if(isset($_POST["frmLogin"]))
            else{
                      $requetec = "SELECT * FROM `client` where nom='$username' ;";
                      $usersc = $querySelect->lister($requetec);
-                     //var_dump($requetec);
+                     //var_dump($usersc[0]['password']);
                      if(!count($usersc)){
                         
                         include './includes/frmInscription.php';
-                                        }else{
-                                            if (password_verify($password,$usersc['password'])) {
+                                        }else{ echo "Je suis la";
+                                            var_dump(password_verify($password,$usersc[0]['password']));
+                                           /*  if (password_verify($password,$usersc[0]['password'])) {
                
                                                 echo "Bienvenue à Raylina Beauty!";
                                                 header('Location: index.php?page=Salon');
-                                                    }
+                                                    } */
                                             }
                 }
     }
