@@ -1550,3 +1550,27 @@ Stack trace:
 #3 C:\wampp\htdocs\Raylina-Beauty-1\includes\main.php(8): inclusionIncFile('salon')
 #4 C:\wampp\htdocs\Raylina-Beauty-1\index.php(11): require_once('C:\\wampp\\htdocs...')
 #5 {main}
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbsalon.utilisateurs' doesn't exist in C:\wampp\htdocs\Raylina-Beauty-1\classes\Sql.php:24
+Stack trace:
+#0 C:\wampp\htdocs\Raylina-Beauty-1\classes\Sql.php(24): PDO->exec('INSERT INTO uti...')
+#1 C:\wampp\htdocs\Raylina-Beauty-1\includes\inscription.inc.php(53): Sql->inserer('INSERT INTO uti...')
+#2 C:\wampp\htdocs\Raylina-Beauty-1\functions\inclusionIncFile.php(13): require('C:\\wampp\\htdocs...')
+#3 C:\wampp\htdocs\Raylina-Beauty-1\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\wampp\htdocs\Raylina-Beauty-1\index.php(11): require_once('C:\\wampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbsalon.utilisateurs' doesn't exist in C:\wampp\htdocs\Raylina-Beauty-1\classes\Sql.php:24
+Stack trace:
+#0 C:\wampp\htdocs\Raylina-Beauty-1\classes\Sql.php(24): PDO->exec('INSERT INTO uti...')
+#1 C:\wampp\htdocs\Raylina-Beauty-1\includes\inscription.inc.php(53): Sql->inserer('INSERT INTO uti...')
+#2 C:\wampp\htdocs\Raylina-Beauty-1\functions\inclusionIncFile.php(13): require('C:\\wampp\\htdocs...')
+#3 C:\wampp\htdocs\Raylina-Beauty-1\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\wampp\htdocs\Raylina-Beauty-1\index.php(11): require_once('C:\\wampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbsalon.utilisateurs' doesn't exist in C:\wampp\htdocs\Raylina-Beauty-1\classes\Sql.php:24
+Stack trace:
+#0 C:\wampp\htdocs\Raylina-Beauty-1\classes\Sql.php(24): PDO->exec('INSERT INTO uti...')
+#1 C:\wampp\htdocs\Raylina-Beauty-1\includes\inscription.inc.php(53): Sql->inserer('INSERT INTO uti...')
+#2 C:\wampp\htdocs\Raylina-Beauty-1\functions\inclusionIncFile.php(13): require('C:\\wampp\\htdocs...')
+#3 C:\wampp\htdocs\Raylina-Beauty-1\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\wampp\htdocs\Raylina-Beauty-1\index.php(11): require_once('C:\\wampp\\htdocs...')
+#5 {main}
