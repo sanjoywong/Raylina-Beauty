@@ -1,6 +1,6 @@
 @font-face {
   font-family: "playfair";
-  src: url("../font/PlayfairDisplay-Regular.ttf");
+  src: url("../fonts/Roboto/playfair-display-regular.ttf");
 }
 * {
   font-family: "playfair";

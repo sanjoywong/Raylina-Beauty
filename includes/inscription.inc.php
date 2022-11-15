@@ -1,4 +1,4 @@
-<h1>Inscription</h1>
+
 <?php
     if (isset($_POST['frmInscription'])) {
         $nom = htmlentities(trim($_POST['nom']));
@@ -46,13 +46,18 @@
         else {
             $password = password_hash($password1, PASSWORD_DEFAULT);
 
-            $requete = "INSERT INTO utilisateurs (id_utilisateur, nom, prenom, mail, password)
+            $requete = "INSERT INTO client (id_client, nom, prenom, email, password)
             VALUES (NULL, '$nom', '$prenom', '$mail', '$password');";
-
+           // var_dump($requete);
             $queryInsert = new Sql();
             $queryInsert->inserer($requete);
 
-            header('Location:./index.php?page=login');
+            $querySelect = new Sql();
+            $requetec = "SELECT * FROM `client` where nom='$nom' ;";
+            $usersc = $querySelect->lister($requetec);
+            echo "le resultat est ";
+            var_dump(password_verify($password,$usersc[0]['password']));
+            //header('Location:./index.php?page=login');
 
             // displayMessage("Requête OK");
             }

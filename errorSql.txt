@@ -1,0 +1,1000 @@
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shengw' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(33): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shengw' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(33): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shengw' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(33): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shengw' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(33): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shengw' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(33): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_salon' in 'order clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(5): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shengw' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(33): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shengw' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(33): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shengw' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(33): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(43): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(43): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(43): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbsalon.utilisateurs' doesn't exist in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('INSERT INTO uti...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\inscription.inc.php(53): Sql->inserer('INSERT INTO uti...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mail' in 'field list' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('INSERT INTO cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\inscription.inc.php(53): Sql->inserer('INSERT INTO cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mail' in 'field list' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('INSERT INTO cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\inscription.inc.php(53): Sql->inserer('INSERT INTO cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mail' in 'field list' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('INSERT INTO cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\inscription.inc.php(53): Sql->inserer('INSERT INTO cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}

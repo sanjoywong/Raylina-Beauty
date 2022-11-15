@@ -1,7 +1,7 @@
 <?php 
 
 $querySelect = new Sql();
-$requete = "SELECT * FROM `admin-salon` order by id_salon DESC;";
+$requete = "SELECT * FROM `admin-salon` ;";
 $users = $querySelect->lister($requete);
 
 //header('Location: index.php?page=accueil');
@@ -29,31 +29,44 @@ if(isset($_POST["frmLogin"]))
         include './includes/frmLogin.php';
     }
     else
-    { $requete = "SELECT * FROM `admin-salon` where nom=`$username` ;";
-        $users = $querySelect->lister($requete);
-        if(count($users)){
-           if (password_verify($password,$users['password'])) {
+    { $requetea = "SELECT * FROM `admin-salon` where nom='$username' ;";
+        $usersa = $querySelect->lister($requetea);
+       
+        if(count($usersa)){
+           if (password_verify($password,$usersa[0]['password'])) {
                
                echo "Bienvenue à Raylina Beauty!";
                header('Location: index.php?page=Salon');
            }}
            else{
-            $requetec = "SELECT * FROM `` where nom=`$username` ;";
-            $users = $querySelect->lister($requete);
-                
-           }
-    }else{
-        echo "Ton identifiant et mot de passe ne sont pas accord !";
-        header('Location: index.php?page=login');
+                     $requetec = "SELECT * FROM `client` where nom='$username' ;";
+                     $usersc = $querySelect->lister($requetec);
+                     //var_dump($usersc[0]['password']);
+                     if(!count($usersc)){
+                        
+                        include './includes/frmInscription.php';
+                                        }else{ echo "Je suis la";
+                                            var_dump(password_verify($password,$usersc[0]['password']));
+                                           /*  if (password_verify($password,$usersc[0]['password'])) {
+               
+                                                echo "Bienvenue à Raylina Beauty!";
+                                                header('Location: index.php?page=Salon');
+                                                    } */
+                                            }
+                }
     }
-    }
-
-}
-else{
+} else      
+    {
+//        echo "Ton identifiant et mot de passe ne sont pas accord !";
+ //       header('Location: index.php?page=login');
+ 
     //echo "Je ne viens pas du formulaire";
 /*     $mail = ""; */
-    include './includes/frmLogin.php';
-}
+include './includes/frmLogin.php';
+
+    }
+
+
 
 
 ?>
