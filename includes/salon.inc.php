@@ -32,8 +32,8 @@
 <nav 
 	class="mobile-menu" 
 	data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" 	aria-label="Menu hors-champ">
-	<ul id="menu-principal-i-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2052"><a href="https://sbarber.fr/prestations-femme" class="ct-menu-link">Prestations Femme</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2053"><a href="https://sbarber.fr/prestations-homme" class="ct-menu-link">Prestations Homme</a></li>
+	<ul id="menu-principal-i-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2052"><a href="index.php?page=salon/prestations-femme" class="ct-menu-link">Prestations Femme</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2053"><a href="index.php?page=salon/prestations-homme" class="ct-menu-link">Prestations Homme</a></li>
 </ul></nav>
 
 
@@ -81,7 +81,7 @@
 			</span><span class="ct-label" hidden="" >Snapchat</span>			
         	</a>
 							
-				<a href="https://g.page/Lamaisonbysbarber?share" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener" >
+				<a href="index.php?page=salon" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener" >
 					<span class="ct-icon-container" >
 				<svg
 				width="20px"
@@ -99,24 +99,19 @@
 
 
 
-<<!-- /div></div></div></div></div></div></div><div data-device="mobile" data-transparent="" ><div class="ct-sticky-container"><div data-sticky="shrink"><div data-row="middle" data-column-set="2" data-transparent-row="yes" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
+ </div></div></div></div></div></div>
+ <div data-device="mobile" data-transparent="" >
+	<!-- <div class="ct-sticky-container"><div data-sticky="shrink"> -->
+		<div data-row="middle" data-column-set="2" data-transparent-row="yes" >
+			<div class="ct-container" >
+				<div data-column="start" data-placements="1" >
+					<div data-items="primary" >
 <div	class="site-branding"
-	data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" >
+	data-id="logo" 		itemscope="itemscope" itemtype="index.php?page=salon" >
 
-			<a href="https://sbarber.fr/" class="site-logo-container" rel="home"><img width="512" height="512" src="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white.png" class="default-logo" alt="La Maison by S.Barber" /></a>	
+			<a href="index.php?page=salon" class="site-logo-container" rel="home"><img width="912" height="912" src="./assets/img/Logo 500x500  px (3).jpeg" class="default-logo" alt="raylina beauty et soins" /></a>	
 	</div>
- -->
-
-	<svg
-		class="ct-icon"
-		width="18" height="14" viewBox="0 0 18 14"
-		aria-hidden="true"
-		data-type="type-1">
-
-		<rect y="0.00" width="18" height="1.7" rx="1"/>
-		<rect y="6.15" width="18" height="1.7" rx="1"/>
-		<rect y="12.3" width="18" height="1.7" rx="1"/>
-	</svg>
+ 
 </button>
 </div></div></div></div></div></div></div></header>
 	<main id="main" class="site-main hfeed" >
