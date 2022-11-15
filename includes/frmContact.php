@@ -46,6 +46,7 @@
         
     <main id="main" class="site-main hfeed">
 
+<div  id="container" style="width:50%;position:relative;top: 25%;left: 30%;margin-top: 9%;margin-bottom: 18%;">
 
         <div class="ct-container-full" data-content="normal">
             <div class="entry-content">
@@ -101,22 +102,4 @@
         </div>
         </div>
     </main>
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="footer-col footer-about col-sm">
-                    <h5 class="footer-headding">Raylina Beauty</h5>
-                    <p class="footer-para">Raylina Beaute Salon est situé 55 Rue de la République76000 Rouen France.
-                        Notre équipe de stylistes professionnels, talentueux et formés en permanence s'engage à travailler avec chaque client pour obtenir le look qui convient le mieux pour eux.
-                        <br>Nous nous efforçons d'offrir un service de la plus haute qualité, tout en maintenant un environnement amusant, convivial et sans prétention.<br />
-                        <br />Passez nous voir dès aujourd'hui, ou prenez rendez-vous
-                    </p>
-                </div>
-                <div class="footer-col col-sm">
-                    <h5 class="footer-headding">Emplacement</h5>
-                    <p class="footer-para">55 Rue de la République <br /> 76000 Rouen France<br /><br /> Tel: 09 82 47 92 74 </p>
-
-                    <h5 class="footer-headding">Hours</h5>
-                    <p class="footer-para">Lundi 09-19 | Mardi 09-19 | Mercredi 09-19| Jeudi 09-19 | Vendredi 09-19 | Samedi 09-19 </p>
-
-                </div>
+    

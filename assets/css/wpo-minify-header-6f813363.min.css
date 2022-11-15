@@ -1428,6 +1428,7 @@ nav > ul > .menu-item-2052[class*="ct-mega-menu"] .ct-column-heading {
 .wp-block-cover-image.alignleft,
 .wp-block-cover-image.alignright,
 .wp-block-cover.aligncenter,
+
 .wp-block-cover.alignleft,
 .wp-block-cover.alignright {
   display: flex;
