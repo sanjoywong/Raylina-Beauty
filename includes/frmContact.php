@@ -90,6 +90,7 @@
 </div>
 </div>
 
+<div  id="container" style="width:50%;position:relative;top: 25%;left: 30%;margin-top: 9%;margin-bottom: 18%;">
 
  <form action="index.php?page=contat" method="post">
 <label for="name">Name:*</label><br> <input type="text" name="name" required><br><br>
@@ -116,6 +117,7 @@
            
            </div>
     </div>
+</div>
 </div>
     </main>
     <footer>
