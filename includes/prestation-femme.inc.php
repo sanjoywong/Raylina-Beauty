@@ -1170,7 +1170,7 @@
       width: var(--block-width) !important
     }
   </style>
-  <!-- <link rel='stylesheet' id='wpo_min-header-0-css' href='https://sbarber.fr/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-6e96335f.min.css' media='all' /> -->
+  <!-- <link rel='stylesheet' id='wpo_min-header-0-css' href='https://raylinabeauty.business.site/wp-content/cache/wpo-minify/1666797090/assets/wpo-minify-header-6e96335f.min.css' media='all' /> -->
   <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-header-jquery-core3.6.0.min.js' id='wpo_min-header-0-js'></script>
   <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-header-jquery-migrate3.3.2.min.js' id='wpo_min-header-1-js'></script>
   <script type="text/javascript">
@@ -1211,8 +1211,8 @@
       }
     }
   </style>
-  <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
-  <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-192x192.png" sizes="192x192" />
+ <!--  <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
+  <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-192x192.png" sizes="192x192" /> -->
   <link rel="apple-touch-icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-180x180.png" />
   <meta name="msapplication-TileImage" content="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-270x270.png" />
 </head>

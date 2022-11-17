@@ -19,8 +19,7 @@
 
 <body class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
 
-<a class="skip-link show-on-focus" href="#main">
-	Passer au contenu</a>
+<a class="skip-link show-on-focus" href="#main"> Passer au contenu</a>
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div class="ct-drawer-canvas"><div id="offcanvas" class="ct-panel ct-header" data-behaviour="modal" >
 		<div class="ct-panel-actions">
@@ -31,10 +30,11 @@
 		<div class="ct-panel-content" data-device="desktop" ></div><div class="ct-panel-content" data-device="mobile" >
 <nav 
 	class="mobile-menu" 
-	data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" 	aria-label="Menu hors-champ">
-	<ul id="menu-principal-i-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2052"><a href="index.php?page=salon/prestations-femme" class="ct-menu-link">Prestations Femme</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2053"><a href="index.php?page=salon/prestations-homme" class="ct-menu-link">Prestations Homme</a></li>
-</ul></nav>
+	data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" aria-label="Menu hors-champ">
+	<ul id="menu-principal-i-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2052">
+		<a href="https://sbarber.fr/prestations-femme" class="ct-menu-link">Prestations Femme</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2053">
+	<a href="https://sbarber.fr/prestations-homme" class="ct-menu-link">Prestations Homme</a></li></ul></nav>
 
 
 <div
@@ -48,40 +48,12 @@
 							
 				<a href="https://www.facebook.com/lamaisonbysbarber" data-network="facebook" aria-label="Facebook" target="_blank" rel="noopener" >
 					<span class="ct-icon-container" >
-				<svg
-				width="20px"
-				height="20px"
-				viewBox="0 0 20 20"
-				aria-hidden="true">
-					<path d="M20,10.1c0-5.5-4.5-10-10-10S0,4.5,0,10.1c0,5,3.7,9.1,8.4,9.9v-7H5.9v-2.9h2.5V7.9C8.4,5.4,9.9,4,12.2,4c1.1,0,2.2,0.2,2.2,0.2v2.5h-1.3c-1.2,0-1.6,0.8-1.6,1.6v1.9h2.8L13.9,13h-2.3v7C16.3,19.2,20,15.1,20,10.1z"/>
-				</svg>
-			</span><span class="ct-label" hidden="" >Facebook</span>				</a>
-							
-				<a href="https://www.instagram.com/lamaisonbysbarber" data-network="instagram" aria-label="Instagram" target="_blank" rel="noopener" >
-					<span class="ct-icon-container" >
-				<svg
-				width="20"
-				height="20"
-				viewBox="0 0 20 20"
-				aria-hidden="true">
-					<circle cx="10" cy="10" r="3.3"/>
-					<path d="M14.2,0H5.8C2.6,0,0,2.6,0,5.8v8.3C0,17.4,2.6,20,5.8,20h8.3c3.2,0,5.8-2.6,5.8-5.8V5.8C20,2.6,17.4,0,14.2,0zM10,15c-2.8,0-5-2.2-5-5s2.2-5,5-5s5,2.2,5,5S12.8,15,10,15z M15.8,5C15.4,5,15,4.6,15,4.2s0.4-0.8,0.8-0.8s0.8,0.4,0.8,0.8S16.3,5,15.8,5z"/>
-			<!-- 	</svg>
-			</span><span class="ct-label" hidden="" >Instagram</span>				</a>
-							
-				<a href="https://www.snapchat.com/add/sbeaury" data-network="snapchat" aria-label="Snapchat" target="_blank" rel="noopener" >
-					<span class="ct-icon-container" >
-				<svg -->
-				width="20px"
-				height="20px"
-				viewBox="0 0 20 20"
-				aria-hidden="true">
-					<path d="M10,0.5c-6,0-6,6-6,6v1c0,0,0,0-0.1,0C3.6,7.5,2,7.6,2,8.9c0,1.5,1.7,1.6,2,1.6c0,0,0,0,0,0c0,1-1.7,2.2-2.7,2.4C0.3,13.3,0,14,0,14.5c0,0.3,0.1,0.5,0.1,0.6c0.4,0.9,1.5,1.3,2.6,1.3c0,1.4,1.1,2,1.8,2c0.8,0,1.6-0.4,1.6-0.4c0,0,1.3,1.4,3.9,1.4s3.9-1.4,3.9-1.4c0,0,0.8,0.4,1.6,0.4c0.7,0,1.7-0.6,1.8-2c1.1,0,2.2-0.5,2.6-1.3c0-0.1,0.1-0.3,0.1-0.6c0-0.5-0.3-1.2-1.3-1.6c-1.1-0.3-2.7-1.4-2.7-2.4c0,0,0,0,0,0c0.3,0,2-0.1,2-1.6c0-1.3-1.6-1.4-1.9-1.4c0,0-0.1,0-0.1,0v-1C16,6.5,16,0.5,10,0.5L10,0.5z"/>
-				</svg>
+				
+				
 			</span><span class="ct-label" hidden="" >Snapchat</span>			
         	</a>
 							
-				<a href="index.php?page=salon" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener" >
+				<a href="https://g.page/Lamaisonbysbarber?share" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener" >
 					<span class="ct-icon-container" >
 				<svg
 				width="20px"
@@ -90,28 +62,17 @@
 				aria-hidden="true">
 					<path d="M5.9 10.7c0 .4-.4.8-.8.8s-.8-.4-.8-.8.4-.8.8-.8.8.3.8.8zm1.7 0c0 1.3-1.1 2.4-2.4 2.4S2.7 12 2.7 10.7c0-1.3 1.1-2.4 2.4-2.4s2.5 1 2.5 2.4zm-.9 0c0-.9-.7-1.6-1.6-1.6-.9 0-1.6.7-1.6 1.6 0 .9.7 1.6 1.6 1.6.9 0 1.6-.7 1.6-1.6zm8.2-.8c-.4 0-.8.4-.8.8s.4.8.8.8.8-.4.8-.8c0-.5-.4-.8-.8-.8zm2.4.8c0 1.3-1.1 2.4-2.4 2.4s-2.4-1.1-2.4-2.4c0-1.3 1.1-2.4 2.4-2.4s2.4 1 2.4 2.4zm-.8 0c0-.9-.7-1.6-1.6-1.6-.9 0-1.6.7-1.6 1.6 0 .9.7 1.6 1.6 1.6.9 0 1.6-.7 1.6-1.6zm1.6 4.1c-2.1 1.7-5.2 1.3-6.9-.8l-.9 1.5c0 .1-.1.1-.1.1-.2.1-.4.1-.6-.1L8.7 14c-1.7 2.1-4.7 2.5-6.9.8-2-1.7-2.4-4.8-.8-6.9-.1-.5-.4-1-.7-1.4 0-.1-.1-.2-.1-.3 0-.2.2-.4.4-.4h3.1c3.9-2.2 8.7-2.2 12.6 0h3.1c.1 0 .2 0 .3.1.2.1.2.4 0 .6-.3.4-.6.9-.8 1.4 1.7 2.1 1.3 5.2-.8 6.9zm-8.9-4.1c0-2.2-1.8-4.1-4.1-4.1h-1C2.3 7.1 1 8.8 1 10.7c0 2.2 1.9 4 4.1 4 2.3.1 4.1-1.8 4.1-4zm6.6-4h-.2c-.2 0-.5-.1-.7-.1-2.2 0-4 1.7-4.1 3.9 0 .7.2 1.4.5 2.1.1.1.1.2.2.3.8 1.1 2 1.8 3.4 1.8 1.9 0 3.5-1.3 3.9-3.1.5-2.1-.8-4.3-3-4.9z"/>
 				</svg>
-			</span><span class="ct-label" hidden="" >TripAdvisor</span>				</a>
-			
-			
-					</div>
-
-	
-
-
-
- </div></div></div></div></div></div>
- <div data-device="mobile" data-transparent="" >
-	<!-- <div class="ct-sticky-container"><div data-sticky="shrink"> -->
+			</span><span class="ct-label" hidden="" >TripAdvisor</span></a>
+		</div></div><div>data-id="widget-area-1"></div></div></div></div>
+ <div data-device="mobile" data-transparent="" ><div class="ct-sticky-container"><div data-sticky="shrink">
 		<div data-row="middle" data-column-set="2" data-transparent-row="yes" >
-			<div class="ct-container" >
-				<div data-column="start" data-placements="1" >
-					<div data-items="primary" >
-<div	class="site-branding"
-	data-id="logo" 		itemscope="itemscope" itemtype="index.php?page=salon" >
-
-			<a href="index.php?page=salon" class="site-logo-container" rel="home"><img width="912" height="912" src="./assets/img/Logo 500x500  px (3).jpeg" class="default-logo" alt="raylina beauty et soins" /></a>	
+	<div class="ct-container" ><div data-column="start" data-placements="1" >
+	<div data-items="primary" >
+ <div class="site-branding"data-id="logo" itemscope="itemscope" itemtype="https://schema.org/Organization" >
+<a href="index.php?page=salon/" class="site-logo-container" rel="home"><img width="600" height="512" src="./assets/img/Logo 500x500  px.gif" class="default-logo" alt="raylina beauty et soins" /></a>	
 	</div>
  
+
 </button>
 </div></div></div></div></div></div></div></header>
 	<main id="main" class="site-main hfeed" >
@@ -119,7 +80,8 @@
 		
 	<div
 		class="ct-container-full"
-				data-content="normal"		>
+				data-content="normal"><article>
+</article>
 
 		
 
@@ -135,7 +97,7 @@
 
 
 
-<h2 class="has-text-align-center has-text-color" style="color:#ffffff">Bienvenue Raylina Beauty</h2>
+<h2 class="has-text-align-center has-text-color" style="color:#ffffff">Bienvenue au salon Raylina Beauty</h2>
 
 
 
@@ -155,7 +117,7 @@
 <div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span>
 <img loading="lazy" width="1536" height="2049" class="wp-block-cover__image-background wp-image-1574" alt="" src="./assets/img/coupehome.jpg" data-object-fit="cover" srcset="./assets/img/coupehome.jpg  1536w",
  /><div class="wp-block-cover__inner-container">
-<h2 class="has-text-align-left"><a href="https://sbarber.fr/prestations-homme" data-type="page" data-id="2044">Les Prestations homme</a></h2>
+<h2 class="has-text-align-left"><a href="index.php?page=salon/prestations-homme" data-type="page" data-id="2044">Les Prestations homme</a></h2>
 </div></div>
 </div>
 </div>

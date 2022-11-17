@@ -1,4 +1,4 @@
-nav.primary-navigation {
+ nav.primary-navigation {
     margin: 0 auto;
     display: block;
     padding: 20px 0 0 0;
@@ -66,4 +66,4 @@ nav.primary-navigation {
   
   ul li ul li a {
     transition: all 0.5s ease;
-  }
+  } 

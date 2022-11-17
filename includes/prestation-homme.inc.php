@@ -171,7 +171,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<h1 class="page-title" title="Prestations Homme" itemprop="headline" >Prestations Homme</h1>
 			<nav class="ct-breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList" ><span class="first-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" ><meta itemprop="position" content="1"><a href="index.php?page=salon" itemprop="item" ><span itemprop="name" >Salon</s></span></a><meta itemprop="url" content="https://sbarber.fr/"/><svg class="separator" width="8" height="8" viewBox="0 0 8 8">
 				<polygon points="2.5,0 6.9,4 2.5,8 "/>
-			</svg></span><span class="last-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" ><meta itemprop="position" content="2"><span itemprop="name" >Prestations Homme</span><meta itemprop="url" content="https://sbarber.fr/prestations-homme"/></span>			</nav>
+			</svg></span><span class="last-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" ><meta itemprop="position" content="2"><span itemprop="name" >Prestations Homme</span><meta itemprop="url" content="https://raylinabeauty.business.site/"/></span>		
+			</nav>
 
 				</header>
 	</div>

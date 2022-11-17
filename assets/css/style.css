@@ -1,13 +1,8 @@
-@font-face {
-  font-family: "playfair";
-  src: url("../fonts/Roboto/playfair-display-regular.ttf");
-}
-* {
-  font-family: "playfair";
-}
+
 body {
   margin: 0;
   background-color: violet;
+  font-family: "Roboto","sans-serif";
 }
 
 h1,
