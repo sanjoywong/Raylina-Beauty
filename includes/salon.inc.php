@@ -1,20 +1,18 @@
 <!doctype html>
 <html lang="fr-FR">
 <head>
-	
+<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	
-<!-- 
 
-        <noscript><link rel='stylesheet' href='https://sbarber.fr/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'></noscript> -->
+
 <style id="ct-main-styles-inline-css">[data-header*="type-1"] {--has-transparent-header:1;}[data-prefix="single_page"] {background-color:var(--paletteColor3);background-image:none;}</style>
 <style id="uagb-style-conditional-extension">@media (min-width: 1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none !important}}@media (min-width: 768px) and (max-width: 1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none !important}}@media (max-width: 767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none !important}}</style><link rel="icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
 <link rel="icon" href="./assets/img/1664529137223.jpg" sizes="192x192" />
-<!-- <link rel="apple-touch-icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-180x180.png" />
-<meta name="msapplication-TileImage" content="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-270x270.png" />-->
+
 	</head> 
 
 <body class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
@@ -32,9 +30,9 @@
 	class="mobile-menu" 
 	data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" aria-label="Menu hors-champ">
 	<ul id="menu-principal-i-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2052">
-		<a href="https://sbarber.fr/prestations-femme" class="ct-menu-link">Prestations Femme</a></li>
+		<a href="index.php?page=salon/prestations-femme" class="ct-menu-link">Prestations Femme</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2053">
-	<a href="https://sbarber.fr/prestations-homme" class="ct-menu-link">Prestations Homme</a></li></ul></nav>
+	<a href="index.php?page=salon/prestations-homme" class="ct-menu-link">Prestations Homme</a></li></ul></nav>
 
 
 <div
@@ -43,15 +41,9 @@
 
 	
 		<div class="ct-social-box" data-icon-size="custom" data-color="custom" data-icons-type="simple" >
-			
-			
-							
-				<a href="https://www.facebook.com/lamaisonbysbarber" data-network="facebook" aria-label="Facebook" target="_blank" rel="noopener" >
+			<a href="https://www.facebook.com/lamaisonbysbarber" data-network="facebook" aria-label="Facebook" target="_blank" rel="noopener" >
 					<span class="ct-icon-container" >
-				
-				
-			</span><span class="ct-label" hidden="" >Snapchat</span>			
-        	</a>
+				</span><span class="ct-label" hidden="" >Snapchat</span></a>
 							
 				<a href="https://g.page/Lamaisonbysbarber?share" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener" >
 					<span class="ct-icon-container" >
@@ -70,109 +62,57 @@
 	<div data-items="primary" >
  <div class="site-branding"data-id="logo" itemscope="itemscope" itemtype="https://schema.org/Organization" >
 <a href="index.php?page=salon/" class="site-logo-container" rel="home"><img width="600" height="512" src="./assets/img/Logo 500x500  px.gif" class="default-logo" alt="raylina beauty et soins" /></a>	
-	</div>
- 
-
-</button>
-</div></div></div></div></div></div></div></header>
+	
+</div>
+ </button>
+</div>
+</div>
+</div>
+</div
+></div>
+</div>
+</div>
+</header>
 	<main id="main" class="site-main hfeed" >
 
 		
-	<div
-		class="ct-container-full"
-				data-content="normal"><article>
+<div class="ct-container-full"data-content="normal">
+<article>
 </article>
 
-		
-
-
-		
-		
-		
-		<div class="entry-content">
+<div class="entry-content">
 			
-<p></p>
-
-
-
-
-
+<p>
+</p>
 <h2 class="has-text-align-center has-text-color" style="color:#ffffff">Bienvenue au salon Raylina Beauty</h2>
-
-
-
 <div class="wp-container-3 wp-block-columns alignwide">
 <div class="wp-container-1 wp-block-column">
 <div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span>
 <img loading="lazy" width="1536" height="2049" class="wp-block-cover__image-background wp-image-2525" alt="" src="./assets/img/pmtkoufa.jpg" style="object-position:49% 70%" data-object-fit="cover" data-object-position="49% 70%" srcset="./assets/img/pmtkoufa.jpg, ./assets/img/pmtkoufa.jpg-225x300.jpg 225w, ./assets/img/pmtkoufa.jpg2-768x1025.jpg 768w,
   sizes="(max-width: 1536px) 100vw, 1536px/>
 <div class="wp-block-cover__inner-container">
-<h2 class="has-text-align-left has-text-color" style="color:#ffffff"><a href="../assets/css/" data-type="page" data-id="2039">Les Prestations Femme</a></h2>
-</div></div>
+<h2 class="has-text-align-left has-text-color" style="color:#ffffff"><a href="index.php?page=salon/prestations-femme" data-type="page" data-id="2039">Les Prestations Femme</a></h2>
 </div>
-
-
-
+</div>
+</div>
 <div class="wp-container-2 wp-block-column">
 <div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span>
-<img loading="lazy" width="1536" height="2049" class="wp-block-cover__image-background wp-image-1574" alt="" src="./assets/img/coupehome.jpg" data-object-fit="cover" srcset="./assets/img/coupehome.jpg  1536w",
+<img loading="lazy" width="1536" height="2049" class="wp-block-cover__image-background wp-image-1574" alt="" src="./assets/img/coupehome.jpg" data-object-fit="cover"data-object-position="49% 70%" srcset="./assets/img/coupehome.jpg  1536w",
  /><div class="wp-block-cover__inner-container">
-<h2 class="has-text-align-left"><a href="index.php?page=salon/prestations-homme" data-type="page" data-id="2044">Les Prestations homme</a></h2>
-</div></div>
+<h2 class="has-text-align-left has-text-color"><a href="index.php?page=salon/prestations-homme" data-type="page" data-id="2044">Les Prestations homme</a></h2>
 </div>
 </div>
-</div></div>
+</div>
+</div>
+</div>
+</div>
 
-
-
-
-
-
-
-<!-- <div class="wp-container-11 wp-block-group"><div class="wp-block-group__inner-container"> -->
-<!-- <div class="wp-container-10 wp-block-columns"> -->
-<!-- <div class="wp-container-5 wp-block-column"><div>	<div id="sbarber_hype_container" class="HYPE_document" style="margin:auto;position:relative;width:100%;height:600px;overflow:hidden;"> -->
-	<!-- 	<script type="text/javascript" charset="utf-8" src="https://sbarber.fr/wp-content/uploads/hypeanimations/1/sbarber.hyperesources/sbarber_hype_generated_script.js?77565"></script> -->
+<script type="text/javascript" charset="utf-8" src="index.php?page=salon/wp-content/uploads/hypeanimations/1/sbarber.hyperesources/sbarber_hype_generated_script.js?77565"></script> -->
 	</div>
 </div>
 </div>
 
-
-
-
-
-
-
-
-
-		
-		
-		
-
-
-	
-		
-	
-
-
-<script>requestAnimationFrame(() => document.body.classList.add( "stk--anim-init" ))</script><style>.wp-container-1 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-1 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-1 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
-<style>.wp-container-2 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-2 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-2 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
-<style>.wp-container-3 {display: flex;gap: 2em;flex-wrap: nowrap;align-items: center;}.wp-container-3 > * { margin: 0; }</style>
-<style>.wp-container-4 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-4 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-4 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
-<style>.wp-container-5 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-5 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-5 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
-<style>.wp-container-6 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-6 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-6 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
-<style>.wp-container-7 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-7 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-7 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
-<style>.wp-container-8 {display: flex;gap: 2em;flex-wrap: nowrap;align-items: center;}.wp-container-8 > * { margin: 0; }</style>
-<style>.wp-container-9 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-9 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-9 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
-<style>.wp-container-10 {display: flex;gap: 2em;flex-wrap: nowrap;align-items: center;}.wp-container-10 > * { margin: 0; }</style>
-<style>.wp-container-11 > .alignleft { float: left; margin-inline-start: 0; margin-inline-end: 2em; }.wp-container-11 > .alignright { float: right; margin-inline-start: 2em; margin-inline-end: 0; }.wp-container-11 > .aligncenter { margin-left: auto !important; margin-right: auto !important; }</style>
-
-
-        
- 
-             <div>
-                 
-                 <h3>Creer en 2019 salon de beaute ,cosmetique et soins</h3>
+ <div> <h3>Creer en 2019 salon de beaute ,cosmetique et soins</h3>
                  <p>Se faire beau ou belle est très important pour la confiance en soi. 
                      En effet lorsqu’on se sent beau, belle, nous sommes plus confiants et donc plus heureux.
                      C’est la raison pour laquelle notre salon de beauté vous ouvre ses portes pour vous permettre de profiter de moments spéciaux. 

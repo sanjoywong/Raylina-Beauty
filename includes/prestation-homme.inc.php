@@ -2,7 +2,7 @@
     
 
 <!doctype html>
-<html lang="fr-FR" prefix="og: https://ogp.me/ns#">
+<html lang="fr-FR" prefix="#">
 <head>
 	
 	<meta charset="UTF-8">
@@ -16,7 +16,7 @@
 <meta name="robots" content="nofollow, noindex"/>
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Prestations Homme - La Maison by S.Barber" />
+<meta property="og:title" content="Prestations Homme - salon raylina beauty" />
 <meta property="og:description" content="Réserver un créneau" />
 <meta property="og:url" content="index.php?page=salon/prestations-homme" />
 <meta property="og:site_name" content="La Maison by S.Barber" />
@@ -127,7 +127,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				</svg>
 			</span><span class="ct-label" hidden="" >Snapchat</span>				</a>
 							
-				<a href="https://g.page/Lamaisonbysbarber?share" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener" >
+				<a href="index.php?page=salon" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener" >
 					<span class="ct-icon-container" >
 				<svg
 				width="20px"
@@ -152,6 +152,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		<svg class="ct-icon" width="15" height="15" viewBox="0 0 20 20"><path d="M10,0L9.4,0.6L0.8,9.1l1.2,1.2l7.1-7.1V20h1.7V3.3l7.1,7.1l1.2-1.2l-8.5-8.5L10,0z"/></svg>	</a>
 
 	</div>
+	
 <div id="main-container">
 	<header id="header" class="ct-header" data-id="type-1" itemscope="" itemtype="https://schema.org/WPHeader" ><div data-device="desktop" data-transparent="" ><div class="ct-sticky-container"><div data-sticky="shrink"><div data-row="middle" data-column-set="2" data-transparent-row="yes" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
 
@@ -165,7 +166,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		
 <div class="hero-section" data-type="type-2" >
 			<figure>
-			<div class="ct-image-container"><img width="1918" height="1080" src="./assets/css/wp-content/uploads/2020/11/DSC08499-Copier.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="./assets/css//wp-content/uploads/2020/11/DSC08499-Copier.jpg 1918w, https://sbarber.fr/wp-content/uploads/2020/11/DSC08499-Copier-300x169.jpg 300w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1024x577.jpg 1024w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-768x432.jpg 768w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1536x865.jpg 1536w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1320x743.jpg 1320w" sizes="(max-width: 1918px) 100vw, 1918px" itemprop="image" /></div>		</figure>
+			<div class="ct-image-container"><img width="1918" height="1080" src="./assets/css/wp-content/uploads/2020/11/DSC08499-Copier.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="./assets/css/wp-content/uploads/2020/11/DSC08499-Copier.jpg 1918w, https://sbarber.fr/wp-content/uploads/2020/11/DSC08499-Copier-300x169.jpg 300w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1024x577.jpg 1024w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-768x432.jpg 768w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1536x865.jpg 1536w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1320x743.jpg 1320w" sizes="(max-width: 1918px) 100vw, 1918px" itemprop="image" /></div>	</figure>
 	
 			<header class="entry-header ct-container-narrow">
 			<h1 class="page-title" title="Prestations Homme" itemprop="headline" >Prestations Homme</h1>

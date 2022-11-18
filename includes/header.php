@@ -3,7 +3,7 @@
 <header>
         <nav role="navigation" class="primary-navigation">
         
-               <ul >
+                        <ul >
                         <li><a href=index.php?page=salon>SALON</a></li>
                         <li><a href=index.php?page=prestation-femme>PRESTATIONS FEMME</a></li>
                         <li><a href=index.php?page=prestation-homme>PRESTATIONS HOMME</a></li>
