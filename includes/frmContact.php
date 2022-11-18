@@ -46,7 +46,6 @@
         
     <main id="main" class="site-main hfeed">
 
-<div  id="container" style="width:50%;position:relative;top: 25%;left: 30%;margin-top: 9%;margin-bottom: 18%;">
 
         <div class="ct-container-full" data-content="normal">
             <div class="entry-content">
@@ -98,7 +97,6 @@
                 <p>Telphone: 09 82 47 92 74</p>
 
             </div>
-        </div>
         </div>
         </div>
     </main>

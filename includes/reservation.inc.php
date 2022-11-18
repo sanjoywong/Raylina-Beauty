@@ -6,7 +6,6 @@ var_dump($RDV[0]['date']);
 ?>
 <html lang="fr-FR">
 
-
 <body class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
 	<main id="main" class="site-main hfeed">
@@ -78,3 +77,7 @@ var_dump($RDV[0]['date']);
 					<input type="submit" value="Submit">
 				</form>
 			</div>
+		</div>
+	</main>
+
+</body>
