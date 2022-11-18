@@ -1,46 +1,5 @@
 <!doctype html>
-<html lang="fr-FR">
 
-<head>
-
-
-    <style id="ct-main-styles-inline-css">
-        [data-header*="type-1"] {
-            --has-transparent-header: 1;
-        }
-
-        [data-prefix="single_page"] {
-            background-color: var(--paletteColor3);
-            background-image: none;
-        }
-    </style>
-    <style id="uagb-style-conditional-extension">
-        @media (min-width: 1025px) {
-
-            body .uag-hide-desktop.uagb-google-map__wrap,
-            body .uag-hide-desktop {
-                display: none !important
-            }
-        }
-
-        @media (min-width: 768px) and (max-width: 1024px) {
-
-            body .uag-hide-tab.uagb-google-map__wrap,
-            body .uag-hide-tab {
-                display: none !important
-            }
-        }
-
-        @media (max-width: 767px) {
-
-            body .uag-hide-mob.uagb-google-map__wrap,
-            body .uag-hide-mob {
-                display: none !important
-            }
-        }
-    </style>
-    <link rel="icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
-    <link rel="icon" href="./assets/img/1664529137223.jpg" sizes="192x192" />
 
 <body class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage">
         
@@ -81,7 +40,7 @@
                     <br>
                     <input type="submit" value="Submit" style="padding: 4px 70px;">
                     <input type="hidden" name="frmContact" />
-
+                </form>
             </div>
             <br>
             <div class="location col-sm">
