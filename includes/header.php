@@ -3,14 +3,14 @@
 <header>
         <nav role="navigation" class="primary-navigation">
         
-               <ul >
+                        <ul >
                         <li><a href=index.php?page=salon>SALON</a></li>
                         <li><a href=index.php?page=prestation-femme>PRESTATIONS FEMME</a></li>
                         <li><a href=index.php?page=prestation-homme>PRESTATIONS HOMME</a></li>
                         <li><a href=index.php?page=produits>PRODUITS</a></li>
                         
                         <li><a href=index.php?page=reservation>RESERVATION</a></li>
-                        <li><a href=index.php?page=facture>Facture</a></li>
+                        <li><a href=index.php?page=facture>FACTURE</a></li>
                         <li><a href=index.php?page=contact>CONTACT</a></li>
                         
                         <li><a href=index.php?page=login>LOGIN</a></li>

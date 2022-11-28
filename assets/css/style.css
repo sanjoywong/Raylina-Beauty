@@ -1,13 +1,10 @@
-@font-face {
-  font-family: "playfair";
-  src: url("../fonts/Roboto/playfair-display-regular.ttf");
-}
-* {
-  font-family: "playfair";
-}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
 body {
   margin: 0;
   background-color: violet;
+  font-family: "Roboto","sans-serif";
 }
 
 h1,

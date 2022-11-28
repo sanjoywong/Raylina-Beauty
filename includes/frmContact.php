@@ -51,17 +51,22 @@
 				</svg>
 			</span><span class="ct-label" hidden="" >TripAdvisor</span</a>
 			</div>
+			
 
-		<svg
-		class="ct-icon"
-		width="18" height="14" viewBox="0 0 18 14"
-		aria-hidden="true"
-		data-type="type-1">
+ </div></div></div></div></div></div>
+ <div data-device="mobile" data-transparent="" >
+	<!-- <div class="ct-sticky-container"><div data-sticky="shrink"> -->
+		<div data-row="middle" data-column-set="2" data-transparent-row="yes" >
+			<div class="ct-container" >
+				<div data-column="start" data-placements="1" >
+					<div data-items="primary" >
+<div	class="site-branding"
+	data-id="logo" 		itemscope="itemscope" itemtype="index.php?page=salon" >
 
-		<rect y="0.00" width="18" height="1.7" rx="1"/>
-		<rect y="6.15" width="18" height="1.7" rx="1"/>
-		<rect y="12.3" width="18" height="1.7" rx="1"/>
-	</svg>
+			<a href="index.php?page=salon" class="site-logo-container" rel="home"><img width="912" height="912" src="./assets/img/Logo 500x500  px (3).jpeg" class="default-logo" alt="raylina beauty et soins" /></a>	
+	</div>
+
+		
 </button>
 </div></div></div></div></div></div></div></header>
 	<main id="main" class="site-main hfeed" >
@@ -107,7 +112,7 @@
            <p><span class="hvr-icon-hang"><i class="fas fa-map-marker-alt hvr-icon"></i></span> 55 Rue de la République
             76000 Rouen
             France</p><br>
-           <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ1QBHVH_e4EcRPbK63n3gIZw&key=..." width="350" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+           <iframe src="https://maps.googleapis.com/maps/https://goo.gl/maps/5TXENTPsU6pYwZor9" width="350" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div><br>
         <div class="hours col-sm">
            <h5>Heures d'ouverture</h5> <br>
