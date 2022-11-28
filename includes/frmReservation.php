@@ -3,6 +3,16 @@ $querySelect = new Sql();
 $requete = "SELECT * FROM `planning` ;";
 $RDV = $querySelect->lister($requete);
 //var_dump($RDV[0]['date']);
+
+$tblQuery = new Sql();
+$requeteEmp = "SELECT * from service ser
+                                 join planning pl 
+                                 where ser.id_service = pl.Service_id_Service";
+$tblService = $tblQuery->lister($requeteEmp);
+//var_dump($tblService[0]['nom_service']);
+//var_dump($tblService[0]['id_service']);
+//var_dump("Je suis lq");
+//	for ($i = 0; $i < count($tblService); $i++) {
 ?>
 
 <body class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage">
@@ -37,8 +47,9 @@ $RDV = $querySelect->lister($requete);
 		</div>
 	</main>
 
-	<div id="container" style="width:50%;position:relative;top: 15%;left: 25%;margin-top: 2%;margin-bottom: 18%;">
-		<form action="index.php?page=inscription" method="post">
+	<div class="entry-content" style="width:45%;position:relative;top: 15%;left: 30%;margin-top: 2%;">
+		<!-- <div id="container" style="width:50%;position:relative;top: 15%;left: 25%;margin-top: 2%;margin-bottom: 18%;"> -->
+		<form action="index.php?page=reservation" method="post">
 			<h1>Les Choix de Jour pour RDV</h1>
 			<label for="jour">Jour:</label><br>
 
@@ -51,7 +62,7 @@ $RDV = $querySelect->lister($requete);
 
 			<label for="temps">Temps:</label><br>
 
-			<select name="jour" id="jour">
+			<select name="heure" id="heure">
 				<?php for ($i = 0; $i < count($RDV); $i++) {
 				?>
 					<option value="<?= $RDV[$i]['heure_debut'] ?>"><?= $RDV[$i]['heure_debut'] ?></option>
@@ -59,25 +70,19 @@ $RDV = $querySelect->lister($requete);
 			</select>
 			<label for="service">choisir ton service:</label><br>
 			<select name="service" id="styliste">
-			<?php
-				$tblQuery = new Sql();
-				$requeteEmp = "SELECT * from service ser
-                                 join planning pl 
-                                 where ser.id_service = pl.id_service";
-				$tblService = $tblQuery->lister($requeteEmp);
-					var_dump($tblService);
-					var_dump("Je suis lq");
-			//	for ($i = 0; $i < count($tblService); $i++) {
+				<?php
+				for ($i = 0; $i < count($tblService); $i++) {
 				?>
-				
+					<option value="<?= $tblService[$i]['id_service'] ?>"><?= $tblService[$i]['nom_service'] ?></option>
+				<?php  } ?>
 			</select>
-				
-			<input type="submit" value="Submit">
+
+			<input type="submit" value="Submit" style="display:block;margin:0 auto">
 			<input type="hidden" name="frmReservation" />
 
 		</form>
 	</div>
 
-	
+
 
 </body>

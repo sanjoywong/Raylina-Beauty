@@ -1,16 +1,14 @@
 <?php
-
-if (isset($_POST['frmcontact'])) {
-    $mail = htmlentities(trim($_POST['mail']));
-    $mdp = htmlentities(trim($_POST['mdp']));
-
+if ($_SESSION['username']) {
+    include './includes/frmlogin.php';
+} elseif (isset($_POST['frmReservation'])) {
+    $jour = htmlentities(trim($_POST['jour']));
+    $heure = htmlentities(trim($_POST['heure']));
+    $service = htmlentities(trim($_POST['service']));
+    $username = $_SESSION['username'];
     $erreurs = array();
 
-    if (mb_strlen($mail) === 0)
-        array_push($erreurs, "Il manque votre e-mail");
 
-    if (mb_strlen($mdp) === 0)
-        array_push($erreurs, "Il manque votre mot de passe");
 
     if (count($erreurs)) {
         $messageErreur = "<ul>";
@@ -24,38 +22,19 @@ if (isset($_POST['frmcontact'])) {
         $messageErreur .= "</ul>";
 
         echo $messageErreur;
-        include './includes/frmContact.php';
+        include './includes/frmReservation.php';
     } else {
-        $requeteLogin = "SELECT password FROM utilisateurs WHERE mail='$mail'";
-        $sqlLogin = new Sql();
-        $resultatLogin = $sqlLogin->lister($requeteLogin);
+        $requeteRDV = "insert into `planning`(`Client_id_client`) values (`$username`) WHERE date='$jour' and heure_debut='$heure and Service_id_Service='$service";
+        $sqlRDV = new Sql();
+        $sqlRDV->inserer($requeteRDV);
 
-        if (count($resultatLogin) > 0) {
-            // Traitement pour vérifier le mot de passe
-            $resultatPassword = $resultatLogin[0]['password'];
+        echo "Votre RDV va bientôt etrê confirmé !";
+        //        $url = $_SERVER['HTTP_ORIGIN'] . dirname($_SERVER['REQUEST_URI']) . "/";
 
-            if (password_verify($mdp, $resultatPassword)) {
-                $message = "Vous êtes connecté";
-                $_SESSION['login'] = true;
-
-                $messageEmail = $mail . ' vous êtes connecté !';
-                sendEmail($mail, 'contact@ceppic-php-file-rouge.fr', 'Login Success', $messageEmail);
-            } else {
-                $message = "Erreur d'authentification";
-                $_SESSION['login'] = false;
-            }
-        } else {
-            $message = "Votre adresse n'est pas dans la base";
-        }
-
-        echo $message;
-
-        $url = $_SERVER['HTTP_ORIGIN'] . dirname($_SERVER['REQUEST_URI']) . "/";
-
-        echo redirection($url, 2000);
-        echo "<p><a href=\"$url\">Revenir à la page d'accueil</a></p>";
+        //      echo redirection($url, 2000);
+        //    echo "<p><a href=\"$url\">Revenir à la page d'accueil</a></p>";
     }
 } else {
-    $mail = "";
+
     include './includes/frmReservation.php';
 }

@@ -1615,3 +1615,196 @@ Stack trace:
 #4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
 #5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
 #6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(67): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pl.id_service' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * from s...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\frmReservation.php(68): Sql->lister('SELECT * from s...')
+#2 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(60): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#5 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(43): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE date='2022-11-01' and heure_debut='09:30:00 and Service_id_Service='2' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('insert into `pl...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\reservation.inc.php(29): Sql->inserer('insert into `pl...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(43): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(43): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\login.inc.php(43): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
