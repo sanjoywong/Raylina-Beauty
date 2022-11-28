@@ -9,13 +9,36 @@
 	
 
 
-<style id="ct-main-styles-inline-css">[data-header*="type-1"] {--has-transparent-header:1;}[data-prefix="single_page"] {background-color:var(--paletteColor3);background-image:none;}</style>
-<style id="uagb-style-conditional-extension">@media (min-width: 1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none !important}}@media (min-width: 768px) and (max-width: 1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none !important}}@media (max-width: 767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none !important}}</style><link rel="icon" href="https://sbarber.fr/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
+<style id="ct-main-styles-inline-css">[data-header*="type-1"]
+ {--has-transparent-header:1;}[data-prefix="single_page"] 
+{background-color:var(--paletteColor3);background-image:none;
+}
+</style>
+<style id="uagb-style-conditional-extension">@media (min-width: 1025px)
+{body .uag-hide-desktop.uagb-google-map__wrap,body 
+.uag-hide-desktop{display:none 
+	!important}
+}
+@media (min-width: 768px) 
+and (max-width: 1024px)
+{
+	body .uag-hide-tab.uagb-google-map__wrap,body 
+	.uag-hide-tab{display:none !important}
+	}
+	
+	@media (max-width: 767px){
+		body 
+		.uag-hide-mob.uagb-google-map__wrap,body 
+		.uag-hide-mob{display:none 
+			!important}
+	}
+	</style><link rel="icon" href="index.php?page/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
 <link rel="icon" href="./assets/img/1664529137223.jpg" sizes="192x192" />
 
-	</head> 
+</head> 
 
-<body class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+<body 
+class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
 
 <a class="skip-link show-on-focus" href="#main"> Passer au contenu</a>
 
@@ -91,7 +114,7 @@
 <img loading="lazy" width="1536" height="2049" class="wp-block-cover__image-background wp-image-2525" alt="" src="./assets/img/pmtkoufa.jpg" style="object-position:49% 70%" data-object-fit="cover" data-object-position="49% 70%" srcset="./assets/img/pmtkoufa.jpg, ./assets/img/pmtkoufa.jpg-225x300.jpg 225w, ./assets/img/pmtkoufa.jpg2-768x1025.jpg 768w,
   sizes="(max-width: 1536px) 100vw, 1536px/>
 <div class="wp-block-cover__inner-container">
-<h2 class="has-text-align-left has-text-color" style="color:#ffffff"><a href="index.php?page=salon/prestations-femme" data-type="page" data-id="2039">Les Prestations Femme</a></h2>
+<h2 class="has-text-align-left has-text-color" style="color:#ffffff"><a href="index.php?page=prestation-femme" data-type="page" data-id="2039">Les Prestations Femme</a></h2>
 </div>
 </div>
 </div>
@@ -99,7 +122,7 @@
 <div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span>
 <img loading="lazy" width="1536" height="2049" class="wp-block-cover__image-background wp-image-1574" alt="" src="./assets/img/coupehome.jpg" data-object-fit="cover"data-object-position="49% 70%" srcset="./assets/img/coupehome.jpg  1536w",
  /><div class="wp-block-cover__inner-container">
-<h2 class="has-text-align-left has-text-color"><a href="index.php?page=salon/prestations-homme" data-type="page" data-id="2044">Les Prestations homme</a></h2>
+<h2 class="has-text-align-left has-text-color"><a href="index.php?page=prestation-homme" data-type="page" data-id="2044">Les Prestations homme</a></h2>
 </div>
 </div>
 </div>
@@ -107,13 +130,16 @@
 </div>
 </div>
 
-<script type="text/javascript" charset="utf-8" src="index.php?page=salon/wp-content/uploads/hypeanimations/1/sbarber.hyperesources/sbarber_hype_generated_script.js?77565"></script> -->
+<script type="text/javascript" charset="utf-8" src="index.php?page=salon/wp-content/uploads/hypeanimations/1/sbarber.hyperesources/sbarber_hype_generated_script.js?77565"></script> 
+
 	</div>
+	
 </div>
 </div>
 
- <div> <h3>Creer en 2019 salon de beaute ,cosmetique et soins</h3>
-                 <p>Se faire beau ou belle est très important pour la confiance en soi. 
+ <div id ="col"> 
+	                  <h4>Creer en 2019 salon de beaute ,cosmetique et soins</h4>
+     <p>Se faire beau ou belle est très important pour la confiance en soi. 
                      En effet lorsqu’on se sent beau, belle, nous sommes plus confiants et donc plus heureux.
                      C’est la raison pour laquelle notre salon de beauté vous ouvre ses portes pour vous permettre de profiter de moments spéciaux. 
                      Notre objectif est de faire ressortir toute votre beauté et vous procurer du bien-être.
@@ -122,9 +148,8 @@
                      Notre objectif sera de mettre en avant vos atouts en vous rendant unique grâce à un nouveau look.
                      Alors, n’hésitez pas et prenez immédiatement un rendez-vous chez nous afin que nous puissions vous donner le style unique que vous avez longtemps voulu.</p>
                      <p>
-                         <h3>Une équipe de coiffeurs et de coiffeuses hautement qualifiée pour sublimer votre beauté et révéler votre personnalité</h3>
-                         <p>
-                             Chez Raylina Beauty, c’est la satisfaction à tout prix. Nos professionnels de la coiffure se chargeront de mettre en forme vos envies de coiffures de tout genre.
+    <h3>Une équipe de coiffeurs et de coiffeuses hautement qualifiée pour sublimer votre beauté et révéler votre personnalité</h3>
+ <p>Chez Raylina Beauty, c’est la satisfaction à tout prix. Nos professionnels de la coiffure se chargeront de mettre en forme vos envies de coiffures de tout genre.
                               Ayant reçu des formations de qualités, ces derniers sont les rois des ciseaux qu’ils manient avec expertise et délicatesse.
                                Chez nous, la coiffure est considérée comme un art. Et c’est la raison pour laquelle nous mettons l’inspiration au centre de nos créations quotidiennes. 
                               Peu importe votre état d’esprit, vos envies de changement ou de vous façonner une autre allure, nous trouverons la coiffure artistique qui vous conviendra le mieux.  
@@ -139,6 +164,8 @@
                               Chez nous, vous pourrez également trouver des produits d’entretien de cheveux pour hommes et pour femmes. Crèmes qui favorisent la repousse, produits pour soin de barbe, vernis à ongles, rouge à lèvres, mascara, crème de visage, illuminateurs, fonds de teint, crèmes pour soin de cheveux. Chez Raylina Beauty, tous les produits sont certifiés de 100 % authentiques et vérifiés par le fabricant. Alors, si jamais vous avez besoin d’une belle coupe de cheveux ou d’un produit de beauté de qualité dans la ville de Rouen et ses environs, faites appel à nous.</p>
 
                      </p>
+</body>
+					 
                   </div>
                   </div>
                   </section>        

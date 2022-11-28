@@ -1590,3 +1590,11 @@ Stack trace:
 #3 C:\xampp\htdocs\Raylina-Beauty-1\includes\main.php(8): inclusionIncFile('salon')
 #4 C:\xampp\htdocs\Raylina-Beauty-1\index.php(11): require_once('C:\\xampp\\htdocs...')
 #5 {main}
+PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nom' in 'where clause' in C:\xampp\htdocs\Raylina-Beauty-1\classes\Sql.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty-1\classes\Sql.php(37): PDO->query('SELECT * FROM `...')
+#1 C:\xampp\htdocs\Raylina-Beauty-1\includes\login.inc.php(43): Sql->lister('SELECT * FROM `...')
+#2 C:\xampp\htdocs\Raylina-Beauty-1\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty-1\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty-1\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}

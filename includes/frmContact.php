@@ -112,7 +112,7 @@
            <p><span class="hvr-icon-hang"><i class="fas fa-map-marker-alt hvr-icon"></i></span> 55 Rue de la République
             76000 Rouen
             France</p><br>
-           <iframe src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap" width="350" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+           <iframe src="https://maps.googleapis.com/maps/https://goo.gl/maps/5TXENTPsU6pYwZor9" width="350" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div><br>
         <div class="hours col-sm">
            <h5>Heures d'ouverture</h5> <br>
