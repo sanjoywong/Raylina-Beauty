@@ -114,7 +114,7 @@ class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-
 <img loading="lazy" width="1536" height="2049" class="wp-block-cover__image-background wp-image-2525" alt="" src="./assets/img/pmtkoufa.jpg" style="object-position:49% 70%" data-object-fit="cover" data-object-position="49% 70%" srcset="./assets/img/pmtkoufa.jpg, ./assets/img/pmtkoufa.jpg-225x300.jpg 225w, ./assets/img/pmtkoufa.jpg2-768x1025.jpg 768w,
   sizes="(max-width: 1536px) 100vw, 1536px/>
 <div class="wp-block-cover__inner-container">
-<h2 class="has-text-align-left has-text-color" style="color:#ffffff"><a href="index.php?page=prestation-femme" data-type="page" data-id="2039">Les Prestations Femme</a></h2>
+<h2 class="has-text-align-left has-text-color" style="color:#ffffff"><a href="index.php?page=prestation-femme" data-type="page" data-id="2039">Prestations Femme</a></h2>
 </div>
 </div>
 </div>
@@ -122,7 +122,7 @@ class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-
 <div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span>
 <img loading="lazy" width="1536" height="2049" class="wp-block-cover__image-background wp-image-1574" alt="" src="./assets/img/coupehome.jpg" data-object-fit="cover"data-object-position="49% 70%" srcset="./assets/img/coupehome.jpg  1536w",
  /><div class="wp-block-cover__inner-container">
-<h2 class="has-text-align-left has-text-color"><a href="index.php?page=prestation-homme" data-type="page" data-id="2044">Les Prestations homme</a></h2>
+<h2 class="has-text-align-left has-text-color"><a href="index.php?page=prestation-homme" data-type="page" data-id="2044"> Prestations homme</a></h2>
 </div>
 </div>
 </div>
