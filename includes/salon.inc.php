@@ -5,6 +5,23 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="stylesheet" href="css/rgpd.css">
+	<link rel="stylesheet" href="css/rgpd.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+            integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+            crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+            integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+            crossorigin="anonymous"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"></script>
+        <script type="text/javascript" src="js/rgpd.js"></script>
 
 	
 
@@ -107,14 +124,14 @@ class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-
 			
 <p>
 </p>
-<h2 class="has-text-align-center has-text-color" style="color:#ffffff">Bienvenue au salon Raylina Beauty</h2>
+<h2 class="has-text-align-center has-text-color" style="color:#000000">Bienvenue au Salon Raylina Beauty</h2>
 <div class="wp-container-3 wp-block-columns alignwide">
 <div class="wp-container-1 wp-block-column">
 <div class="wp-block-cover is-light has-custom-content-position is-position-bottom-left"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span>
-<img loading="lazy" width="1536" height="2049" class="wp-block-cover__image-background wp-image-2525" alt="" src="./assets/img/pmtkoufa.jpg" style="object-position:49% 70%" data-object-fit="cover" data-object-position="49% 70%" srcset="./assets/img/pmtkoufa.jpg, ./assets/img/pmtkoufa.jpg-225x300.jpg 225w, ./assets/img/pmtkoufa.jpg2-768x1025.jpg 768w,
-  sizes="(max-width: 1536px) 100vw, 1536px/>
+<img loading="lazy" width="1000" height="662" class="wp-block-cover__image-background wp-image-2525" alt="" src="./assets/img/pmtkoufa.jpg" style="object-position:49% 70%" data-object-fit="cover" data-object-position="49% 70%" srcset="./assets/img/pmtkoufa.jpg, ./assets/img/pmtkoufa.jpg-225x300.jpg 225w, ./assets/img/pmtkoufa.jpg2-768x1025.jpg 768w,
+  sizes="(max-width: 1000px) 100vw, 1000px/>
 <div class="wp-block-cover__inner-container">
-<h2 class="has-text-align-left has-text-color" style="color:#ffffff"><a href="index.php?page=prestation-femme" data-type="page" data-id="2039">Prestations Femme</a></h2>
+<h2 class="has-text-align-left has-text-color" style="color:#000000"><a href="index.php?page=prestation-femme" data-type="page" data-id="2039">Prestations Femme</a></h2>
 </div>
 </div>
 </div>
@@ -138,7 +155,7 @@ class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-
 </div>
 
  <div id ="col"> 
-	                  <h4>Creer en 2019 salon de beaute ,cosmetique et soins</h4>
+	                  <h4 class="has-text-align-center has-text-color" style="color:#000000">Creer en 2019 salon de beaute ,cosmetique et soins</h4>
      <p>Se faire beau ou belle est très important pour la confiance en soi. 
                      En effet lorsqu’on se sent beau, belle, nous sommes plus confiants et donc plus heureux.
                      C’est la raison pour laquelle notre salon de beauté vous ouvre ses portes pour vous permettre de profiter de moments spéciaux. 
@@ -148,7 +165,7 @@ class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-
                      Notre objectif sera de mettre en avant vos atouts en vous rendant unique grâce à un nouveau look.
                      Alors, n’hésitez pas et prenez immédiatement un rendez-vous chez nous afin que nous puissions vous donner le style unique que vous avez longtemps voulu.</p>
                      <p>
-    <h3>Une équipe de coiffeurs et de coiffeuses hautement qualifiée pour sublimer votre beauté et révéler votre personnalité</h3>
+    <h4 class="has-text-align-center has-text-color" style="color:#000000">Une équipe de coiffeurs et de coiffeuses hautement qualifiée pour sublimer votre beauté et révéler votre personnalité</h4>
  <p>Chez Raylina Beauty, c’est la satisfaction à tout prix. Nos professionnels de la coiffure se chargeront de mettre en forme vos envies de coiffures de tout genre.
                               Ayant reçu des formations de qualités, ces derniers sont les rois des ciseaux qu’ils manient avec expertise et délicatesse.
                                Chez nous, la coiffure est considérée comme un art. Et c’est la raison pour laquelle nous mettons l’inspiration au centre de nos créations quotidiennes. 
@@ -159,11 +176,88 @@ class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-
                    Tout ce que vous aurez à faire c’est de vous laisser guider par les conseils d’un bon coiffeur à Rouen que nous mettrons à votre disposition. 
                     Passer du court au long, du long au court, oser des mèches, des extensions, un lissage, une coloration ou une frange avec nos spécialistes de la coiffure Rouen sans aucune pression. 
                          </p>
-                         <h3>Des produits de beauté d’exception pour vous sublimer encore plus </h3>
+                         <h4 class="has-text-align-center has-text-color" style="color:#000000">Des produits de beauté d’exception pour vous sublimer encore plus </h4>
                          <p>Si vous avez longtemps rêvé d’une longue chevelure soyeuse, volumineuse et glamour, alors ne rêvez plus ! Vous pouvez dès à présent réaliser toutes vos envies avec nos extensions 100 % naturelles.
                               Chez nous, vous pourrez également trouver des produits d’entretien de cheveux pour hommes et pour femmes. Crèmes qui favorisent la repousse, produits pour soin de barbe, vernis à ongles, rouge à lèvres, mascara, crème de visage, illuminateurs, fonds de teint, crèmes pour soin de cheveux. Chez Raylina Beauty, tous les produits sont certifiés de 100 % authentiques et vérifiés par le fabricant. Alors, si jamais vous avez besoin d’une belle coupe de cheveux ou d’un produit de beauté de qualité dans la ville de Rouen et ses environs, faites appel à nous.</p>
 
                      </p>
+					 <div id="bandeau_cookie" class="cookie_deactivate">
+    <div class="row">
+        <div class="col-md-12 col-xs-12 cookie_spacer">
+            <span class="cookie_text">Ce site utilise des cookies afin que vous puissiez avoir la meilleure expérience
+                de navigation possible. En poursuivant votre navigation ou en cliquant sur l'option "ACCEPTER", vous
+                consentez à son utilisation.</span>
+
+        </div>
+        <div class="col-md-12 col-xs-12 container_cookie-btn">
+            <button id="acceptCookies" class="btn btn-advanced"> Accepter </button>
+            <button id="personnalize_my_cookie" type="button" class="btn btn-primary" data-toggle="modal"
+                data-target="#rgpd_modal">
+                Personnaliser
+            </button>
+            <a href="index.php?page=frmrgpd" class="btn btn-advanced">En savoir plus</a>
+        </div>
+
+    </div>
+</div>
+
+<div class="modal fade" id="rgpd_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Gestionnaire des cookies</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row ">
+                    <div class="col-md-12 gestion_cookie-div-text">
+                        <h2>Je personnalise mes préférences</h2>
+                        <p>Les fonctionnalités de ce site listées ci-dessous s’appuient sur des services proposés par
+                            des tiers.
+                            Si vous donnez votre accord (consentement) ces cookies, ces tiers collecteront et
+                            utiliseront vos données de navigation pour des finalités qui leur sont propres, conformément
+                            à notre <a href="/rgpd">politique de confidentialité</a>.
+                            Cette page vous permet de donner ou de retirer votre consentement, soit globalement soit
+                            finalité par finalité.</p>
+                    </div>
+                </div>
+                <div class="separator_section"></div>
+
+                <div class="row gestion_cookie-div">
+
+                    <div class="col-md-6 text-left">
+                        <h2>
+                            Google Analystics
+                        </h2>
+                        <small>
+                            Permet de récolter des statistiques de fréquentation du site. Ces données sont anonymes et
+                            nous permettent d'améliorer votre expérience utilisateur.
+                        </small>
+                    </div>
+                    <div class="col-md-6">
+                        <button id="GTMAllow" class="deny accept btn_cookie" data-authorize="true"
+                            data-name="Analytics">
+                            J'autorise
+                        </button>
+                        <button id="GTMDenied" class="deny refuse btn_cookie" data-authorize="false"
+                            data-name="Analytics">
+                            Je refuse
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="close_modal" type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+                <button id="acceptcookies_modal" type="button" class="btn btn-primary">Confirmer mes choix</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+					 
 </body>
 					 
                   </div>

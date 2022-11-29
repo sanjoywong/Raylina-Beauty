@@ -1,0 +1,157 @@
+/* .cookie-popup {
+    transition: 0.3s;
+    z-index: -999;
+    pointer-events: none;
+    opacity: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    left: 0;
+    height: auto;
+}
+
+#bandeau_cookie{
+    z-index: 1999;
+    pointer-events: auto;
+    opacity: 1;
+    max-width: 100vw;
+    margin: auto;
+    background: #333;
+    box-shadow: 1px 1px 18px rgba(0, 0, 0, 0.19);
+    transition: 0.3s;
+    padding: 10px;
+   text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    left: 0;
+    height: auto;
+}
+
+.cookie_spacer{
+    margin-bottom: 5px;
+}
+.container_cookie-btn{
+    display: inline-block;
+    margin: auto;
+    position: relative;
+    float: none !important;
+    box-sizing: border-box;
+}
+.cookie_text{
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.btn-advanced{
+    display: inline-block;
+    width: auto;
+    padding: 3px;
+    border-radius: 2px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 0.4px;
+}
+
+.btn-advanced:nth-child(1) {
+    background: #32cd32;
+    color: #fff;
+    border: 1px solid #32cd32;
+  }
+  .btn-advanced:nth-child(3) {
+    background: #828282;
+    color: #333;
+    border: 1px solid #828282;
+    margin-left: 5px;
+  }
+  #personnalize_my_cookie {    
+    margin-left: 5px !important;
+  }
+
+
+.cookie_deactivate{
+    display: none;
+}
+
+
+  .format_div_rgpd{
+      padding : 2em;
+  }
+
+  .format_div_rgpd h2, .format_div_rgpd h3{
+      font-size: 14px;
+  }
+
+  .format_div_rgpd h1{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+.gestion_cookie-div{
+    margin : 20px auto;
+    text-align: right;
+}
+
+
+
+.gestion_cookie-div-text{
+    
+    padding: 1em;
+}
+
+.separator_section{
+    border-bottom: 1px solid black;
+    width: 20em;
+    margin: auto;
+}
+
+.gestion_cookie-div-text p {
+    text-align: justify;
+}
+.gestion_cookie-div-text h2 {
+    text-align: center;
+}
+
+
+.btn_cookie{
+    padding: 10px;
+width: 35%;
+border: 0;
+border-radius: 5px;
+color : white;
+}
+
+
+.accept:hover{
+    background: #4596ec !important;
+}
+
+.refuse:hover{
+    background: #e52e2f !important;
+}
+
+.deny{
+background: #5a5e6b !important;
+color : white;
+}
+
+.refuseAnswer{
+    background: #e52e2f ;
+    
+}
+
+.acceptAnwser{
+    background: #4596ec;
+}
+
+.bouton_gestion_cookies:hover{
+    cursor: pointer;
+    text-decoration: underline !important;
+} */
