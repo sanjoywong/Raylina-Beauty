@@ -31,7 +31,7 @@ if(isset($_POST["frmLogin"]))
     else
     { $requetea = "SELECT * FROM `admin-salon` where nom='$username' ;";
         $usersa = $querySelect->lister($requetea);
-       
+       //var_dump($requetea);
         if(count($usersa)){
            if (password_verify($password,$usersa[0]['password'])) {
             $_SESSION['username']= $username;

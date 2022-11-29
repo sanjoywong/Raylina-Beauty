@@ -277,7 +277,7 @@
   --form-selection-control-accent-color: var(--paletteColor1);
   --paletteColor1: #eece2e;
   --paletteColor2: #e39587;
-  --paletteColor3: #9a18d6;
+  --paletteColor3: #d5e1df;
   --paletteColor4: rgba(237, 205, 45, 0.14);
   --paletteColor5: #e1ede6;
   --paletteColor6: #f2f5f7;
@@ -17159,7 +17159,7 @@ dd p:last-child {
   margin-bottom: 0;
 }
 body {
-  color: var(--color);
+  color: black;
 }
 body ::selection {
   color: var(--selectionTextColor);
@@ -17334,7 +17334,7 @@ hr {
     transform: scale(1, 1);
   }
 }
-html,
+ html,
 h1,
 h2,
 h3,
@@ -17381,21 +17381,23 @@ blockquote p,
 .tutor-meta > *,
 .tutor-course-details-title,
 .tutor-course-details-actions > a,
-.ct-language-switcher ul[data-placement] {
-  font-family: var(--fontFamily);
-  font-size: var(--fontSize);
-  font-weight: var(--fontWeight);
-  font-style: var(--fontStyle, inherit);
-  line-height: var(--lineHeight);
+.ct-language-switcher ul[data-placement]
+ {
+  font-family: var(--fontFamily); 
+  font-size: var(--fontSize);  
+   font-weight: var(--fontWeight);
+/*   font-style: var(--fontStyle, inherit); */
+ /*  line-height: var(--lineHeight); */
   letter-spacing: var(--letterSpacing);
-  text-transform: var(--textTransform);
-  -webkit-text-decoration: var(--textDecoration);
-  text-decoration: var(--textDecoration);
+/*   text-transform: var(--textTransform); */
+ /*  -webkit-text-decoration: var(--textDecoration); */
+/*   text-decoration: var(--textDecoration); */ 
 }
 [data-footer*="reveal"] #main-container,
 [data-footer*="reveal"] .site-main {
-  background: inherit;
+  background: inherit; 
 }
+ 
 .menu,
 .entry-meta,
 .ct-contact-info ul,
