@@ -23,8 +23,18 @@
 			<th>
 				coiffure/Prestation
 			</th>
+			
 			<th>
 				Prix coiffure
+			</th>
+			<th>
+				produits
+			</th>
+			<th>
+				prix produits
+			</th>
+			<th>
+				nombre produit
 			</th>
 			<th>
 				Prix facturé

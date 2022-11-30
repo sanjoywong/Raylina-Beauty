@@ -7,6 +7,24 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
   <link rel="profile" href="https://gmpg.org/xfn/11">
+  <link rel="stylesheet" href="css/rgpd.css">
+	<link rel="stylesheet" href="css/rgpd.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+            integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+            crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+            integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+            crossorigin="anonymous"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"></script>
+        <script type="text/javascript" src="js/rgpd.js"></script>
+
 
 
   
@@ -465,7 +483,7 @@
   </style>
  <!--  <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
   <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-192x192.png" sizes="192x192" /> -->
-  <link rel="apple-touch-icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-180x180.png" />
+  <link rel="apple-touch-icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-raylina-black-180x180.png" />
   <meta name="msapplication-TileImage" content="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-270x270.png" />
 </head>
 
@@ -659,7 +677,7 @@
         <h1 class="page-title" title="Prestations Femme" itemprop="headline">Prestations Femme</h1>
         <nav class="ct-breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList"><span class="first-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem">
             <meta itemprop="position" content="1"><a href="index.php?page=salon" itemprop="item"><span itemprop="name">Salon</span></a>
-            <meta itemprop="url" content="https://sbarber.fr/" /><svg class="separator" width="8" height="8" viewBox="0 0 8 8">
+            <meta itemprop="url" content="index.php?page" /><svg class="separator" width="8" height="8" viewBox="0 0 8 8">
               <polygon points="2.5,0 6.9,4 2.5,8 " />
             </svg>
           </span><span class="last-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem">
@@ -690,7 +708,9 @@
 
           <div class="wp-block-getwid-accordion has-icon-left" data-active-element="0">
             <div class="wp-block-getwid-accordion__header-wrapper">
-              <h5 class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">Coiffure</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></h5>
+              <h5 class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">Coiffure</span>
+              <span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span>
+              <span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></h5>
             </div>
             <div class="wp-block-getwid-accordion__content-wrapper">
               <div class="wp-block-getwid-accordion__content">
@@ -699,7 +719,8 @@
                   <div class="uagb-separator-wrap">
                     <div class="uagb-separator"></div>
                   </div>
-                  <p class="uagb-desc-text">Pour chaque prestation, un soin de haute qualité est inclus.<br>Tarifs à titre indicatif, évoluant en fonction de la longueur de la nature de vos cheveux</p>
+                  <p class="uagb-desc-text">Pour chaque prestation, un soin de haute qualité est inclus.
+                    <br>Tarifs à titre indicatif, évoluant en fonction de la longueur de la nature de vos cheveux</p>
                 </div>
 
 
@@ -1343,6 +1364,82 @@
   <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-ct-scripts1.8.53.min.js' id='wpo_min-footer-1-js'></script>
   <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-jquery-ui-core1.13.1.min.js' id='wpo_min-footer-2-js'></script>
   <script defer src='./assets/css/wp-content/cache/wpo-minify/1667078067/assets/wpo-minify-footer-jquery-ui-accordion1.13.1.min.js' id='wpo_min-footer-3-js'></script>
+  <div id="bandeau_cookie" class="cookie_deactivate">
+    <div class="row">
+        <div class="col-md-12 col-xs-12 cookie_spacer">
+            <span class="cookie_text">Ce site utilise des cookies afin que vous puissiez avoir la meilleure expérience
+                de navigation possible. En poursuivant votre navigation ou en cliquant sur l'option "ACCEPTER", vous
+                consentez à son utilisation.</span>
+
+        </div>
+        <div class="col-md-12 col-xs-12 container_cookie-btn">
+            <button id="acceptCookies" class="btn btn-advanced"> Accepter </button>
+            <button id="personnalize_my_cookie" type="button" class="btn btn-primary" data-toggle="modal"
+                data-target="#rgpd_modal">
+                Personnaliser
+            </button>
+            <a href="/rgpd" class="btn btn-advanced">En savoir plus</a>
+        </div>
+
+    </div>
+</div>
+
+<div class="modal fade" id="rgpd_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Gestionnaire des cookies</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row ">
+                    <div class="col-md-12 gestion_cookie-div-text">
+                        <h2>Je personnalise mes préférences</h2>
+                        <p>Les fonctionnalités de ce site listées ci-dessous s’appuient sur des services proposés par
+                            des tiers.
+                            Si vous donnez votre accord (consentement) ces cookies, ces tiers collecteront et
+                            utiliseront vos données de navigation pour des finalités qui leur sont propres, conformément
+                            à notre <a href="/rgpd">politique de confidentialité</a>.
+                            Cette page vous permet de donner ou de retirer votre consentement, soit globalement soit
+                            finalité par finalité.</p>
+                    </div>
+                </div>
+                <div class="separator_section"></div>
+
+                <div class="row gestion_cookie-div">
+
+                    <div class="col-md-6 text-left">
+                        <h2>
+                            Google Analystics
+                        </h2>
+                        <small>
+                            Permet de récolter des statistiques de fréquentation du site. Ces données sont anonymes et
+                            nous permettent d'améliorer votre expérience utilisateur.
+                        </small>
+                    </div>
+                    <div class="col-md-6">
+                        <button id="GTMAllow" class="deny accept btn_cookie" data-authorize="true"
+                            data-name="Analytics">
+                            J'autorise
+                        </button>
+                        <button id="GTMDenied" class="deny refuse btn_cookie" data-authorize="false"
+                            data-name="Analytics">
+                            Je refuse
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="close_modal" type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+                <button id="acceptcookies_modal" type="button" class="btn btn-primary">Confirmer mes choix</button>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 </body>
 
