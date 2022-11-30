@@ -1,23 +1,21 @@
-<?php 
+<?php
 
 $querySelect = new Sql();
 $requete = "SELECT * FROM `admin-salon` ;";
 $users = $querySelect->lister($requete);
 
 //header('Location: index.php?page=accueil');
-if(isset($_POST["frmLogin"]))
-{
+if (isset($_POST["frmLogin"])) {
     $password = htmlentities($_POST['password']);
     $username = htmlentities($_POST['username']);
     $erreurs = array();
 
-    if(mb_strlen($password) === 0)
-    array_push($erreurs, "Il manque votre mot de passe");
+    if (mb_strlen($password) === 0)
+        array_push($erreurs, "Il manque votre mot de passe");
 
-    if(count($erreurs))
-    {
+    if (count($erreurs)) {
         $messageErreur = "<ul>";
-        for ($i=0; $i < count($erreurs); $i++) { 
+        for ($i = 0; $i < count($erreurs); $i++) {
             # code...
             $messageErreur .= "<li>";
             $messageErreur .= $erreurs[$i];
@@ -27,49 +25,46 @@ if(isset($_POST["frmLogin"]))
 
         echo $messageErreur;
         include './includes/frmLogin.php';
-    }
-    else
-    { $requetea = "SELECT * FROM `admin-salon` where nom='$username' ;";
+    } else {
+        $requetea = "SELECT * FROM `admin-salon` where nom='$username' ;";
         $usersa = $querySelect->lister($requetea);
-       //var_dump($requetea);
-        if(count($usersa)){
-           if (password_verify($password,$usersa[0]['password'])) {
-            $_SESSION['username']= $username;
-            $_SESSION['type'] = "admin";
-               echo "Bienvenue à Raylina Beauty!";
-               header('Location: index.php?page=Salon');
-           }}
-           else{
-                     $requetec = "SELECT * FROM `client` where nom='$username' ;";
-                     $usersc = $querySelect->lister($requetec);
-                     var_dump($requetec);
-                     if(!count($usersc)){
-                        
-                        include './includes/frmInscription.php';
-                                        }else{ 
-                                            
-                                            $_SESSION['username']= $username;
-                                            var_dump(password_verify($password,$usersc[0]['password']));
-                                           /*  if (password_verify($password,$usersc[0]['password'])) {
+        //var_dump($requetea);
+        if (count($usersa)) {
+            if ($password==$usersa[0]['password']) {
+                $_SESSION['loginUser'] = $username;
+                $_SESSION['type'] = "admin";
+                echo "$username Bienvenue à Raylina Beauty!";
+                header('Location: index.php?page=admin');
+            }
+        } else {
+            $requetec = "SELECT * FROM `client` where nom='$username' ;";
+            $usersc = $querySelect->lister($requetec);
+            var_dump($requetec);
+            if (!count($usersc)) {
+                echo "Il n'y pas d'utilisateur !    Inscrivez-vous !                ";
+                include './includes/frmInscription.php';
+            } else {
+                if ($password==$usersc[0]['mot_de_passe']) {
+                    $_SESSION['loginUser'] = $username;
+                    $_SESSION['User_id'] = $usersc[0]['id_client'];
+                    $_SESSION['type'] = "client";
+                    echo "$username Bienvenue à Raylina Beauty!";
+                    header('Location: index.php?page=reservation');
+                }
+               // var_dump(password_verify($password, $usersc[0]['password']));
+                /*  if (password_verify($password,$usersc[0]['password'])) {
                
                                                 echo "Bienvenue à Raylina Beauty!";
                                                 header('Location: index.php?page=Salon');
                                                     } */
-                                            }
-                }
+            }
+        }
     }
-} else      
-    {
-//        echo "Ton identifiant et mot de passe ne sont pas accord !";
- //       header('Location: index.php?page=login');
- 
+} else {
+    //        echo "Ton identifiant et mot de passe ne sont pas accord !";
+    //       header('Location: index.php?page=login');
+
     //echo "Je ne viens pas du formulaire";
-/*     $mail = ""; */
-include './includes/frmLogin.php';
-
-    }
-
-
-
-
-?>
+    /*     $mail = ""; */
+    include './includes/frmLogin.php';
+}

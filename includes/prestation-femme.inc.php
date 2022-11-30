@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="fr-FR" prefix="og: https://ogp.me/ns#">
 
@@ -9,7 +8,7 @@
   <link rel="profile" href="https://gmpg.org/xfn/11">
 
 
-  
+
   <title>Prestations Femme - Raylina beauty</title>
   <meta name="description" content="Prenez rendez-vous" />
   <meta name="robots" content="nofollow, noindex" />
@@ -34,132 +33,7 @@
   <meta name="twitter:image" content="index.php?page=salon/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png" />
   <meta name="twitter:label1" content="Temps de lecture" />
   <meta name="twitter:data1" content="Moins d’une minute" />
-  <script type="application/ld+json" class="rank-math-schema">
-   <!--  {
-      "@context": "https://schema.org",
-      "@graph": [{
-        "@type": "Place",
-        "@id": "https://sbarber.fr/#place",
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": "50.36197280883789",
-          "longitude": "3.5174882411956787"
-        },
-        "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=50.36197280883789,3.5174882411956787",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "13 Avenue du s\u00e9nateur Girard",
-          "addressLocality": "Valenciennes",
-          "addressRegion": "Hauts de France",
-          "postalCode": "59300",
-          "addressCountry": "France"
-        }
-      }, {
-        "@type": ["BeautySalon", "Organization"],
-        "@id": "https://sbarber.fr/#organization",
-        "name": "La Maison by S.Barber",
-        "url": "https://sbarber.fr",
-        "email": "contact@sbarber.fr",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "13 Avenue du s\u00e9nateur Girard",
-          "addressLocality": "Valenciennes",
-          "addressRegion": "Hauts de France",
-          "postalCode": "59300",
-          "addressCountry": "France"
-        },
-       < "logo": {
-          "@type": "ImageObject",
-          "@id": "https://sbarber.fr/#logo",
-          "url": "https://sbarber.fr/wp-content/uploads/2020/10/SBARBER-BLACK.png",
-          "contentUrl": "https://sbarber.fr/wp-content/uploads/2020/10/SBARBER-BLACK.png",
-          "caption": "La Maison by S.Barber",
-          "inLanguage": "fr-FR",
-          "width": "512",
-          "height": "512" -->
-        },
-        "priceRange": "$$$",
-        "openingHours": ["Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-19:00"],
-        "location": {
-          "@id": "https://sbarber.fr/#place"
-        },
-        < "image": {
-          "@id": "https://sbarber.fr/#logo"
-        }, -->
-        "telephone": "0327463942"
-      }, {
-        "@type": "WebSite",
-        "@id": "https://sbarber.fr/#website",
-        "url": "https://sbarber.fr",
-        "name": "La Maison by S.Barber",
-        "publisher": {
-          "@id": "https://sbarber.fr/#organization"
-        },
-        "inLanguage": "fr-FR"
-      }, {
-        "@type": "ImageObject",
-        "@id": "https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png",
-        "url": "https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png",
-        "width": "1200",
-        "height": "630",
-        "inLanguage": "fr-FR"
-      }, {
-        "@type": "WebPage",
-        "@id": "https://sbarber.fr/prestations-femme#webpage",
-        "url": "https://sbarber.fr/prestations-femme",
-        "name": "Prestations Femme - La Maison by S.Barber",
-        "datePublished": "2022-03-07T14:01:12+01:00",
-        "dateModified": "2022-04-28T13:07:11+02:00",
-        "isPartOf": {
-          "@id": "https://sbarber.fr/#website"
-        },
-        "primaryImageOfPage": {
-          "@id": "https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png"
-        },
-        "inLanguage": "fr-FR"
-      }, {
-        "@type": "Person",
-        "@id": "https://sbarber.fr/author/hoummad",
-        "name": "Hoummad Bounihi",
-        "url": "https://sbarber.fr/author/hoummad",
-        "image": {
-          "@type": "ImageObject",
-          "@id": "https://secure.gravatar.com/avatar/4a840b20ea0d30625ddc4b707da30d21?s=96&amp;d=mm&amp;r=g",
-          "url": "https://secure.gravatar.com/avatar/4a840b20ea0d30625ddc4b707da30d21?s=96&amp;d=mm&amp;r=g",
-          "caption": "Hoummad Bounihi",
-          "inLanguage": "fr-FR"
-        },
-        "worksFor": {
-          "@id": "https://sbarber.fr/#organization"
-        }
-      }, {
-        "@type": "Article",
-        "headline": "Prestations Femme - La Maison by S.Barber",
-        "datePublished": "2022-03-07T14:01:12+01:00",
-        "dateModified": "2022-04-28T13:07:11+02:00",
-        "author": {
-          "@id": "https://sbarber.fr/author/hoummad"
-        },
-        "publisher": {
-          "@id": "https://sbarber.fr/#organization"
-        },
-        "description": "Prenez rendez-vous",
-        "name": "Prestations Femme - La Maison by S.Barber",
-        "@id": "https://sbarber.fr/prestations-femme#richSnippet",
-        "isPartOf": {
-          "@id": "https://sbarber.fr/prestations-femme#webpage"
-        },
-        "image": {
-          "@id": "https://sbarber.fr/wp-content/uploads/2020/10/IMAGE-PARTAGE-SOCIAL-DU-SITE-INTERNET.png"
-        },
-        "inLanguage": "fr-FR",
-        "mainEntityOfPage": {
-          "@id": "https://sbarber.fr/prestations-femme#webpage"
-        }
-      }]
-    }
-  </script>
-  <!-- /Extension Rank Math WordPress SEO -->
+
 
   <script>
     if (!navigator.userAgent.match(/x11.*fox\/54|oid\s4.*xus.*ome\/62|x11.*ome\/62|oobot|ighth|tmetr|eadles|ingdo/i)) {
@@ -169,8 +43,8 @@
       }, document.getElementsByTagName("head")[0].appendChild(wpo_min0851428a);
     }
   </script>
- <!--  -->
-<!--  -->
+  <!--  -->
+  <!--  -->
   </style>
   <style class="optimize_css_2" type="text/css" media="all">
     .ct-shortcuts-container {
@@ -307,7 +181,9 @@
 
     .entry-header .page-description>*:last-child {
       margin-bottom: 0
-    } -->
+    }
+
+    -->
   </style>
   <style class="optimize_css_2" type="text/css" media="all">
     .ct-back-to-top {
@@ -463,7 +339,7 @@
       }
     }
   </style>
- <!--  <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
+  <!--  <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-32x32.png" sizes="32x32" />
   <link rel="icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-192x192.png" sizes="192x192" /> -->
   <link rel="apple-touch-icon" href="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-180x180.png" />
   <meta name="msapplication-TileImage" content="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-270x270.png" />
@@ -588,63 +464,63 @@
           </svg>
         </button>
       </div>
-    
-      
-
-        <div class="ct-header-socials " data-id="socials">
-
-
-          <div class="ct-social-box" data-icon-size="custom" data-color="custom" data-icons-type="simple">
 
 
 
-            <a href="https://www.facebook.com/Raylina_beauty" data-network="facebook" aria-label="Facebook" target="_blank" rel="noopener">
-              <span class="ct-icon-container">
-                <svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
-                  <path d="M20,10.1c0-5.5-4.5-10-10-10S0,4.5,0,10.1c0,5,3.7,9.1,8.4,9.9v-7H5.9v-2.9h2.5V7.9C8.4,5.4,9.9,4,12.2,4c1.1,0,2.2,0.2,2.2,0.2v2.5h-1.3c-1.2,0-1.6,0.8-1.6,1.6v1.9h2.8L13.9,13h-2.3v7C16.3,19.2,20,15.1,20,10.1z" />
-                </svg>
-              </span><span class="ct-label" hidden="">Facebook</span> </a>
-
-            <a href="https://www.instagram.com/Raylina_beauty" data-network="instagram" aria-label="Instagram" target="_blank" rel="noopener">
-              <span class="ct-icon-container">
-                <svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true">
-                  <circle cx="10" cy="10" r="3.3" />
-                  <path d="M14.2,0H5.8C2.6,0,0,2.6,0,5.8v8.3C0,17.4,2.6,20,5.8,20h8.3c3.2,0,5.8-2.6,5.8-5.8V5.8C20,2.6,17.4,0,14.2,0zM10,15c-2.8,0-5-2.2-5-5s2.2-5,5-5s5,2.2,5,5S12.8,15,10,15z M15.8,5C15.4,5,15,4.6,15,4.2s0.4-0.8,0.8-0.8s0.8,0.4,0.8,0.8S16.3,5,15.8,5z" />
-                </svg>
-              </span><span class="ct-label" hidden="">Instagram</span> </a>
-
-            <a href="https://www.snapchat.com/add/sbeaury" data-network="snapchat" aria-label="Snapchat" target="_blank" rel="noopener">
-              <span class="ct-icon-container">
-                <svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
-                  <path d="M10,0.5c-6,0-6,6-6,6v1c0,0,0,0-0.1,0C3.6,7.5,2,7.6,2,8.9c0,1.5,1.7,1.6,2,1.6c0,0,0,0,0,0c0,1-1.7,2.2-2.7,2.4C0.3,13.3,0,14,0,14.5c0,0.3,0.1,0.5,0.1,0.6c0.4,0.9,1.5,1.3,2.6,1.3c0,1.4,1.1,2,1.8,2c0.8,0,1.6-0.4,1.6-0.4c0,0,1.3,1.4,3.9,1.4s3.9-1.4,3.9-1.4c0,0,0.8,0.4,1.6,0.4c0.7,0,1.7-0.6,1.8-2c1.1,0,2.2-0.5,2.6-1.3c0-0.1,0.1-0.3,0.1-0.6c0-0.5-0.3-1.2-1.3-1.6c-1.1-0.3-2.7-1.4-2.7-2.4c0,0,0,0,0,0c0.3,0,2-0.1,2-1.6c0-1.3-1.6-1.4-1.9-1.4c0,0-0.1,0-0.1,0v-1C16,6.5,16,0.5,10,0.5L10,0.5z" />
-                </svg>
-              </span><span class="ct-label" hidden="">Snapchat</span> </a>
-
-            <a href="https://g.page/Raylina_beauty?share" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener">
-              <span class="ct-icon-container">
-                <svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
-                  <path d="M5.9 10.7c0 .4-.4.8-.8.8s-.8-.4-.8-.8.4-.8.8-.8.8.3.8.8zm1.7 0c0 1.3-1.1 2.4-2.4 2.4S2.7 12 2.7 10.7c0-1.3 1.1-2.4 2.4-2.4s2.5 1 2.5 2.4zm-.9 0c0-.9-.7-1.6-1.6-1.6-.9 0-1.6.7-1.6 1.6 0 .9.7 1.6 1.6 1.6.9 0 1.6-.7 1.6-1.6zm8.2-.8c-.4 0-.8.4-.8.8s.4.8.8.8.8-.4.8-.8c0-.5-.4-.8-.8-.8zm2.4.8c0 1.3-1.1 2.4-2.4 2.4s-2.4-1.1-2.4-2.4c0-1.3 1.1-2.4 2.4-2.4s2.4 1 2.4 2.4zm-.8 0c0-.9-.7-1.6-1.6-1.6-.9 0-1.6.7-1.6 1.6 0 .9.7 1.6 1.6 1.6.9 0 1.6-.7 1.6-1.6zm1.6 4.1c-2.1 1.7-5.2 1.3-6.9-.8l-.9 1.5c0 .1-.1.1-.1.1-.2.1-.4.1-.6-.1L8.7 14c-1.7 2.1-4.7 2.5-6.9.8-2-1.7-2.4-4.8-.8-6.9-.1-.5-.4-1-.7-1.4 0-.1-.1-.2-.1-.3 0-.2.2-.4.4-.4h3.1c3.9-2.2 8.7-2.2 12.6 0h3.1c.1 0 .2 0 .3.1.2.1.2.4 0 .6-.3.4-.6.9-.8 1.4 1.7 2.1 1.3 5.2-.8 6.9zm-8.9-4.1c0-2.2-1.8-4.1-4.1-4.1h-1C2.3 7.1 1 8.8 1 10.7c0 2.2 1.9 4 4.1 4 2.3.1 4.1-1.8 4.1-4zm6.6-4h-.2c-.2 0-.5-.1-.7-.1-2.2 0-4 1.7-4.1 3.9 0 .7.2 1.4.5 2.1.1.1.1.2.2.3.8 1.1 2 1.8 3.4 1.8 1.9 0 3.5-1.3 3.9-3.1.5-2.1-.8-4.3-3-4.9z" />
-                </svg>
-              </span><span class="ct-label" hidden="">TripAdvisor</span> </a>
+      <div class="ct-header-socials " data-id="socials">
 
 
-          </div>
+        <div class="ct-social-box" data-icon-size="custom" data-color="custom" data-icons-type="simple">
+
+
+
+          <a href="https://www.facebook.com/Raylina_beauty" data-network="facebook" aria-label="Facebook" target="_blank" rel="noopener">
+            <span class="ct-icon-container">
+              <svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
+                <path d="M20,10.1c0-5.5-4.5-10-10-10S0,4.5,0,10.1c0,5,3.7,9.1,8.4,9.9v-7H5.9v-2.9h2.5V7.9C8.4,5.4,9.9,4,12.2,4c1.1,0,2.2,0.2,2.2,0.2v2.5h-1.3c-1.2,0-1.6,0.8-1.6,1.6v1.9h2.8L13.9,13h-2.3v7C16.3,19.2,20,15.1,20,10.1z" />
+              </svg>
+            </span><span class="ct-label" hidden="">Facebook</span> </a>
+
+          <a href="https://www.instagram.com/Raylina_beauty" data-network="instagram" aria-label="Instagram" target="_blank" rel="noopener">
+            <span class="ct-icon-container">
+              <svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true">
+                <circle cx="10" cy="10" r="3.3" />
+                <path d="M14.2,0H5.8C2.6,0,0,2.6,0,5.8v8.3C0,17.4,2.6,20,5.8,20h8.3c3.2,0,5.8-2.6,5.8-5.8V5.8C20,2.6,17.4,0,14.2,0zM10,15c-2.8,0-5-2.2-5-5s2.2-5,5-5s5,2.2,5,5S12.8,15,10,15z M15.8,5C15.4,5,15,4.6,15,4.2s0.4-0.8,0.8-0.8s0.8,0.4,0.8,0.8S16.3,5,15.8,5z" />
+              </svg>
+            </span><span class="ct-label" hidden="">Instagram</span> </a>
+
+          <a href="https://www.snapchat.com/add/sbeaury" data-network="snapchat" aria-label="Snapchat" target="_blank" rel="noopener">
+            <span class="ct-icon-container">
+              <svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
+                <path d="M10,0.5c-6,0-6,6-6,6v1c0,0,0,0-0.1,0C3.6,7.5,2,7.6,2,8.9c0,1.5,1.7,1.6,2,1.6c0,0,0,0,0,0c0,1-1.7,2.2-2.7,2.4C0.3,13.3,0,14,0,14.5c0,0.3,0.1,0.5,0.1,0.6c0.4,0.9,1.5,1.3,2.6,1.3c0,1.4,1.1,2,1.8,2c0.8,0,1.6-0.4,1.6-0.4c0,0,1.3,1.4,3.9,1.4s3.9-1.4,3.9-1.4c0,0,0.8,0.4,1.6,0.4c0.7,0,1.7-0.6,1.8-2c1.1,0,2.2-0.5,2.6-1.3c0-0.1,0.1-0.3,0.1-0.6c0-0.5-0.3-1.2-1.3-1.6c-1.1-0.3-2.7-1.4-2.7-2.4c0,0,0,0,0,0c0.3,0,2-0.1,2-1.6c0-1.3-1.6-1.4-1.9-1.4c0,0-0.1,0-0.1,0v-1C16,6.5,16,0.5,10,0.5L10,0.5z" />
+              </svg>
+            </span><span class="ct-label" hidden="">Snapchat</span> </a>
+
+          <a href="https://g.page/Raylina_beauty?share" data-network="tripadvisor" aria-label="TripAdvisor" target="_blank" rel="noopener">
+            <span class="ct-icon-container">
+              <svg width="20px" height="20px" viewBox="0 0 20 20" aria-hidden="true">
+                <path d="M5.9 10.7c0 .4-.4.8-.8.8s-.8-.4-.8-.8.4-.8.8-.8.8.3.8.8zm1.7 0c0 1.3-1.1 2.4-2.4 2.4S2.7 12 2.7 10.7c0-1.3 1.1-2.4 2.4-2.4s2.5 1 2.5 2.4zm-.9 0c0-.9-.7-1.6-1.6-1.6-.9 0-1.6.7-1.6 1.6 0 .9.7 1.6 1.6 1.6.9 0 1.6-.7 1.6-1.6zm8.2-.8c-.4 0-.8.4-.8.8s.4.8.8.8.8-.4.8-.8c0-.5-.4-.8-.8-.8zm2.4.8c0 1.3-1.1 2.4-2.4 2.4s-2.4-1.1-2.4-2.4c0-1.3 1.1-2.4 2.4-2.4s2.4 1 2.4 2.4zm-.8 0c0-.9-.7-1.6-1.6-1.6-.9 0-1.6.7-1.6 1.6 0 .9.7 1.6 1.6 1.6.9 0 1.6-.7 1.6-1.6zm1.6 4.1c-2.1 1.7-5.2 1.3-6.9-.8l-.9 1.5c0 .1-.1.1-.1.1-.2.1-.4.1-.6-.1L8.7 14c-1.7 2.1-4.7 2.5-6.9.8-2-1.7-2.4-4.8-.8-6.9-.1-.5-.4-1-.7-1.4 0-.1-.1-.2-.1-.3 0-.2.2-.4.4-.4h3.1c3.9-2.2 8.7-2.2 12.6 0h3.1c.1 0 .2 0 .3.1.2.1.2.4 0 .6-.3.4-.6.9-.8 1.4 1.7 2.1 1.3 5.2-.8 6.9zm-8.9-4.1c0-2.2-1.8-4.1-4.1-4.1h-1C2.3 7.1 1 8.8 1 10.7c0 2.2 1.9 4 4.1 4 2.3.1 4.1-1.8 4.1-4zm6.6-4h-.2c-.2 0-.5-.1-.7-.1-2.2 0-4 1.7-4.1 3.9 0 .7.2 1.4.5 2.1.1.1.1.2.2.3.8 1.1 2 1.8 3.4 1.8 1.9 0 3.5-1.3 3.9-3.1.5-2.1-.8-4.3-3-4.9z" />
+              </svg>
+            </span><span class="ct-label" hidden="">TripAdvisor</span> </a>
 
 
         </div>
-        <div data-id="widget-area-1"></div>
+
+
       </div>
+      <div data-id="widget-area-1"></div>
     </div>
-    <a href="#main-container" class="ct-back-to-top ct-hidden-sm" data-shape="square" data-alignment="right" title="Aller en haut" aria-label="Aller en haut">
+  </div>
+  <a href="#main-container" class="ct-back-to-top ct-hidden-sm" data-shape="square" data-alignment="right" title="Aller en haut" aria-label="Aller en haut">
 
-      <svg class="ct-icon" width="15" height="15" viewBox="0 0 20 20">
-        <path d="M10,0L9.4,0.6L0.8,9.1l1.2,1.2l7.1-7.1V20h1.7V3.3l7.1,7.1l1.2-1.2l-8.5-8.5L10,0z" />
-      </svg> </a>
+    <svg class="ct-icon" width="15" height="15" viewBox="0 0 20 20">
+      <path d="M10,0L9.4,0.6L0.8,9.1l1.2,1.2l7.1-7.1V20h1.7V3.3l7.1,7.1l1.2-1.2l-8.5-8.5L10,0z" />
+    </svg> </a>
 
- 
-  
-  
-   
+
+
+
+
   </div>
   </header>
   <main id="main" class="site-main hfeed">
@@ -1233,7 +1109,7 @@
 
   </main>
 
-  
+
 
   <script>
     requestAnimationFrame(() => document.body.classList.add("stk--anim-init"))
