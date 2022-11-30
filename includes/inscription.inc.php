@@ -46,7 +46,7 @@
         else {
             $password = password_hash($password1, PASSWORD_DEFAULT);
 
-            $requete = "INSERT INTO utilisateurs (id_utilisateur, nom, prenom, mail, password)
+            $requete = "INSERT INTO client (id_client-, nom, prenom, mail, password)
             VALUES (NULL, '$nom', '$prenom', '$mail', '$password');";
 
             $queryInsert = new Sql();

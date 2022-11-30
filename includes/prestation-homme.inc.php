@@ -14,9 +14,17 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-       
-     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"></script>
-<script type="text/javascript" src="js/rgpd.js"></script>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+            integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+            crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+            integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+            crossorigin="anonymous"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"></script>
+        <script type="text/javascript" src="js/rgpd.js"></script>
 
 
 	
@@ -176,11 +184,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		
 <div class="hero-section" data-type="type-2" >
 			<figure>
-			<div class="ct-image-container"><img width="1918" height="1080" src="./assets/css/wp-content/uploads/2020/11/DSC08499-Copier.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="./assets/css/wp-content/uploads/2020/11/DSC08499-Copier.jpg 1918w, https://sbarber.fr/wp-content/uploads/2020/11/DSC08499-Copier-300x169.jpg 300w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1024x577.jpg 1024w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-768x432.jpg 768w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1536x865.jpg 1536w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1320x743.jpg 1320w" sizes="(max-width: 1918px) 100vw, 1918px" itemprop="image" /></div>	</figure>
+			<div class="ct-image-container"><img width="1918" height="1080" src="./assets/css/wp-content/uploads/2020/11/DSC08499-Copier.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="./assets/css/wp-content/uploads/2020/11/DSC08499-Copier.jpg 1918w, index.php?page/wp-content/uploads/2020/11/DSC08499-Copier-300x169.jpg 300w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1024x577.jpg 1024w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-768x432.jpg 768w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1536x865.jpg 1536w, ./assets/css//wp-content/uploads/2020/11/DSC08499-Copier-1320x743.jpg 1320w" sizes="(max-width: 1918px) 100vw, 1918px" itemprop="image" /></div>	</figure>
 	
 			<header class="entry-header ct-container-narrow">
 			<h1 class="page-title" title="Prestations Homme" itemprop="headline" >Prestations Homme</h1>
-			<nav class="ct-breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList" ><span class="first-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" ><meta itemprop="position" content="1"><a href="index.php?page=salon" itemprop="item" ><span itemprop="name" >Salon</s></span></a><meta itemprop="url" content="https://sbarber.fr/"/><svg class="separator" width="8" height="8" viewBox="0 0 8 8">
+			<nav class="ct-breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList" ><span class="first-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" ><meta itemprop="position" content="1"><a href="index.php?page=salon" itemprop="item" ><span itemprop="name" >Salon</s></span></a><meta itemprop="url" content="index.php?page"/><svg class="separator" width="8" height="8" viewBox="0 0 8 8">
 				<polygon points="2.5,0 6.9,4 2.5,8 "/>
 			</svg></span><span class="last-item" itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" ><meta itemprop="position" content="2"><span itemprop="name" >Prestations Homme</span><meta itemprop="url" content="https://raylinabeauty.business.site/"/></span>		
 			</nav>
@@ -191,6 +199,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 	<div
+	
 		class="ct-container-full"
 				data-content="normal"		data-vertical-spacing="top:bottom">
 
@@ -212,13 +221,33 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 <div class="wp-block-getwid-accordion has-icon-left" data-active-element="0">
-<div class="wp-block-getwid-accordion__header-wrapper"><h5 class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">Coiffure &amp; Barbe</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></h5></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content">
-<div class="wp-block-uagb-advanced-heading uagb-block-9a694e88 uagb-heading-text"><h2 class="uagb-heading-text">Coiffure &amp; barbe</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
-
-
+<div class="wp-block-getwid-accordion__header-wrapper">
+	<h5 class="wp-block-getwid-accordion__header"><a href="#">
+		<span class="wp-block-getwid-accordion__header-title">Coiffure &amp; Barbe</span>
+		<span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span>
+		<span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></h5></div>
+		<div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content">
+<div class="wp-block-uagb-advanced-heading uagb-block-9a694e88 uagb-heading-text">
+	<h2 class="uagb-heading-text">Coiffure &amp; barbe</h2><div class="uagb-separator-wrap">
+		<div class="uagb-separator"></div>
+	</div>
+	<p class="uagb-desc-text"></p></div>
 
 <div class="wp-block-uagb-restaurant-menu uagb-rest_menu__outer-wrap uagb-block-0c7df703">
-<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rest_menu__outer-wrap uagb-block-f0b4e023"><div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rm__content"><div class="uagb-rm__text-wrap"><div class="uagb-rm-details"><div class="uagb-rm__title-wrap"><h4 class="uagb-rm__title">Coupe</h4><div class="uagb-rest-menu-text-wrap"><div class="uagb-rm__desc">Shampoing et brushing inclus</div></div></div><div class="uagb-rm__price-wrap"><span class="uagb-rm__price">20€</span></div></div></div></div><div class="uagb-rm__separator-parent"><div class="uagb-rm__separator"></div></div></div></div></div>
+<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
+	<div class="uagb-rest_menu__outer-wrap uagb-block-f0b4e023">
+		<div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
+			<div class="uagb-rm__content">
+				<div class="uagb-rm__text-wrap">
+					<div class="uagb-rm-details">
+						<div class="uagb-rm__title-wrap">
+							<h4 class="uagb-rm__title">Coupe</h4>
+							<div class="uagb-rest-menu-text-wrap">
+								<div class="uagb-rm__desc">Shampoing et brushing inclus</div></div></div>
+								<div class="uagb-rm__price-wrap"><span class="uagb-rm__price">20€</span></div>
+							</div></div></div><div class="uagb-rm__separator-parent"><div class="uagb-rm__separator">
+
+							</div></div></div></div></div>
 
 
 
@@ -268,75 +297,21 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 
-<div class="wp-block-getwid-accordion__header-wrapper">
-	<h5 class="wp-block-getwid-accordion__header">
-		<a href="#"><span class="wp-block-getwid-accordion__header-title">Cire &amp; Fil</span>
-		<span class="wp-block-getwid-accordion__icon is-active">
-			<i class="fas fa-plus">
-</i></span><span class="wp-block-getwid-accordion__icon is-passive">
-			<i class="fas fa-minus"></i></span></a></h5></div>
-			<div class="wp-block-getwid-accordion__content-wrapper">
-				<div class="wp-block-getwid-accordion__content">
-<div class="wp-block-uagb-advanced-heading uagb-block-26c4a52c uagb-heading-text"><h2 class="uagb-heading-text">Cire &amp; fil</h2><div class="uagb-separator-wrap">
-	<div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<div class="wp-block-getwid-accordion__header-wrapper"><h5 class="wp-block-getwid-accordion__header"><a href="#"><span class="wp-block-getwid-accordion__header-title">Cire &amp; Fil</span><span class="wp-block-getwid-accordion__icon is-active"><i class="fas fa-plus"></i></span><span class="wp-block-getwid-accordion__icon is-passive"><i class="fas fa-minus"></i></span></a></h5></div><div class="wp-block-getwid-accordion__content-wrapper"><div class="wp-block-getwid-accordion__content">
+<div class="wp-block-uagb-advanced-heading uagb-block-26c4a52c uagb-heading-text"><h2 class="uagb-heading-text">Cire &amp; fil</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
 
 
 
 <div class="wp-block-uagb-restaurant-menu uagb-rest_menu__outer-wrap uagb-block-10a8c65b">
-<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
-	<div class="uagb-rest_menu__outer-wrap uagb-block-49b01b36"><div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
-		<div class="uagb-rm__content">
-			<div class="uagb-rm__text-wrap">
-				<div class="uagb-rm-details">
-					<div class="uagb-rm__title-wrap">
-						<h4 class="uagb-rm__title">Structuration sourcils</h4>
-						<div class="uagb-rest-menu-text-wrap">
-							<div class="uagb-rm__desc">au fil ou à la cire</div>
-						</div></div>
-						<div class="uagb-rm__price-wrap">
-							<span class="uagb-rm__price">8€</span></div>
-						</div></div></div>
-						<div class="uagb-rm__separator-parent">
-							<div class="uagb-rm__separator">
-
-							</div></div></div></div></div>
+<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rest_menu__outer-wrap uagb-block-49b01b36"><div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rm__content"><div class="uagb-rm__text-wrap"><div class="uagb-rm-details"><div class="uagb-rm__title-wrap"><h4 class="uagb-rm__title">Structuration sourcils</h4><div class="uagb-rest-menu-text-wrap"><div class="uagb-rm__desc">au fil ou à la cire</div></div></div><div class="uagb-rm__price-wrap"><span class="uagb-rm__price">8€</span></div></div></div></div><div class="uagb-rm__separator-parent"><div class="uagb-rm__separator"></div></div></div></div></div>
 
 
 
-<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
-	<div class="uagb-rest_menu__outer-wrap uagb-block-b691780b"><div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
-		<div class="uagb-rm__content">
-			<div class="uagb-rm__text-wrap">
-				<div class="uagb-rm-details">
-					<div class="uagb-rm__title-wrap">
-						<h4 class="uagb-rm__title">Traçage barbe</h4>
-						<div class="uagb-rest-menu-text-wrap">
-							<div class="uagb-rm__desc">au fil ou à la cire</div>
-						</div></div>
-						<div class="uagb-rm__price-wrap">
-							<span class="uagb-rm__price">15€</span></div>
-						</div></div></div><div class="uagb-rm__separator-parent">
-							<div class="uagb-rm__separator"></div>
-						</div>
-					</div></div></div>
+<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rest_menu__outer-wrap uagb-block-b691780b"><div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rm__content"><div class="uagb-rm__text-wrap"><div class="uagb-rm-details"><div class="uagb-rm__title-wrap"><h4 class="uagb-rm__title">Traçage barbe</h4><div class="uagb-rest-menu-text-wrap"><div class="uagb-rm__desc">au fil ou à la cire</div></div></div><div class="uagb-rm__price-wrap"><span class="uagb-rm__price">15€</span></div></div></div></div><div class="uagb-rm__separator-parent"><div class="uagb-rm__separator"></div></div></div></div></div>
 
 
 
-<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
-	<div class="uagb-rest_menu__outer-wrap uagb-block-57fbb670">
-		<div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
-			<div class="uagb-rm__content">
-				<div class="uagb-rm__text-wrap">
-					<div class="uagb-rm-details">
-						<div class="uagb-rm__title-wrap">
-							<h4 class="uagb-rm__title">Epilation nez et oreilles</h4>
-							<div class="uagb-rest-menu-text-wrap">
-								<div class="uagb-rm__desc"></div>
-							</div></div><div class="uagb-rm__price-wrap">
-								<span class="uagb-rm__price">10€</span></div>
-							</div></div></div><div class="uagb-rm__separator-parent">
-								<div class="uagb-rm__separator"></div>
-							</div></div></div></div>
+<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rest_menu__outer-wrap uagb-block-57fbb670"><div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rm__content"><div class="uagb-rm__text-wrap"><div class="uagb-rm-details"><div class="uagb-rm__title-wrap"><h4 class="uagb-rm__title">Epilation nez et oreilles</h4><div class="uagb-rest-menu-text-wrap"><div class="uagb-rm__desc"></div></div></div><div class="uagb-rm__price-wrap"><span class="uagb-rm__price">10€</span></div></div></div></div><div class="uagb-rm__separator-parent"><div class="uagb-rm__separator"></div></div></div></div></div>
 </div>
 </div></div>
 
@@ -530,55 +505,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 
-<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
-	<div class="uagb-rest_menu__outer-wrap uagb-block-99983e15">
-		<div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
-			<div class="uagb-rm__content"><div class="uagb-rm__text-wrap">
-				<div class="uagb-rm-details">
-					<div class="uagb-rm__title-wrap">
-					<h4 class="uagb-rm__title">Coloration de barbe</h4>
-					<div class="uagb-rest-menu-text-wrap">
-						<div class="uagb-rm__desc">
-
-					</div>
-				</div>
-			</div>
-			<div class="uagb-rm__price-wrap">
-				<span class="uagb-rm__price">+ 15€</span>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="uagb-rm__separator-parent">
-	<div class="uagb-rm__separator">
-		
-	</div></div></div></div></div>
+<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rest_menu__outer-wrap uagb-block-99983e15"><div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rm__content"><div class="uagb-rm__text-wrap"><div class="uagb-rm-details"><div class="uagb-rm__title-wrap"><h4 class="uagb-rm__title">Coloration de barbe</h4><div class="uagb-rest-menu-text-wrap"><div class="uagb-rm__desc"></div></div></div><div class="uagb-rm__price-wrap"><span class="uagb-rm__price">+ 15€</span></div></div></div></div><div class="uagb-rm__separator-parent"><div class="uagb-rm__separator"></div></div></div></div></div>
 
 
 
-<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
-	<div class="uagb-rest_menu__outer-wrap uagb-block-0241a99e">
-		<div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 ">
-			<div class="uagb-rm__content"><div class="uagb-rm__text-wrap">
-				<div class="uagb-rm-details"><div class="uagb-rm__title-wrap">
-					<h4 class="uagb-rm__title">masque supplémentaire</h4
-					><div class="uagb-rest-menu-text-wrap"><div class="uagb-rm__desc">
-
-					</div></div></div>
-					<div class="uagb-rm__price-wrap">
-						<span class="uagb-rm__price">+ 8€</span>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="uagb-rm__separator-parent">
-	<div class="uagb-rm__separator">
-
-</div>
-</div>
-</div>
-</div>
-</div>
+<div class="uagb-rest_menu__wrap uagb-rest_menu_repeater  uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rest_menu__outer-wrap uagb-block-0241a99e"><div class=" uagb-rm__align-left uagb-rm__desk-column-1 uagb-rm__tablet-column-2 uagb-rm__mobile-column-1 "><div class="uagb-rm__content"><div class="uagb-rm__text-wrap"><div class="uagb-rm-details"><div class="uagb-rm__title-wrap"><h4 class="uagb-rm__title">masque supplémentaire</h4><div class="uagb-rest-menu-text-wrap"><div class="uagb-rm__desc"></div></div></div><div class="uagb-rm__price-wrap"><span class="uagb-rm__price">+ 8€</span></div></div></div></div><div class="uagb-rm__separator-parent"><div class="uagb-rm__separator"></div></div></div></div></div>
 </div>
 </div>
 </div>

@@ -3,8 +3,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"></script>
-        <script type="text/javascript" src="js/rgpd.js"></script><?php 
+
+      
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"></script>
+        <script type="text/javascript" src="js/rgpd.js"></script>
+<?php 
 
 $querySelect = new Sql();
 $requete = "SELECT * FROM `admin-salon` ;";
@@ -48,7 +51,7 @@ if(isset($_POST["frmLogin"]))
                      $requetec = "SELECT * FROM `client` where nom='$username' ;";
                      $usersc = $querySelect->lister($requetec);
                     // var_dump($requetec);
-                     if(!count($usersc)){
+                     if(!count($usersa)){
                         
                         include './includes/frmInscription.php';
                                         }else{
@@ -65,8 +68,8 @@ if(isset($_POST["frmLogin"]))
 //        echo "Ton identifiant et mot de passe ne sont pas accord !";
  //       header('Location: index.php?page=login');
  
-    //echo "Je ne viens pas du formulaire";
-/*     $mail = ""; */
+    echo "Je ne viens pas du formulaire";
+    $mail = ""; 
 include './includes/frmLogin.php';
 
     }
@@ -74,7 +77,7 @@ include './includes/frmLogin.php';
 
 
 
-?> <div id="bandeau_cookie" class="cookie_deactivate">
+?><div id="bandeau_cookie" class="cookie_deactivate">
 <div class="row">
     <div class="col-md-12 col-xs-12 cookie_spacer">
         <span class="cookie_text">Ce site utilise des cookies afin que vous puissiez avoir la meilleure expérience
@@ -149,3 +152,4 @@ aria-hidden="true">
     </div>
 </div>
 </div>
+    
