@@ -44,23 +44,34 @@
         }
 
         else {
-            $password = password_hash($password1, PASSWORD_DEFAULT);
-
-            $requete = "INSERT INTO client (id_client, nom, prenom, email, password)
+            //$password = password_hash($password1, PASSWORD_DEFAULT);
+            $password = $password1;
+            $client = "INSERT INTO client (id_client, nom, prenom, email, mot_de_passe)
             VALUES (NULL, '$nom', '$prenom', '$mail', '$password');";
-           // var_dump($requete);
-            $queryInsert = new Sql();
-            $queryInsert->inserer($requete);
+            $requete = "select * from client where nom='$nom'";
+            //var_dump($requete);
+            //var_dump("Im here");
+            $clientInsert = new Sql();
+            $user = $clientInsert->lister($requete);
 
+            if (count($user)){
+                echo "Il y a déja l'utilisateur, vous pouvez login !";
+                header('Location:./index.php?page=login');
+            } else {
+                $clientInsert->inserer($client);
+                header('Location:./index.php?page=login');
+            }
+
+/* 
             $querySelect = new Sql();
             $requetec = "SELECT * FROM `client` where nom='$nom' ;";
             $usersc = $querySelect->lister($requetec);
             echo "le resultat est ";
-            var_dump(password_verify($password,$usersc[0]['password']));
-            //header('Location:./index.php?page=login');
-
+            var_dump(password_verify($password,$usersc[0]['password'])); */
+            
             // displayMessage("Requête OK");
-            }
+        }
+        //header('Location:./index.php?page=login');
         }
     
     

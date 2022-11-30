@@ -1,13 +1,13 @@
 <?php
 $querySelect = new Sql();
-$requete = "SELECT * FROM `planning` ;";
+$requete = "SELECT * FROM `planning` where Client_id_client is null;";
 $RDV = $querySelect->lister($requete);
 //var_dump($RDV[0]['date']);
 
 $tblQuery = new Sql();
 $requeteEmp = "SELECT * from service ser
                                  join planning pl 
-                                 where ser.id_service = pl.Service_id_Service";
+                                 where ser.id_service = pl.Service_id_Service and pl.Client_id_client is null;" ;
 $tblService = $tblQuery->lister($requeteEmp);
 //var_dump($tblService[0]['nom_service']);
 //var_dump($tblService[0]['id_service']);

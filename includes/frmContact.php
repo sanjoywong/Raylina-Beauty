@@ -31,7 +31,7 @@
                 </div>
             </div>
 
-            <div id="container" style="width:50%;position:relative;top: 15%;left: 25%;margin-top: 2%;margin-bottom: 18%;">
+            <div id="container" style="width:50%;position:relative;top: 15%;left: 25%;margin-top: 2%;margin-bottom: 18%;border-radius: 30px;">
                 <form action="index.php?page=contat" method="post">
                     <label for="name">Name:*</label><br> <input type="text" name="name" required><br><br>
                     <label for="email">Email:*</label><br> <input type="text" name="email" required><br><br>

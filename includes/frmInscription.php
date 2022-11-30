@@ -1,7 +1,7 @@
 <body class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage">
-    <div id="container" style="width:50%;position:relative;top: 15%;left: 25%;margin-top: 2%;margin-bottom: 18%;">
+    <div id="container" style="width:50%;position:relative;top: 25%;left: 25%;margin-top: 11%;margin-bottom: 6%;border-radius: 30px;padding:40px 80px;">
         
-        
+    
         <form action="index.php?page=inscription" method="post">
             <h3>Inscrivez-vous ! </h3>
             <div>
