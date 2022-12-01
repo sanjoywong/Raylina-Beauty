@@ -39,7 +39,7 @@ if (isset($_POST["frmLogin"])) {
         $usersa = $querySelect->lister($requetea);
         //var_dump($requetea);
         if (count($usersa)) {
-            if ($password==$usersa[0]['password']) {
+            if ($password==$usersa[0]['mot_de_passe']) {
                 $_SESSION['loginUser'] = $username;
                 $_SESSION['type'] = "admin";
                 echo "$username Bienvenue à Raylina Beauty!";
