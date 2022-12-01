@@ -19,6 +19,6 @@
      ?>
      
       
-<style>body{width: 80%;margin-left: 10%;}</style>
+     <style>body{width: 80%;margin-left: 10%;}</style>
 </head>
     
