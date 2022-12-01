@@ -42,8 +42,8 @@ $tblQuery = $querySelect->lister($requete);
             <td colspan="5">
                 <div id="footTable">
                     <div>
-                        <input type="reset" value="Effacer" />
-                        <input type="submit" value="Update" />
+                        <input type="reset" value="Effacer" style="padding: 10px 60px;border-radius: 20px;background:#eece2e;font-size: 15px;color:#0f66e0;border:none;font:fontFamily"/>
+                        <input type="submit" value="Update" style="padding: 4px 60px;border-radius: 20px;"/>
                     </div>
                 </div>
             </td>

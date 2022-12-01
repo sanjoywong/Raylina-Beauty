@@ -1,3 +1,12 @@
+<link rel="stylesheet" href="css/rgpd.css">
+	<link rel="stylesheet" href="css/rgpd.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+      
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/js/iziToast.min.js"></script>
+        <script type="text/javascript" src="js/rgpd.js"></script>
 <?php
 
 $querySelect = new Sql();
@@ -30,7 +39,7 @@ if (isset($_POST["frmLogin"])) {
         $usersa = $querySelect->lister($requetea);
         //var_dump($requetea);
         if (count($usersa)) {
-            if ($password==$usersa[0]['password']) {
+            if ($password==$usersa[0]['mot_de_passe']) {
                 $_SESSION['loginUser'] = $username;
                 $_SESSION['type'] = "admin";
                 echo "$username Bienvenue à Raylina Beauty!";
