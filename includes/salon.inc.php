@@ -266,7 +266,7 @@
         </div>
         </div>
 
-        <div  class="ptpx-4" style="padding: 40px; ">
+        <div  class="pt-4 px-4">
             <h4 class="has-text-align-center has-text-color" style="color:#000000">Creer en 2019 salon de beaute ,cosmetique et soins</h4>
             <p>Se faire beau ou belle est très important pour la confiance en soi.
                 En effet lorsqu’on se sent beau, belle, nous sommes plus confiants et donc plus heureux.
