@@ -2934,3 +2934,51 @@ Stack trace:
 #3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
 #4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
 #5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Admin-salon_nom'='Raylina-beauty' where id_planning = ''' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('UPDATE planning...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\confirmerRDV.inc.php(18): Sql->inserer('UPDATE planning...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Admin-salon_nom'='Raylina-beauty' where id_planning = ''' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('UPDATE planning...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\confirmerRDV.inc.php(18): Sql->inserer('UPDATE planning...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Admin-salon_nom'='Raylina-beauty' where id_planning = ''' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('UPDATE planning...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\confirmerRDV.inc.php(18): Sql->inserer('UPDATE planning...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Admin-salon_nom'='Raylina-beauty' where id_planning = ''' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('UPDATE planning...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\confirmerRDV.inc.php(18): Sql->inserer('UPDATE planning...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Admin-salon_nom'='Raylina-beauty' where id_planning = ''' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('UPDATE planning...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\confirmerRDV.inc.php(18): Sql->inserer('UPDATE planning...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''Admin-salon_nom'='Raylina-beauty' where id_planning = ''' at line 1 in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('UPDATE planning...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\confirmerRDV.inc.php(18): Sql->inserer('UPDATE planning...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}

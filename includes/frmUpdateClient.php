@@ -11,45 +11,50 @@ $tblQuery = $querySelect->lister($requete);
 
 ?>
 
-<table>
-    <thead>
-        <tr>
-            <th id="nomTable" colspan="5">Edit Client</th>
-        </tr>
+<body class="home page-template-default page page-id-2172 wp-embed-responsive stk--is-blocksy-theme ct-loading" style="width:80%;margin-left:10%;background:white;" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+    <div class="d-flex justify-content-center">
 
-        <tr id="titreTable">
+        <table>
+            <thead>
+                <tr>
+                    <th id="nomTable" colspan="5">Edit Client</th>
+                </tr>
 
-            <th>nom</th>
-            <th>prénom</th>
-            <th>email</th>
-            <th>telephone</th>
-            <th>adresse</th>
-        </tr>
-    </thead>
-    <tbody>
+                <tr id="titreTable">
 
-        <form action="index.php?page=updateClient" method="post">
+                    <th>nom</th>
+                    <th>prénom</th>
+                    <th>email</th>
+                    <th>telephone</th>
+                    <th>adresse</th>
+                </tr>
+            </thead>
+            <tbody>
 
-            <td><input type="text" id="nom" name="nom" value="<?= $tblQuery[0]['nom'] ?>" /></td>
-            <td><input type="text" id="prenom" name="prenom" value="<?= $tblQuery[0]['prenom'] ?>" /></td>
-            <td><input type="text" id="email" name="email" value="<?= $tblQuery[0]['email'] ?>" /></td>
-            <td><input type="text" id="telephone" name="telephone" value="<?= $tblQuery[0]['Telephone'] ?>" /></td>
-            <td><input type="text" id="telephone" name="adresse" value="<?= $tblQuery[0]['Adresse'] ?>" /></td>
+                <form action="index.php?page=updateClient" method="post">
 
-    </tbody>
-    <tfoot>
-        <tr>
-            <td colspan="5">
-                <div id="footTable">
-                    <div>
-                        <input type="reset" value="Effacer" style="padding: 10px 60px;border-radius: 20px;background:#eece2e;font-size: 15px;color:#0f66e0;border:none;font:fontFamily"/>
-                        <input type="submit" value="Update" style="padding: 4px 60px;border-radius: 20px;"/>
-                    </div>
-                </div>
-            </td>
-        </tr>
-    </tfoot>
-    <input type="hidden" name="idclient" id="idclient" value=<?= $tblQuery[0]['id_client'] ?>>
-    <input type="hidden" name="frmUpdateClient" />
-    </form>
-</table>
+                    <td><input type="text" id="nom" name="nom" value="<?= $tblQuery[0]['nom'] ?>" /></td>
+                    <td><input type="text" id="prenom" name="prenom" value="<?= $tblQuery[0]['prenom'] ?>" /></td>
+                    <td><input type="text" id="email" name="email" value="<?= $tblQuery[0]['email'] ?>" /></td>
+                    <td><input type="text" id="telephone" name="telephone" value="<?= $tblQuery[0]['Telephone'] ?>" /></td>
+                    <td><input type="text" id="telephone" name="adresse" value="<?= $tblQuery[0]['Adresse'] ?>" /></td>
+
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="5">
+                        <div id="footTable">
+                            <div>
+                                <input type="reset" value="Effacer" style="padding: 10px 60px;border-radius: 20px;background:#eece2e;font-size: 15px;color:#0f66e0;border:none;font:fontFamily" />
+                                <input type="submit" value="Update" style="padding: 4px 60px;border-radius: 20px;" />
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tfoot>
+            <input type="hidden" name="idclient" id="idclient" value=<?= $tblQuery[0]['id_client'] ?>>
+            <input type="hidden" name="frmUpdateClient" />
+            </form>
+        </table>
+    </div>
+</body>
