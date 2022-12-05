@@ -2830,3 +2830,107 @@ Stack trace:
 #4 C:\xampp\htdocs\Raylina-Beauty-1\index.php(11): require_once('C:\\xampp\\htdocs...')
 #5 {main}
 >>>>>>> upstream/developpe
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(14): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(14): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(14): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(17): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(17): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(17): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(17): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(17): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(17): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(17): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(17): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(17): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`dbsalon`.`planning`, CONSTRAINT `fk_planning_Client1` FOREIGN KEY (`Client_id_client`) REFERENCES `client` (`id_client`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Raylina-Beauty\classes\Sql.php(24): PDO->exec('DELETE FROM cli...')
+#1 C:\xampp\htdocs\Raylina-Beauty\includes\supprimer.inc.php(17): Sql->inserer('DELETE FROM cli...')
+#2 C:\xampp\htdocs\Raylina-Beauty\functions\inclusionIncFile.php(13): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Raylina-Beauty\includes\main.php(8): inclusionIncFile('salon')
+#4 C:\xampp\htdocs\Raylina-Beauty\index.php(11): require_once('C:\\xampp\\htdocs...')
+#5 {main}

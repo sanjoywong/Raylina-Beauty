@@ -363,7 +363,7 @@
   <meta name="msapplication-TileImage" content="index.php?page=salon/wp-content/uploads/2020/10/cropped-lamaisonby-sbarber2-white-270x270.png" />
 </head>
 
-<body class="page-template-default page page-id-2044 wp-embed-responsive stk--is-blocksy-theme ct-loading" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<body class="page-template-default page page-id-2044 wp-embed-responsive stk--is-blocksy-theme ct-loading" style="width:80%;margin-left:10%" data-link="type-4" data-prefix="single_page" data-header="type-1:sticky" data-footer="type-1:reveal" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
   <a class="skip-link show-on-focus" href="#main">
     Passer au contenu</a>
