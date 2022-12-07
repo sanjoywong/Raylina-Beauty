@@ -12,7 +12,7 @@ if (isset($_POST['frmConfirmerRDV']) | isset($_GET['idP'])) {
 
 
 
-     $requete = "UPDATE planning set `Admin-salon_nom`='Raylina-beauty' where id_planning = '$id';";
+     $requete = "UPDATE planning set `confirmé`='1' where id_planning = '$id';";
    // dump($requete);
     $queryInsert = new Sql();
     $queryInsert->inserer($requete);

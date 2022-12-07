@@ -1,6 +1,6 @@
 
 <?php
-if (isset($_POST['frmAjouterPromotion'])){
+if (isset($_POST['frmAjouterPlaning'])){
 
   
 $nom_promotion =htmlentities(trim($_POST['nom_promotion']));
